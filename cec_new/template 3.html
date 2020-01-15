@@ -51,19 +51,7 @@
         word-break: break-word;
       }
     </style>
-    {%macro max_len(data)%} {{data.ref_authors|length}} {%endmacro%} {%macro
-    macro_paper(data)%}
-    <a
-      target="blank"
-      href="{{'https://socionet.ru/publication.xml?h=' + data.pub_id}}"
-    >
-      {{data.name}}
-    </a>
-    {%endmacro%} {%macro macro_author(data)%} {{data.author}} {%endmacro%}
-    {%macro macro_cits(data)%} {{data.cits}} {%endmacro%} {%macro
-    macro_pubs(data)%} {{data.pubs}} {%endmacro%} {%macro
-    macro_total_cits(data)%} {{data.total_cits}} {%endmacro%} {%macro
-    macro_total_pubs(data)%} {{data.total_pubs}} {%endmacro%}
+    
   </head>
   <body>
     <h1>
@@ -112,59 +100,18 @@
     <br />
 
     <div class="content">
-      <div class="index header">№</div>
-      <div class="header">paper</div>
-      <div class="header">3 authors</div>
-      <div class="header">cits</div>
-      <div class="header">pubs</div>
-      <div class="header">total cits</div>
-      <div class="header">total pubs</div>
 
-      {% for autor_info in data %}
-      <div class="index">
-        {{ loop.index }}
-      </div>
-      <div>
-        {{macro_paper(autor_info)}}
-      </div>
-      <div class="list">
-        {%for item in autor_info.ref_authors%}
-        <div class="cell">
-          {{macro_author(item)}}
-        </div>
-        {% endfor%}
-      </div class="list">
-      <div class="list">
-        {%for item in autor_info.ref_authors%}
-        <div class="cell">
-          {{macro_cits(item)}}
-        </div>
-        {% endfor%}
-      </div>
-      <div class="list">
-        {%for item in autor_info.ref_authors%}
-        <div class="cell">
-          {{macro_pubs(item)}}
-        </div>
-        {% endfor%}
-      </div>
-      <div class="list">
-        {%for item in autor_info.ref_authors%}
-        <div class="cell">
-          {{macro_total_cits(item)}}
-        </div>
+      {%for col in table.columns%}
+        <div class="index header">{{col.title}}</div>
+      {%endfor%}
 
-        {% endfor%}
-      </div>
-      <div class="list">
-        {%for item in autor_info.ref_authors%}
-        <div class="cell">
-          {{macro_total_pubs(item)}}
-        </div>
+      {%for item in data%}
+        {%for col in table.columns%}
+          {{col.get_template(item)}}
+        {%endfor%}
+      {%endfor%}
 
-        {% endfor%}
-      </div>
-      {% endfor %}
+
     </div>
 
     <br />
