@@ -10,7 +10,7 @@
     <style type="text/css">
       .content {
         display: grid;
-        grid-template-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto {%for col in table.columns%} auto {%endfor%};
         border-right: 1px solid gray;
         border-bottom: 1px solid gray;
         border-collapse: separate;
@@ -101,11 +101,13 @@
 
     <div class="content">
 
+      <div class="index header">№</div>
       {%for col in table.columns%}
-        <div class="index header">{{col.title}}</div>
+        <div class="header">{{col.title}}</div>
       {%endfor%}
 
       {%for item in data%}
+        <div>{{ loop.index }}</div>
         {%for col in table.columns%}
           {{col.get_template(item)}}
         {%endfor%}
