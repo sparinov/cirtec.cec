@@ -1,0 +1,137 @@
+[
+ {
+  "class_pos_neg": "positive",
+  "cocitauthors": [
+   {
+    "author": "Идрисов",
+    "count": 2
+   },
+   {
+    "author": "1ZQRVU",
+    "count": 1
+   },
+   {
+    "author": "28YyZR",
+    "count": 1
+   },
+   {
+    "author": "Alfaro",
+    "count": 1
+   },
+   {
+    "author": "Ball",
+    "count": 1
+   },
+   {
+    "author": "Crespo",
+    "count": 1
+   },
+   {
+    "author": "FDPZKP",
+    "count": 1
+   },
+   {
+    "author": "Fontoura",
+    "count": 1
+   },
+   {
+    "author": "Friedman",
+    "count": 1
+   },
+   {
+    "author": "Gertler",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "class_pos_neg": "neutral",
+  "cocitauthors": [
+   {
+    "author": "null",
+    "count": 17
+   },
+   {
+    "author": "IMF",
+    "count": 11
+   },
+   {
+    "author": "Auerbach",
+    "count": 6
+   },
+   {
+    "author": "Gale",
+    "count": 6
+   },
+   {
+    "author": "Orszag",
+    "count": 6
+   },
+   {
+    "author": "Bank",
+    "count": 4
+   },
+   {
+    "author": "Blanchard",
+    "count": 4
+   },
+   {
+    "author": "Burnside",
+    "count": 4
+   },
+   {
+    "author": "Oates",
+    "count": 4
+   },
+   {
+    "author": "Reinhart",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "class_pos_neg": "negative",
+  "cocitauthors": [
+   {
+    "author": "Идрисов",
+    "count": 2
+   },
+   {
+    "author": "7g3424",
+    "count": 1
+   },
+   {
+    "author": "Cardoso",
+    "count": 1
+   },
+   {
+    "author": "Garcia",
+    "count": 1
+   },
+   {
+    "author": "Goldfajn",
+    "count": 1
+   },
+   {
+    "author": "I8fq7P",
+    "count": 1
+   },
+   {
+    "author": "IEA",
+    "count": 1
+   },
+   {
+    "author": "JkV8sb",
+    "count": 1
+   },
+   {
+    "author": "OPEC",
+    "count": 1
+   },
+   {
+    "author": "RoL0jS",
+    "count": 1
+   }
+  ]
+ }
+]

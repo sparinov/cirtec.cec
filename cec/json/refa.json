@@ -1,0 +1,7301 @@
+[
+ {
+  "author": "IMF",
+  "cits": 62,
+  "pubs": 7,
+  "total_cits": 474,
+  "total_pubs": 248,
+  "frags": {
+   "1": 32,
+   "2": 15,
+   "3": 14,
+   "4": 10
+  }
+ },
+ {
+  "author": "King",
+  "cits": 52,
+  "pubs": 5,
+  "total_cits": 202,
+  "total_pubs": 97,
+  "frags": {
+   "1": 1,
+   "2": 10,
+   "3": 34,
+   "4": 7
+  }
+ },
+ {
+  "author": "Baxter",
+  "cits": 43,
+  "pubs": 3,
+  "total_cits": 135,
+  "total_pubs": 54,
+  "frags": {
+   "1": 1,
+   "2": 8,
+   "3": 30,
+   "4": 4
+  }
+ },
+ {
+  "author": "Richardson",
+  "cits": 38,
+  "pubs": 6,
+  "total_cits": 65,
+  "total_pubs": 19,
+  "frags": {
+   "2": 15,
+   "4": 20,
+   "1": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Romer",
+  "cits": 36,
+  "pubs": 6,
+  "total_cits": 653,
+  "total_pubs": 351,
+  "frags": {
+   "1": 27,
+   "2": 5,
+   "3": 4
+  }
+ },
+ {
+  "author": "Giorno",
+  "cits": 34,
+  "pubs": 6,
+  "total_cits": 61,
+  "total_pubs": 17,
+  "frags": {
+   "2": 11,
+   "4": 20,
+   "1": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Казакова",
+  "cits": 31,
+  "pubs": 9,
+  "total_cits": 56,
+  "total_pubs": 34,
+  "frags": {
+   "4": 10,
+   "5": 12,
+   "1": 5,
+   "3": 3,
+   "2": 1
+  }
+ },
+ {
+  "author": "Cecchetti",
+  "cits": 31,
+  "pubs": 7,
+  "total_cits": 62,
+  "total_pubs": 22,
+  "frags": {
+   "1": 31
+  }
+ },
+ {
+  "author": "Mankiw",
+  "cits": 31,
+  "pubs": 7,
+  "total_cits": 481,
+  "total_pubs": 239,
+  "frags": {
+   "1": 25,
+   "2": 4,
+   "3": 2
+  }
+ },
+ {
+  "author": "Zhang",
+  "cits": 31,
+  "pubs": 4,
+  "total_cits": 56,
+  "total_pubs": 10,
+  "frags": {
+   "1": 16,
+   "3": 12,
+   "2": 3
+  }
+ },
+ {
+  "author": "Noord",
+  "cits": 30,
+  "pubs": 6,
+  "total_cits": 57,
+  "total_pubs": 15,
+  "frags": {
+   "2": 11,
+   "4": 16,
+   "1": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Roseveare",
+  "cits": 30,
+  "pubs": 6,
+  "total_cits": 57,
+  "total_pubs": 15,
+  "frags": {
+   "2": 11,
+   "4": 16,
+   "1": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Mark",
+  "cits": 28,
+  "pubs": 4,
+  "total_cits": 31,
+  "total_pubs": 5,
+  "frags": {
+   "1": 28
+  }
+ },
+ {
+  "author": "Conn",
+  "cits": 28,
+  "pubs": 2,
+  "total_cits": 28,
+  "total_pubs": 2,
+  "frags": {
+   "1": 16,
+   "3": 12
+  }
+ },
+ {
+  "author": "Sinelnikov-Murylev",
+  "cits": 27,
+  "pubs": 5,
+  "total_cits": 32,
+  "total_pubs": 26,
+  "frags": {
+   "1": 9,
+   "3": 8,
+   "4": 10,
+   "5": 2,
+   "2": 2
+  }
+ },
+ {
+  "author": "Parsley",
+  "cits": 26,
+  "pubs": 4,
+  "total_cits": 32,
+  "total_pubs": 8,
+  "frags": {
+   "1": 24,
+   "2": 2
+  }
+ },
+ {
+  "author": "Wei",
+  "cits": 26,
+  "pubs": 4,
+  "total_cits": 32,
+  "total_pubs": 8,
+  "frags": {
+   "1": 24,
+   "2": 2
+  }
+ },
+ {
+  "author": "Barro",
+  "cits": 25,
+  "pubs": 7,
+  "total_cits": 957,
+  "total_pubs": 524,
+  "frags": {
+   "1": 10,
+   "2": 4,
+   "3": 15
+  }
+ },
+ {
+  "author": "Oates",
+  "cits": 24,
+  "pubs": 3,
+  "total_cits": 220,
+  "total_pubs": 101,
+  "frags": {
+   "1": 17,
+   "2": 6,
+   "4": 1
+  }
+ },
+ {
+  "author": "Глущенко",
+  "cits": 24,
+  "pubs": 2,
+  "total_cits": 31,
+  "total_pubs": 6,
+  "frags": {
+   "1": 4,
+   "2": 10,
+   "3": 8,
+   "4": 2
+  }
+ },
+ {
+  "author": "Синельников-Мурылев",
+  "cits": 23,
+  "pubs": 11,
+  "total_cits": 43,
+  "total_pubs": 39,
+  "frags": {
+   "1": 18,
+   "3": 1,
+   "5": 7
+  }
+ },
+ {
+  "author": "Johnson",
+  "cits": 22,
+  "pubs": 8,
+  "total_cits": 276,
+  "total_pubs": 164,
+  "frags": {
+   "1": 15,
+   "2": 3,
+   "3": 4
+  }
+ },
+ {
+  "author": "Weil",
+  "cits": 22,
+  "pubs": 4,
+  "total_cits": 433,
+  "total_pubs": 217,
+  "frags": {
+   "1": 16,
+   "2": 4,
+   "3": 2
+  }
+ },
+ {
+  "author": "Mirrlees",
+  "cits": 22,
+  "pubs": 2,
+  "total_cits": 182,
+  "total_pubs": 85,
+  "frags": {
+   "1": 20,
+   "2": 2
+  }
+ },
+ {
+  "author": "Blanchard",
+  "cits": 19,
+  "pubs": 10,
+  "total_cits": 392,
+  "total_pubs": 189,
+  "frags": {
+   "1": 3,
+   "2": 10,
+   "5": 4,
+   "4": 2
+  }
+ },
+ {
+  "author": "Трунин",
+  "cits": 19,
+  "pubs": 7,
+  "total_cits": 26,
+  "total_pubs": 21,
+  "frags": {
+   "1": 8,
+   "5": 8,
+   "4": 3
+  }
+ },
+ {
+  "author": "Kazakova",
+  "cits": 18,
+  "pubs": 8,
+  "total_cits": 21,
+  "total_pubs": 13,
+  "frags": {
+   "4": 5,
+   "1": 13
+  }
+ },
+ {
+  "author": "Robert",
+  "cits": 18,
+  "pubs": 3,
+  "total_cits": 18,
+  "total_pubs": 4,
+  "frags": {
+   "1": 14,
+   "2": 3,
+   "4": 1
+  }
+ },
+ {
+  "author": "Rodrik",
+  "cits": 17,
+  "pubs": 6,
+  "total_cits": 198,
+  "total_pubs": 108,
+  "frags": {
+   "1": 9,
+   "2": 6,
+   "3": 2
+  }
+ },
+ {
+  "author": "Solow",
+  "cits": 16,
+  "pubs": 7,
+  "total_cits": 820,
+  "total_pubs": 468,
+  "frags": {
+   "1": 9,
+   "2": 3,
+   "3": 4
+  }
+ },
+ {
+  "author": "Идрисов",
+  "cits": 16,
+  "pubs": 7,
+  "total_cits": 30,
+  "total_pubs": 27,
+  "frags": {
+   "1": 6,
+   "4": 5,
+   "5": 8
+  }
+ },
+ {
+  "author": "Kotlikoff",
+  "cits": 16,
+  "pubs": 3,
+  "total_cits": 48,
+  "total_pubs": 35,
+  "frags": {
+   "2": 12,
+   "4": 6,
+   "5": 3,
+   "1": 4
+  }
+ },
+ {
+  "author": "Дробышевский",
+  "cits": 15,
+  "pubs": 7,
+  "total_cits": 28,
+  "total_pubs": 21,
+  "frags": {
+   "4": 2,
+   "5": 10,
+   "1": 3
+  }
+ },
+ {
+  "author": "Ladiray",
+  "cits": 15,
+  "pubs": 3,
+  "total_cits": 16,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5,
+   "2": 10
+  }
+ },
+ {
+  "author": "Mazzi",
+  "cits": 15,
+  "pubs": 3,
+  "total_cits": 16,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5,
+   "2": 10
+  }
+ },
+ {
+  "author": "Sartori",
+  "cits": 15,
+  "pubs": 3,
+  "total_cits": 16,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5,
+   "2": 10
+  }
+ },
+ {
+  "author": "Бессонов",
+  "cits": 15,
+  "pubs": 3,
+  "total_cits": 33,
+  "total_pubs": 6,
+  "frags": {
+   "4": 12,
+   "3": 4
+  }
+ },
+ {
+  "author": "Мау",
+  "cits": 15,
+  "pubs": 3,
+  "total_cits": 41,
+  "total_pubs": 19,
+  "frags": {
+   "1": 5,
+   "5": 26
+  }
+ },
+ {
+  "author": "Bond",
+  "cits": 14,
+  "pubs": 4,
+  "total_cits": 43,
+  "total_pubs": 27,
+  "frags": {
+   "2": 4,
+   "1": 10
+  }
+ },
+ {
+  "author": "Helpman",
+  "cits": 14,
+  "pubs": 4,
+  "total_cits": 50,
+  "total_pubs": 21,
+  "frags": {
+   "2": 10,
+   "3": 4
+  }
+ },
+ {
+  "author": "Nazarov",
+  "cits": 13,
+  "pubs": 7,
+  "total_cits": 16,
+  "total_pubs": 10,
+  "frags": {
+   "4": 7,
+   "2": 2,
+   "1": 4
+  }
+ },
+ {
+  "author": "Кадочников",
+  "cits": 13,
+  "pubs": 7,
+  "total_cits": 18,
+  "total_pubs": 14,
+  "frags": {
+   "1": 12,
+   "3": 1
+  }
+ },
+ {
+  "author": "Friedman",
+  "cits": 13,
+  "pubs": 6,
+  "total_cits": 301,
+  "total_pubs": 198,
+  "frags": {
+   "1": 10,
+   "5": 2,
+   "4": 1
+  }
+ },
+ {
+  "author": "Drobyshevsky",
+  "cits": 13,
+  "pubs": 5,
+  "total_cits": 20,
+  "total_pubs": 18,
+  "frags": {
+   "3": 8,
+   "4": 8,
+   "2": 2,
+   "1": 1
+  }
+ },
+ {
+  "author": "Reinhart",
+  "cits": 13,
+  "pubs": 4,
+  "total_cits": 244,
+  "total_pubs": 136,
+  "frags": {
+   "1": 3,
+   "3": 4,
+   "4": 5,
+   "5": 1
+  }
+ },
+ {
+  "author": "Quah",
+  "cits": 13,
+  "pubs": 3,
+  "total_cits": 154,
+  "total_pubs": 79,
+  "frags": {
+   "2": 9,
+   "5": 4
+  }
+ },
+ {
+  "author": "Richard",
+  "cits": 13,
+  "pubs": 3,
+  "total_cits": 13,
+  "total_pubs": 3,
+  "frags": {
+   "4": 1,
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Полбин",
+  "cits": 12,
+  "pubs": 6,
+  "total_cits": 36,
+  "total_pubs": 13,
+  "frags": {
+   "4": 3,
+   "5": 8,
+   "3": 1
+  }
+ },
+ {
+  "author": "Bird",
+  "cits": 12,
+  "pubs": 5,
+  "total_cits": 23,
+  "total_pubs": 14,
+  "frags": {
+   "2": 10,
+   "1": 3
+  }
+ },
+ {
+  "author": "Rother",
+  "cits": 12,
+  "pubs": 3,
+  "total_cits": 15,
+  "total_pubs": 11,
+  "frags": {
+   "1": 3,
+   "2": 6,
+   "3": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Adam",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Besley",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Blundell",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Ceglowski",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 19,
+  "total_pubs": 8,
+  "frags": {
+   "2": 12
+  }
+ },
+ {
+  "author": "Chote",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Diamond",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 62,
+  "total_pubs": 34,
+  "frags": {
+   "1": 12
+  }
+ },
+ {
+  "author": "Gammie",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Gareth",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Inman",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 23,
+  "total_pubs": 11,
+  "frags": {
+   "1": 6,
+   "2": 5,
+   "3": 1
+  }
+ },
+ {
+  "author": "James",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 20,
+   "2": 4
+  }
+ },
+ {
+  "author": "Malcolm",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Mitchell",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 86,
+  "total_pubs": 45,
+  "frags": {
+   "1": 8,
+   "3": 4
+  }
+ },
+ {
+  "author": "Myles",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Paul",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Stephen",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Stuart",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Tim",
+  "cits": 12,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "1": 10,
+   "2": 2
+  }
+ },
+ {
+  "author": "Stiglitz",
+  "cits": 11,
+  "pubs": 10,
+  "total_cits": 196,
+  "total_pubs": 145,
+  "frags": {
+   "1": 7,
+   "2": 4
+  }
+ },
+ {
+  "author": "Bank",
+  "cits": 11,
+  "pubs": 6,
+  "total_cits": 649,
+  "total_pubs": 344,
+  "frags": {
+   "2": 3,
+   "3": 5,
+   "1": 3
+  }
+ },
+ {
+  "author": "World",
+  "cits": 11,
+  "pubs": 6,
+  "total_cits": 649,
+  "total_pubs": 344,
+  "frags": {
+   "2": 3,
+   "3": 5,
+   "1": 3
+  }
+ },
+ {
+  "author": "Burns",
+  "cits": 11,
+  "pubs": 5,
+  "total_cits": 85,
+  "total_pubs": 45,
+  "frags": {
+   "2": 3,
+   "1": 4,
+   "3": 4
+  }
+ },
+ {
+  "author": "Perotti",
+  "cits": 11,
+  "pubs": 4,
+  "total_cits": 254,
+  "total_pubs": 124,
+  "frags": {
+   "3": 2,
+   "4": 10,
+   "1": 1,
+   "2": 6
+  }
+ },
+ {
+  "author": "Rodden",
+  "cits": 11,
+  "pubs": 1,
+  "total_cits": 64,
+  "total_pubs": 23,
+  "frags": {
+   "1": 4,
+   "2": 6,
+   "3": 1
+  }
+ },
+ {
+  "author": "Rogoff",
+  "cits": 10,
+  "pubs": 6,
+  "total_cits": 408,
+  "total_pubs": 214,
+  "frags": {
+   "1": 7,
+   "3": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Aizenman",
+  "cits": 10,
+  "pubs": 4,
+  "total_cits": 10,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3,
+   "2": 7
+  }
+ },
+ {
+  "author": "Altissimo",
+  "cits": 10,
+  "pubs": 4,
+  "total_cits": 10,
+  "total_pubs": 4,
+  "frags": {
+   "1": 2,
+   "5": 8
+  }
+ },
+ {
+  "author": "Benigno",
+  "cits": 10,
+  "pubs": 4,
+  "total_cits": 10,
+  "total_pubs": 4,
+  "frags": {
+   "1": 2,
+   "5": 8
+  }
+ },
+ {
+  "author": "Marques",
+  "cits": 10,
+  "pubs": 4,
+  "total_cits": 10,
+  "total_pubs": 4,
+  "frags": {
+   "1": 4,
+   "5": 6
+  }
+ },
+ {
+  "author": "Pino",
+  "cits": 10,
+  "pubs": 4,
+  "total_cits": 10,
+  "total_pubs": 4,
+  "frags": {
+   "1": 4,
+   "5": 6
+  }
+ },
+ {
+  "author": "Chagny",
+  "cits": 10,
+  "pubs": 2,
+  "total_cits": 10,
+  "total_pubs": 2,
+  "frags": {
+   "2": 8,
+   "4": 2
+  }
+ },
+ {
+  "author": "Döpke",
+  "cits": 10,
+  "pubs": 2,
+  "total_cits": 10,
+  "total_pubs": 2,
+  "frags": {
+   "2": 8,
+   "4": 2
+  }
+ },
+ {
+  "author": "Sato",
+  "cits": 10,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 4,
+  "frags": {
+   "2": 10
+  }
+ },
+ {
+  "author": "Кнобель",
+  "cits": 9,
+  "pubs": 6,
+  "total_cits": 14,
+  "total_pubs": 9,
+  "frags": {
+   "4": 5,
+   "1": 4
+  }
+ },
+ {
+  "author": "Sokolov",
+  "cits": 9,
+  "pubs": 5,
+  "total_cits": 13,
+  "total_pubs": 11,
+  "frags": {
+   "4": 8,
+   "5": 2,
+   "1": 1
+  }
+ },
+ {
+  "author": "Trunin",
+  "cits": 9,
+  "pubs": 5,
+  "total_cits": 12,
+  "total_pubs": 8,
+  "frags": {
+   "4": 3,
+   "3": 2,
+   "1": 4
+  }
+ },
+ {
+  "author": "Kydland",
+  "cits": 9,
+  "pubs": 4,
+  "total_cits": 136,
+  "total_pubs": 85,
+  "frags": {
+   "1": 4,
+   "2": 2,
+   "4": 3
+  }
+ },
+ {
+  "author": "Prescott",
+  "cits": 9,
+  "pubs": 4,
+  "total_cits": 136,
+  "total_pubs": 85,
+  "frags": {
+   "1": 4,
+   "2": 2,
+   "4": 3
+  }
+ },
+ {
+  "author": "Rebelo",
+  "cits": 9,
+  "pubs": 4,
+  "total_cits": 67,
+  "total_pubs": 43,
+  "frags": {
+   "3": 4,
+   "2": 2,
+   "4": 3
+  }
+ },
+ {
+  "author": "Auerbach",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 30,
+  "total_pubs": 19,
+  "frags": {
+   "2": 9,
+   "3": 12
+  }
+ },
+ {
+  "author": "Burnside",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 19,
+  "total_pubs": 13,
+  "frags": {
+   "2": 9
+  }
+ },
+ {
+  "author": "Gale",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 12,
+  "total_pubs": 6,
+  "frags": {
+   "2": 6,
+   "3": 6
+  }
+ },
+ {
+  "author": "Horne",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 19,
+  "total_pubs": 9,
+  "frags": {
+   "1": 3,
+   "2": 3,
+   "3": 3
+  }
+ },
+ {
+  "author": "Jinjarak",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 3,
+  "frags": {
+   "1": 3,
+   "2": 6
+  }
+ },
+ {
+  "author": "Keen",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 27,
+  "total_pubs": 17,
+  "frags": {
+   "1": 6,
+   "2": 3
+  }
+ },
+ {
+  "author": "Orszag",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 12,
+  "total_pubs": 6,
+  "frags": {
+   "2": 6,
+   "3": 6
+  }
+ },
+ {
+  "author": "Schneider",
+  "cits": 9,
+  "pubs": 3,
+  "total_cits": 86,
+  "total_pubs": 35,
+  "frags": {
+   "2": 3,
+   "3": 6
+  }
+ },
+ {
+  "author": "Hagen",
+  "cits": 9,
+  "pubs": 2,
+  "total_cits": 21,
+  "total_pubs": 12,
+  "frags": {
+   "1": 7,
+   "3": 2
+  }
+ },
+ {
+  "author": "Clements",
+  "cits": 8,
+  "pubs": 7,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 3,
+   "3": 5
+  }
+ },
+ {
+  "author": "Gupta",
+  "cits": 8,
+  "pubs": 7,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 3,
+   "3": 5
+  }
+ },
+ {
+  "author": "Robinson",
+  "cits": 8,
+  "pubs": 7,
+  "total_cits": 232,
+  "total_pubs": 140,
+  "frags": {
+   "4": 3,
+   "2": 1,
+   "3": 2,
+   "1": 2
+  }
+ },
+ {
+  "author": "Samuelson",
+  "cits": 8,
+  "pubs": 6,
+  "total_cits": 105,
+  "total_pubs": 63,
+  "frags": {
+   "1": 6,
+   "4": 2
+  }
+ },
+ {
+  "author": "Idrisov",
+  "cits": 8,
+  "pubs": 4,
+  "total_cits": 8,
+  "total_pubs": 6,
+  "frags": {
+   "5": 2,
+   "1": 2,
+   "2": 2,
+   "3": 2
+  }
+ },
+ {
+  "author": "Knobel",
+  "cits": 8,
+  "pubs": 4,
+  "total_cits": 9,
+  "total_pubs": 7,
+  "frags": {
+   "4": 4,
+   "5": 2,
+   "2": 2
+  }
+ },
+ {
+  "author": "Levin",
+  "cits": 8,
+  "pubs": 4,
+  "total_cits": 29,
+  "total_pubs": 14,
+  "frags": {
+   "1": 8
+  }
+ },
+ {
+  "author": "Lin",
+  "cits": 8,
+  "pubs": 4,
+  "total_cits": 29,
+  "total_pubs": 14,
+  "frags": {
+   "1": 8
+  }
+ },
+ {
+  "author": "Razin",
+  "cits": 8,
+  "pubs": 4,
+  "total_cits": 13,
+  "total_pubs": 9,
+  "frags": {
+   "1": 7,
+   "2": 1
+  }
+ },
+ {
+  "author": "Henderson",
+  "cits": 8,
+  "pubs": 3,
+  "total_cits": 12,
+  "total_pubs": 8,
+  "frags": {
+   "1": 4,
+   "3": 4
+  }
+ },
+ {
+  "author": "Canova",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 40,
+  "total_pubs": 26,
+  "frags": {
+   "2": 4,
+   "3": 4
+  }
+ },
+ {
+  "author": "Furceri",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 19,
+  "total_pubs": 9,
+  "frags": {
+   "4": 8
+  }
+ },
+ {
+  "author": "Kichian",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 9,
+  "total_pubs": 3,
+  "frags": {
+   "2": 4,
+   "3": 4
+  }
+ },
+ {
+  "author": "Mourougane",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 19,
+  "total_pubs": 9,
+  "frags": {
+   "4": 8
+  }
+ },
+ {
+  "author": "Schumpeter",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 130,
+  "total_pubs": 80,
+  "frags": {
+   "1": 8
+  }
+ },
+ {
+  "author": "Scott",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 31,
+  "total_pubs": 17,
+  "frags": {
+   "2": 10
+  }
+ },
+ {
+  "author": "Tiebout",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 222,
+  "total_pubs": 115,
+  "frags": {
+   "1": 3,
+   "4": 2,
+   "2": 3
+  }
+ },
+ {
+  "author": "Turner",
+  "cits": 8,
+  "pubs": 2,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 4,
+   "4": 4
+  }
+ },
+ {
+  "author": "Niskanen",
+  "cits": 8,
+  "pubs": 1,
+  "total_cits": 106,
+  "total_pubs": 56,
+  "frags": {
+   "1": 6,
+   "2": 2,
+   "5": 1
+  }
+ },
+ {
+  "author": "Mehlum",
+  "cits": 7,
+  "pubs": 6,
+  "total_cits": 75,
+  "total_pubs": 32,
+  "frags": {
+   "4": 3,
+   "2": 3,
+   "1": 1
+  }
+ },
+ {
+  "author": "Moene",
+  "cits": 7,
+  "pubs": 6,
+  "total_cits": 75,
+  "total_pubs": 32,
+  "frags": {
+   "4": 3,
+   "2": 3,
+   "1": 1
+  }
+ },
+ {
+  "author": "Torvik",
+  "cits": 7,
+  "pubs": 6,
+  "total_cits": 96,
+  "total_pubs": 46,
+  "frags": {
+   "4": 6,
+   "2": 3,
+   "1": 1
+  }
+ },
+ {
+  "author": "Durlauf",
+  "cits": 7,
+  "pubs": 5,
+  "total_cits": 13,
+  "total_pubs": 11,
+  "frags": {
+   "2": 4,
+   "1": 3
+  }
+ },
+ {
+  "author": "Evans",
+  "cits": 7,
+  "pubs": 5,
+  "total_cits": 55,
+  "total_pubs": 32,
+  "frags": {
+   "2": 7
+  }
+ },
+ {
+  "author": "Koen",
+  "cits": 7,
+  "pubs": 5,
+  "total_cits": 7,
+  "total_pubs": 5,
+  "frags": {
+   "4": 4,
+   "3": 1,
+   "1": 2
+  }
+ },
+ {
+  "author": "Sachs",
+  "cits": 7,
+  "pubs": 5,
+  "total_cits": 494,
+  "total_pubs": 247,
+  "frags": {
+   "2": 9
+  }
+ },
+ {
+  "author": "Chalk",
+  "cits": 7,
+  "pubs": 4,
+  "total_cits": 15,
+  "total_pubs": 10,
+  "frags": {
+   "2": 7
+  }
+ },
+ {
+  "author": "Gaidar",
+  "cits": 7,
+  "pubs": 4,
+  "total_cits": 12,
+  "total_pubs": 9,
+  "frags": {
+   "1": 2,
+   "2": 2,
+   "3": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Pasricha",
+  "cits": 7,
+  "pubs": 4,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "2": 5,
+   "3": 2
+  }
+ },
+ {
+  "author": "Божечкова",
+  "cits": 7,
+  "pubs": 4,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "5": 5,
+   "4": 2
+  }
+ },
+ {
+  "author": "Goryunov",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "4": 3,
+   "1": 4
+  }
+ },
+ {
+  "author": "Mamedov",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "4": 3,
+   "1": 4
+  }
+ },
+ {
+  "author": "Nesterova",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "4": 3,
+   "1": 4
+  }
+ },
+ {
+  "author": "Obstfeld",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 169,
+  "total_pubs": 85,
+  "frags": {
+   "1": 4,
+   "2": 3
+  }
+ },
+ {
+  "author": "Shpenev",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "4": 3,
+   "1": 4
+  }
+ },
+ {
+  "author": "Young",
+  "cits": 7,
+  "pubs": 3,
+  "total_cits": 59,
+  "total_pubs": 41,
+  "frags": {
+   "1": 4,
+   "2": 1,
+   "3": 2
+  }
+ },
+ {
+  "author": "Maskin",
+  "cits": 7,
+  "pubs": 1,
+  "total_cits": 38,
+  "total_pubs": 24,
+  "frags": {
+   "1": 7
+  }
+ },
+ {
+  "author": "Acemoglu",
+  "cits": 6,
+  "pubs": 6,
+  "total_cits": 248,
+  "total_pubs": 146,
+  "frags": {
+   "2": 1,
+   "3": 4,
+   "1": 1
+  }
+ },
+ {
+  "author": "Temple",
+  "cits": 6,
+  "pubs": 6,
+  "total_cits": 47,
+  "total_pubs": 41,
+  "frags": {
+   "2": 2,
+   "1": 4
+  }
+ },
+ {
+  "author": "Entov",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2,
+   "3": 4
+  }
+ },
+ {
+  "author": "Islam",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 207,
+  "total_pubs": 115,
+  "frags": {
+   "2": 4,
+   "3": 2
+  }
+ },
+ {
+  "author": "Martin",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 33,
+  "total_pubs": 19,
+  "frags": {
+   "2": 4,
+   "3": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Masi",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 21,
+  "total_pubs": 12,
+  "frags": {
+   "2": 4,
+   "1": 2
+  }
+ },
+ {
+  "author": "Mezheraups",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2,
+   "3": 4
+  }
+ },
+ {
+  "author": "Monacelli",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 20,
+  "total_pubs": 14,
+  "frags": {
+   "4": 4,
+   "2": 2
+  }
+ },
+ {
+  "author": "Radygin",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2,
+   "3": 4
+  }
+ },
+ {
+  "author": "Shvetsov",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2,
+   "3": 4
+  }
+ },
+ {
+  "author": "Tanzi",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 11,
+  "total_pubs": 8,
+  "frags": {
+   "3": 6
+  }
+ },
+ {
+  "author": "Zee",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 11,
+  "total_pubs": 8,
+  "frags": {
+   "3": 6
+  }
+ },
+ {
+  "author": "Горюнов",
+  "cits": 6,
+  "pubs": 4,
+  "total_cits": 11,
+  "total_pubs": 9,
+  "frags": {
+   "5": 5,
+   "1": 1
+  }
+ },
+ {
+  "author": "Bodin",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 14,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "2": 3
+  }
+ },
+ {
+  "author": "Brixi",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "2": 3,
+   "4": 3
+  }
+ },
+ {
+  "author": "Ch",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Ebrill",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 14,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "2": 3
+  }
+ },
+ {
+  "author": "Edmiston",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3,
+   "2": 3
+  }
+ },
+ {
+  "author": "Giammarioli",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Hemming",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 13,
+  "total_pubs": 8,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Manasse",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "4": 3
+  }
+ },
+ {
+  "author": "McCarten",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Nickel",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "OECD",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 9,
+  "frags": {
+   "1": 3,
+   "4": 1,
+   "5": 2
+  }
+ },
+ {
+  "author": "Ph",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Roubini",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "4": 3
+  }
+ },
+ {
+  "author": "Schick",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "2": 3,
+   "4": 3
+  }
+ },
+ {
+  "author": "Summers",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 14,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "2": 3
+  }
+ },
+ {
+  "author": "Vidal",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 4,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Энтов",
+  "cits": 6,
+  "pubs": 3,
+  "total_cits": 14,
+  "total_pubs": 8,
+  "frags": {
+   "5": 9,
+   "3": 1
+  }
+ },
+ {
+  "author": "Crucini",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 8,
+  "total_pubs": 3,
+  "frags": {
+   "1": 2,
+   "2": 4
+  }
+ },
+ {
+  "author": "Fair",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 8,
+  "total_pubs": 6,
+  "frags": {
+   "1": 6
+  }
+ },
+ {
+  "author": "Hanushek",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 108,
+  "total_pubs": 56,
+  "frags": {
+   "2": 8,
+   "3": 1
+  }
+ },
+ {
+  "author": "Planas",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "3": 4,
+   "4": 2
+  }
+ },
+ {
+  "author": "Rennison",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 2,
+  "frags": {
+   "3": 4,
+   "4": 2
+  }
+ },
+ {
+  "author": "Rossi",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "3": 4,
+   "4": 2
+  }
+ },
+ {
+  "author": "Salanie",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 12,
+  "total_pubs": 7,
+  "frags": {
+   "1": 6
+  }
+ },
+ {
+  "author": "Telmer",
+  "cits": 6,
+  "pubs": 2,
+  "total_cits": 8,
+  "total_pubs": 3,
+  "frags": {
+   "1": 2,
+   "2": 4
+  }
+ },
+ {
+  "author": "Dewatripont",
+  "cits": 6,
+  "pubs": 1,
+  "total_cits": 26,
+  "total_pubs": 15,
+  "frags": {
+   "1": 6
+  }
+ },
+ {
+  "author": "Eskeland",
+  "cits": 6,
+  "pubs": 1,
+  "total_cits": 25,
+  "total_pubs": 8,
+  "frags": {
+   "1": 4,
+   "2": 2
+  }
+ },
+ {
+  "author": "Litvack",
+  "cits": 6,
+  "pubs": 1,
+  "total_cits": 25,
+  "total_pubs": 8,
+  "frags": {
+   "1": 4,
+   "2": 2
+  }
+ },
+ {
+  "author": "Wetzel",
+  "cits": 6,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 2,
+  "frags": {
+   "3": 6
+  }
+ },
+ {
+  "author": "Ito",
+  "cits": 5,
+  "pubs": 5,
+  "total_cits": 72,
+  "total_pubs": 46,
+  "frags": {
+   "2": 2,
+   "3": 2,
+   "1": 1
+  }
+ },
+ {
+  "author": "Baldacci",
+  "cits": 5,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "3": 5
+  }
+ },
+ {
+  "author": "Cui",
+  "cits": 5,
+  "pubs": 4,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "3": 5
+  }
+ },
+ {
+  "author": "Edwards",
+  "cits": 5,
+  "pubs": 4,
+  "total_cits": 92,
+  "total_pubs": 52,
+  "frags": {
+   "1": 4,
+   "2": 1
+  }
+ },
+ {
+  "author": "Mokyr",
+  "cits": 5,
+  "pubs": 4,
+  "total_cits": 7,
+  "total_pubs": 5,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Ball",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 27,
+  "total_pubs": 8,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Broek",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "4": 4,
+   "3": 1
+  }
+ },
+ {
+  "author": "Klein",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3,
+   "4": 2
+  }
+ },
+ {
+  "author": "Lucas",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 102,
+  "total_pubs": 56,
+  "frags": {
+   "2": 2,
+   "4": 2,
+   "1": 1
+  }
+ },
+ {
+  "author": "Phelps",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 36,
+  "total_pubs": 26,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Smith",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 109,
+  "total_pubs": 46,
+  "frags": {
+   "1": 4,
+   "4": 1
+  }
+ },
+ {
+  "author": "Weingast",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 61,
+  "total_pubs": 40,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Бобылев",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 13,
+  "total_pubs": 4,
+  "frags": {
+   "5": 4,
+   "3": 1
+  }
+ },
+ {
+  "author": "Ведев",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 7,
+  "frags": {
+   "5": 5
+  }
+ },
+ {
+  "author": "Замараев",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Киюцевская",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Косарев",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 9,
+  "total_pubs": 7,
+  "frags": {
+   "5": 5
+  }
+ },
+ {
+  "author": "Назарова",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Радыгин",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 13,
+  "total_pubs": 7,
+  "frags": {
+   "5": 9
+  }
+ },
+ {
+  "author": "Суханов",
+  "cits": 5,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "1": 5
+  }
+ },
+ {
+  "author": "Plosser",
+  "cits": 5,
+  "pubs": 2,
+  "total_cits": 35,
+  "total_pubs": 21,
+  "frags": {
+   "2": 2,
+   "4": 3
+  }
+ },
+ {
+  "author": "Dillinger",
+  "cits": 5,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "2": 4,
+   "3": 1
+  }
+ },
+ {
+  "author": "Garcia",
+  "cits": 5,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 2,
+  "frags": {
+   "3": 5
+  }
+ },
+ {
+  "author": "Kohli",
+  "cits": 5,
+  "pubs": 1,
+  "total_cits": 22,
+  "total_pubs": 11,
+  "frags": {
+   "1": 2,
+   "2": 3
+  }
+ },
+ {
+  "author": "Rosenthal",
+  "cits": 5,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 5,
+  "frags": {
+   "1": 4,
+   "2": 1
+  }
+ },
+ {
+  "author": "Alesina",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 91,
+  "total_pubs": 45,
+  "frags": {
+   "1": 1,
+   "3": 2,
+   "2": 1
+  }
+ },
+ {
+  "author": "Balassa",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 102,
+  "total_pubs": 67,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Commission",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 63,
+  "total_pubs": 46,
+  "frags": {
+   "3": 2,
+   "1": 2
+  }
+ },
+ {
+  "author": "Duarte",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "European",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 63,
+  "total_pubs": 46,
+  "frags": {
+   "3": 2,
+   "1": 2
+  }
+ },
+ {
+  "author": "Im",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Mau",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 7,
+  "total_pubs": 7,
+  "frags": {
+   "4": 2,
+   "2": 4
+  }
+ },
+ {
+  "author": "Ostry",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 22,
+  "total_pubs": 18,
+  "frags": {
+   "2": 5
+  }
+ },
+ {
+  "author": "Tabellini",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 38,
+  "total_pubs": 21,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Wagner",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 23,
+  "total_pubs": 13,
+  "frags": {
+   "1": 2,
+   "3": 2
+  }
+ },
+ {
+  "author": "Warner",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 429,
+  "total_pubs": 204,
+  "frags": {
+   "2": 6
+  }
+ },
+ {
+  "author": "Wolman",
+  "cits": 4,
+  "pubs": 4,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Krugman",
+  "cits": 4,
+  "pubs": 3,
+  "total_cits": 347,
+  "total_pubs": 201,
+  "frags": {
+   "2": 3,
+   "3": 1
+  }
+ },
+ {
+  "author": "Lee",
+  "cits": 4,
+  "pubs": 3,
+  "total_cits": 136,
+  "total_pubs": 76,
+  "frags": {
+   "3": 3,
+   "2": 1
+  }
+ },
+ {
+  "author": "Treisman",
+  "cits": 4,
+  "pubs": 3,
+  "total_cits": 12,
+  "total_pubs": 8,
+  "frags": {
+   "2": 3,
+   "3": 1
+  }
+ },
+ {
+  "author": "Barnett",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Beveridge",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 52,
+  "total_pubs": 34,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Boone",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Claus",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Conway",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Dolinskaya",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Gundlach",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Harvey",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 34,
+  "total_pubs": 23,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Hicks",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 29,
+  "total_pubs": 13,
+  "frags": {
+   "1": 2,
+   "4": 2
+  }
+ },
+ {
+  "author": "Jaeger",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 34,
+  "total_pubs": 23,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Kalasopatan",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Kaldor",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 59,
+  "total_pubs": 36,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Kalman",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 47,
+  "total_pubs": 33,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Keynes",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2,
+   "4": 2
+  }
+ },
+ {
+  "author": "Klyachko",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Konuki",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Kuttner",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 20,
+  "total_pubs": 13,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Letondu",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Matier",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "McCleary",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 36,
+  "total_pubs": 24,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Meacci",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Nelson",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 52,
+  "total_pubs": 34,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "North",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 48,
+  "total_pubs": 31,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Rae",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "4": 4
+  }
+ },
+ {
+  "author": "Ramsey",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 65,
+  "total_pubs": 45,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Rauffet",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Richards",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Rünstler",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2,
+   "3": 2
+  }
+ },
+ {
+  "author": "Saez",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 78,
+  "total_pubs": 28,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Sargent",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 58,
+  "total_pubs": 33,
+  "frags": {
+   "2": 2,
+   "4": 4
+  }
+ },
+ {
+  "author": "Smeekes",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Taylor",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 66,
+  "total_pubs": 43,
+  "frags": {
+   "1": 2,
+   "2": 2
+  }
+ },
+ {
+  "author": "Torres",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Woessmann",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "2": 4
+  }
+ },
+ {
+  "author": "Yazgan",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2,
+   "2": 2
+  }
+ },
+ {
+  "author": "Yilmazkuday",
+  "cits": 4,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2,
+   "2": 2
+  }
+ },
+ {
+  "author": "Buchanan",
+  "cits": 4,
+  "pubs": 1,
+  "total_cits": 15,
+  "total_pubs": 14,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Nordhaus",
+  "cits": 4,
+  "pubs": 1,
+  "total_cits": 80,
+  "total_pubs": 51,
+  "frags": {
+   "1": 4
+  }
+ },
+ {
+  "author": "Steven",
+  "cits": 4,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3,
+   "4": 1
+  }
+ },
+ {
+  "author": "Wildasin",
+  "cits": 4,
+  "pubs": 1,
+  "total_cits": 18,
+  "total_pubs": 11,
+  "frags": {
+   "1": 3,
+   "2": 1
+  }
+ },
+ {
+  "author": "Arrow",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "BIS",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "5": 3
+  }
+ },
+ {
+  "author": "Baum",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Baunsgaard",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 13,
+  "total_pubs": 12,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Beck",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 57,
+  "total_pubs": 39,
+  "frags": {
+   "1": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Bloom",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 36,
+  "total_pubs": 24,
+  "frags": {
+   "1": 1,
+   "3": 2
+  }
+ },
+ {
+  "author": "Bolle",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "3": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Bruno",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 16,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1,
+   "2": 2
+  }
+ },
+ {
+  "author": "Canning",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 36,
+  "total_pubs": 24,
+  "frags": {
+   "1": 1,
+   "3": 2
+  }
+ },
+ {
+  "author": "Celasun",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 7,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Checherita-Westphal",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Coady",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Cukierman",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 30,
+  "total_pubs": 14,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Dasgupta",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Debrun",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 7,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Emran",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 15,
+  "total_pubs": 12,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Furman",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 11,
+  "total_pubs": 11,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Gokhale",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 17,
+  "total_pubs": 16,
+  "frags": {
+   "2": 9
+  }
+ },
+ {
+  "author": "Goulder",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Green",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 12,
+  "total_pubs": 6,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Hagist",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Hakobyan",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "3": 1,
+   "4": 2
+  }
+ },
+ {
+  "author": "Hoeller",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "IEA",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 10,
+  "total_pubs": 8,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Jenkins",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Kadochnikov",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1,
+   "3": 2
+  }
+ },
+ {
+  "author": "Kumar",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 47,
+  "total_pubs": 14,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Kuo",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Maisonneuve",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Martins",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Merola",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Mohanty",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 31,
+  "total_pubs": 17,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Mumford",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Mundell",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 256,
+  "total_pubs": 173,
+  "frags": {
+   "1": 2,
+   "2": 1
+  }
+ },
+ {
+  "author": "OPEC",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 5,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Oleson",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Pagan",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Phillips",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Raffelhuschen",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Ross",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 156,
+  "total_pubs": 85,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Samake",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Sandmo",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Sevilla",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 36,
+  "total_pubs": 24,
+  "frags": {
+   "1": 1,
+   "3": 2
+  }
+ },
+ {
+  "author": "Smetters",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 6,
+  "total_pubs": 6,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Soydemir",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Sun",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Sutherland",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Tanner",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Tijerina-Guajardo",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Verdier",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 21,
+  "total_pubs": 14,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Woo",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 47,
+  "total_pubs": 14,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Yitzhaki",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 20,
+  "total_pubs": 17,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Zampolli",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 31,
+  "total_pubs": 17,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Волчкова",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 5,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Гуриев",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Егоров",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Полтерович",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 24,
+  "total_pubs": 14,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Попов",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 24,
+  "total_pubs": 14,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Сонин",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Суслова",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 7,
+  "total_pubs": 5,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Тонис",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 24,
+  "total_pubs": 14,
+  "frags": {
+   "4": 3
+  }
+ },
+ {
+  "author": "Улюкаев",
+  "cits": 3,
+  "pubs": 3,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Aiyar",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 28,
+  "total_pubs": 8,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Duval",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 28,
+  "total_pubs": 8,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Mendoza",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 47,
+  "total_pubs": 30,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Puy",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 28,
+  "total_pubs": 8,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Stewart",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "2": 2,
+   "4": 1
+  }
+ },
+ {
+  "author": "Wu",
+  "cits": 3,
+  "pubs": 2,
+  "total_cits": 28,
+  "total_pubs": 8,
+  "frags": {
+   "2": 3
+  }
+ },
+ {
+  "author": "Calvo",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 126,
+  "total_pubs": 92,
+  "frags": {
+   "1": 1,
+   "2": 2,
+   "3": 3
+  }
+ },
+ {
+  "author": "Chamon",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 14,
+  "total_pubs": 12,
+  "frags": {
+   "2": 2,
+   "3": 2
+  }
+ },
+ {
+  "author": "Crespo",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "2": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Dornbusch",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 44,
+  "total_pubs": 27,
+  "frags": {
+   "1": 1,
+   "2": 2
+  }
+ },
+ {
+  "author": "Edison",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "3": 2,
+   "5": 1
+  }
+ },
+ {
+  "author": "Eichengreen",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 14,
+  "total_pubs": 13,
+  "frags": {
+   "1": 1,
+   "2": 2
+  }
+ },
+ {
+  "author": "Flatters",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Fontoura",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "2": 2,
+   "3": 1
+  }
+ },
+ {
+  "author": "Guonan",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Harrington",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Hepp",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Jadhav",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Joseph",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Jr",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Kornai",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 61,
+  "total_pubs": 41,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "McCauley",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Melitz",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 2,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Michael",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1,
+   "4": 1,
+   "5": 1
+  }
+ },
+ {
+  "author": "Mieszkowski",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Mueller",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 8,
+  "frags": {
+   "1": 2,
+   "5": 1
+  }
+ },
+ {
+  "author": "Nicoud",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Sbergami",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Smart",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 9,
+  "total_pubs": 6,
+  "frags": {
+   "1": 2,
+   "2": 1
+  }
+ },
+ {
+  "author": "Ter-Minassian",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "1": 1,
+   "2": 2
+  }
+ },
+ {
+  "author": "Valpassos",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "3": 3
+  }
+ },
+ {
+  "author": "Zumer",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 2,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Четвериков",
+  "cits": 3,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 1,
+  "frags": {
+   "1": 3
+  }
+ },
+ {
+  "author": "Ardagna",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Arkhipov",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Aschauer",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 81,
+  "total_pubs": 56,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Auty",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 35,
+  "total_pubs": 20,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Batkibekov",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Berkowitz",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Blankenau",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 14,
+  "total_pubs": 7,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Bobylev",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "5": 2
+  }
+ },
+ {
+  "author": "Bouthevillain",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Brouwer",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 11,
+  "total_pubs": 5,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Cerra",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Chaman",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Chen",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 7,
+  "total_pubs": 6,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Chortareas",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Cos",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Cour-Thimann",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "DeJong",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Deaton",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 10,
+  "total_pubs": 9,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Denis",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Devereux",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 7,
+  "total_pubs": 6,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Dicle",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "3": 4
+  }
+ },
+ {
+  "author": "Dool",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Dupasquier",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Feldstein",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 14,
+  "total_pubs": 12,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Fitoussi",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 11,
+  "total_pubs": 7,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Freund",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Futagami",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 24,
+  "total_pubs": 13,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Guay",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Gylfason",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Hartwig",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Havik",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Hernandez",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Hoeffler",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 31,
+  "total_pubs": 25,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Huber",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "2": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Hubrich",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Huggins",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Izushi",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Kapetanios",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 9,
+  "total_pubs": 5,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Kimko",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 89,
+  "total_pubs": 45,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Krueger",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 36,
+  "total_pubs": 20,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Langenus",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Levine",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 186,
+  "total_pubs": 120,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Malinina",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Mc",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Miljkovic",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Mohr",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Momigliano",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Moran",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Morita",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 24,
+  "total_pubs": 13,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Morrow",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Murphy",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 48,
+  "total_pubs": 37,
+  "frags": {
+   "3": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Norden",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Porter",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "5": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Raciborski",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Röger",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Saxena",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Schiantarelli",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Sen",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 11,
+  "total_pubs": 7,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Shibata",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 24,
+  "total_pubs": 13,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Simpson",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 14,
+  "total_pubs": 7,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Slevin",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "St-Amant",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Stock",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 33,
+  "total_pubs": 24,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Tujula",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Tuomala",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 21,
+  "total_pubs": 12,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Wallace",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 47,
+  "total_pubs": 27,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Wang",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Watson",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 33,
+  "total_pubs": 24,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Yu",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "5": 2
+  }
+ },
+ {
+  "author": "auria",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Некипелов",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "3": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Пономарев",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 1,
+   "1": 1
+  }
+ },
+ {
+  "author": "Соколов",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Турунцева",
+  "cits": 2,
+  "pubs": 2,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "5": 1,
+   "3": 1
+  }
+ },
+ {
+  "author": "Ahrend",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Andrew",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Bleaney",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 22,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Boothe",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Borcherding",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 8,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Bradford",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Cardoso",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 4,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Clarke",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 15,
+  "total_pubs": 12,
+  "frags": {
+   "1": 1,
+   "3": 1
+  }
+ },
+ {
+  "author": "Donald",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Forbes",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 22,
+  "total_pubs": 11,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Fox",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Gans",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Goetz",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Goldfajn",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 4,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Goodspeed",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Goujard",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Greenaway",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 22,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Groves",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 15,
+  "total_pubs": 12,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Hutchison",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Jin",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "John",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Kaplan",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Keating",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1,
+   "4": 1
+  }
+ },
+ {
+  "author": "Kendall",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Ladd",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Li",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 6,
+  "total_pubs": 4,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Musgrave",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 155,
+  "total_pubs": 77,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Nalewaik",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Oliviera",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 2,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Olson",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 7,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Perry",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Qian",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1,
+   "3": 1
+  }
+ },
+ {
+  "author": "Ratchford",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 27,
+  "total_pubs": 11,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Rubinfeld",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 5,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Sancton",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 2
+  }
+ },
+ {
+  "author": "Schwab",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 3,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Schwellnus",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Shah",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 15,
+  "total_pubs": 12,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Siedschlag",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Singh",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 1,
+  "frags": {
+   "3": 2
+  }
+ },
+ {
+  "author": "Velasco",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 34,
+  "total_pubs": 23,
+  "frags": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Xu",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1,
+   "3": 1
+  }
+ },
+ {
+  "author": "in",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "1": 1,
+   "2": 1
+  }
+ },
+ {
+  "author": "Гайдар",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "1": 2
+  }
+ },
+ {
+  "author": "Каукин",
+  "cits": 2,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "4": 1,
+   "5": 1
+  }
+ },
+ {
+  "author": "Abdelal",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Agarwala",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Aghion",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Ahuja",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Alberta",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Alfaro",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 33,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Almeida",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Amborski",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Ames",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 9,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Arnold",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Arteta",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Ascah",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Atkin",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Atkinson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 48,
+  "total_pubs": 33,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Avinash",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Bahl",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Balli",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Baretti",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Barros",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Bartolini",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 7,
+  "total_pubs": 6,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Basher",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Basu",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bayoumi",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bergstrom",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 13,
+  "total_pubs": 11,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bernard",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 49,
+  "total_pubs": 31,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bernstein",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bianchi",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Bish",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Black",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 30,
+  "total_pubs": 17,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bohn",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 15,
+  "total_pubs": 9,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Bolton",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Bordo",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Borensztein",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 101,
+  "total_pubs": 50,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Borge",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Bruce",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Buck",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Budgeting",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Béhar",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Caputo",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Carlsen",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Chanda",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Chang",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 11,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Charles",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Chinn",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 60,
+  "total_pubs": 38,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Courson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Cucierman",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Daniel",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Deacon",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 6,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Delegated",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Demsetz",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Didier",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Dixit",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Downs",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 219,
+  "total_pubs": 142,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Drazen",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 7,
+  "total_pubs": 6,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Dreze",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Emanuel",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Evidence",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Fatas",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Feld",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Fevolden",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Finance",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Financial",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Fischer",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 44,
+  "total_pubs": 33,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Fleming",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 36,
+  "total_pubs": 33,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Flood",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 31,
+  "total_pubs": 20,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Fries",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Gaile",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Garber",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 31,
+  "total_pubs": 20,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Garry",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Gertler",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Ghosh",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 11,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Gibson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 7,
+  "total_pubs": 4,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Golub",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Goodman",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 13,
+  "total_pubs": 11,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Graham",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Gregorio",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 101,
+  "total_pubs": 50,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Griffith",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Grilli",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 5,
+  "total_pubs": 5,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Guidotti",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Guy",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Habermeier",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Hammes",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Harris",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 9,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Harrison",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 76,
+  "total_pubs": 40,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Hausmann",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Hecke",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Hempel",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Henry",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 134,
+  "total_pubs": 46,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Hewitt",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Hibbs",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 25,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Impact",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "In-Moo",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Izquierdo",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 18,
+  "total_pubs": 13,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Jawaid",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 14,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Jensen",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 49,
+  "total_pubs": 31,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Jones",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Kalemli-Ozcan",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 33,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Kennedy",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Kim",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Kincaid",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Knetter",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Kohlscheen",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Kolstad",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Kraay",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 22,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Kramer",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Lall",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Lars",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Le",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Lewis",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Lichtblau",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Lichtenberg",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Lidec",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Lindahl",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Londregan",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Louis",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Maddala",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Makrushin",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Malibeau",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Malinvaud",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Markusen",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Masson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Mauro",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 324,
+  "total_pubs": 195,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "McKinnon",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 205,
+  "total_pubs": 126,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "McLeod",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "McMillan",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Mejia",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 18,
+  "total_pubs": 13,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Mello",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 42,
+  "total_pubs": 24,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Meltzer",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Melville",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Migaud",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Milesi-Ferrett",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Milesi-Ferretti",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Modesto",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Mountford",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Neely",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Olivei",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Pal-Kovacs",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Panizza",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Patrick",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Peri",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 14,
+  "total_pubs": 11,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Persson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Peters",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Plott",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 9,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Potterie",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Poussin",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Prasad",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Prud'homme",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 21,
+  "total_pubs": 11,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Public",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Quinn",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 79,
+  "total_pubs": 41,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Qureshi",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 11,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "Radelet",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 50,
+  "total_pubs": 30,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Rajan",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Rattso",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Rattsш",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Redding",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 49,
+  "total_pubs": 31,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Reinhardt",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Remond",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Restructuring",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Rose",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Rothblatt",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Sadka",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Sala",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 9,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Sanguinetti",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Savoie",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Sbragia",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Schlesinger",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Schott",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 49,
+  "total_pubs": 31,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Shleifer",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 41,
+  "total_pubs": 30,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Sinelnikov-Muryliov",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Slinko",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Steinfeld",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Strauss",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Subramanian",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 10,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Susan",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Sussman",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Tamirisa",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 11,
+  "total_pubs": 8,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Tassonyi",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 4,
+  "frags": {
+   "2": 2
+  }
+ },
+ {
+  "author": "The",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Tindall",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Tobin",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 20,
+  "total_pubs": 16,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Tornell",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 23,
+  "total_pubs": 12,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Tufte",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 6,
+  "total_pubs": 5,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Uhlig",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Veiga",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Vigoda",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "4": 1
+  }
+ },
+ {
+  "author": "Vishny",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 41,
+  "total_pubs": 30,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Volosovych",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 33,
+  "total_pubs": 14,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Waheed",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 14,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Wallis",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Webb",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 12,
+  "total_pubs": 5,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Why",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Widdowson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Wilde",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 4,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Wills",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Wilson",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 38,
+  "total_pubs": 24,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Wren-Lewis",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Wyplosz",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 8,
+  "total_pubs": 7,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Zervos",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 131,
+  "total_pubs": 83,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Zhuravskaya",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "also",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "case",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "central",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "decisions",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "ed",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "from",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "is",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "local",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "of",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "pervasive",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "regulation",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "so",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "spending",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "study",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 2,
+  "total_pubs": 2,
+  "frags": {
+   "2": 1
+  }
+ },
+ {
+  "author": "Астафьева",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Баландина",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Воскобойников",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Головнин",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Дерюгин",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Ершов",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 10,
+  "total_pubs": 6,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Зацепин",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Идрисова",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Левашенко",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Луговой",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Мамедов",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Моргунова",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Носко",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 30,
+  "total_pubs": 5,
+  "frags": {
+   "3": 1
+  }
+ },
+ {
+  "author": "Пащенко",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 6,
+  "total_pubs": 3,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Синельников",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 3,
+  "total_pubs": 3,
+  "frags": {
+   "5": 1
+  }
+ },
+ {
+  "author": "Точин",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "1": 1
+  }
+ },
+ {
+  "author": "Флегонтова",
+  "cits": 1,
+  "pubs": 1,
+  "total_cits": 1,
+  "total_pubs": 1,
+  "frags": {
+   "3": 1
+  }
+ }
+]

@@ -1,0 +1,3004 @@
+{
+ "null": {
+  "all": 19,
+  "pubs": {
+   "repec:gai:ppaper:47": 6,
+   "repec:gai:wpaper:0076": 5,
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1,
+   "repec:rnp:ecopol:ep1457": 4,
+   "repec:rnp:ecopol:1532": 2,
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "IMF": {
+  "all": 11,
+  "pubs": {
+   "repec:gai:rpaper:125": 3,
+   "repec:gai:wpaper:0096": 2,
+   "repec:gai:wpaper:0113": 3,
+   "repec:gai:wpaper:0076": 3
+  }
+ },
+ "Auerbach": {
+  "all": 6,
+  "pubs": {
+   "repec:gai:rpaper:125": 3,
+   "repec:gai:wpaper:0113": 3
+  }
+ },
+ "Gale": {
+  "all": 6,
+  "pubs": {
+   "repec:gai:wpaper:0113": 3,
+   "repec:gai:rpaper:125": 3
+  }
+ },
+ "Orszag": {
+  "all": 6,
+  "pubs": {
+   "repec:gai:wpaper:0113": 3,
+   "repec:gai:rpaper:125": 3
+  }
+ },
+ "Идрисов": {
+  "all": 6,
+  "pubs": {
+   "repec:gai:rpaper:125": 2,
+   "repec:gai:wpaper:0113": 2,
+   "repec:rnp:ecopol:1532": 2
+  }
+ },
+ "Bank": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:wpaper:0076": 3,
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Blanchard": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0076": 1,
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Burnside": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:rpaper:125": 2,
+   "repec:gai:wpaper:0113": 2
+  }
+ },
+ "Oates": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:ppaper:47": 3,
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "Reinhart": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1,
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Rother": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:rpaper:125": 2,
+   "repec:gai:wpaper:0113": 2
+  }
+ },
+ "World": {
+  "all": 4,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 3
+  }
+ },
+ "Calvo": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Dornbusch": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Eichengreen": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Garcia": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Guonan": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Jadhav": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Johnson": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:rnp:ecopol:1532": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Klein": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "McCauley": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Mehlum": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Moene": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Ostry": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Perotti": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2,
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Robinson": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:rnp:ecopol:1532": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Rodrik": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:rnp:ecopol:ep1711": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Rogoff": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Sinelnikov-Murylev": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0076": 3
+  }
+ },
+ "TOJPnk": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Tanzi": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2,
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Torvik": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "WDmq7k": {
+  "all": 3,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 3
+  }
+ },
+ "Zee": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "fLk7DG": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "iyUdnu": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 3
+  }
+ },
+ "veY1NC": {
+  "all": 3,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1,
+   "repec:gai:wpaper:0096": 2
+  }
+ },
+ "3E4fkC": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 2
+  }
+ },
+ "3mfri4": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "5lCQxg": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 2
+  }
+ },
+ "63BxQa": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "7g3424": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "8r6sHS": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 2
+  }
+ },
+ "9ZzvPE": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:126": 2
+  }
+ },
+ "9byjpj": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Aizenman": {
+  "all": 2,
+  "pubs": {
+   "repec:ris:apltrx:0084": 1,
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "Alesina": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Barro": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1,
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "Baum": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Bleaney": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 2
+  }
+ },
+ "Brixi": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Burns": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "CUcJU9": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 2
+  }
+ },
+ "Cardoso": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Cecchetti": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Celasun": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Chalk": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Chamon": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Checherita-Westphal": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Clements": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Coady": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Crespo": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Debrun": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Drobyshevsky": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Durlauf": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "EpgHJq": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1,
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Evans": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Fontoura": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Gbz4Ir": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 2
+  }
+ },
+ "Giammarioli": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Gokhale": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Goldfajn": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Green": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Greenaway": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 2
+  }
+ },
+ "Gupta": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Helpman": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Hemming": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Hicks": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Hoeller": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Horne": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Hutchison": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "ICigp7": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "IEA": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "IFjGW1": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 2
+  }
+ },
+ "Jinjarak": {
+  "all": 2,
+  "pubs": {
+   "repec:ris:apltrx:0084": 1,
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "JkV8sb": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Kendall": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Keynes": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "King": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Kotlikoff": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Kumar": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Kydland": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "LJIpqV": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Ladd": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "Ma2wz2": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "Maisonneuve": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Mankiw": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1,
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Martins": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "McCarten": {
+  "all": 2,
+  "pubs": {
+   "repec:ris:apltrx:0084": 1,
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "Mendoza": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Merola": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Mohanty": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Mokyr": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Monacelli": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Ms2sxJ": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Mundell": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1,
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Musgrave": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "Nickel": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "OECD": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "OPEC": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Obstfeld": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Pasricha": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Ph": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Phillips": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Plosser": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Prescott": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "QuYnF0": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "Raffelhuschen": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Rebelo": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Ross": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Sachs": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Samake": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Samuelson": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "Sandmo": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1,
+   "repec:ris:apltrx:0084": 1
+  }
+ },
+ "Schick": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Singh": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Smetters": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Stiglitz": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1,
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Sutherland": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Tanner": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Temple": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Tiebout": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "Ufm2ed": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:126": 2
+  }
+ },
+ "Un4usG": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Valpassos": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Velasco": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Verdier": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Vidal": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Woo": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "XW3EAl": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "Yitzhaki": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1,
+   "repec:ris:apltrx:0084": 1
+  }
+ },
+ "YwGtKo": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Zampolli": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "do4S6q": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:126": 2
+  }
+ },
+ "iNsMWB": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "l06jgp": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 2
+  }
+ },
+ "msnQOI": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:ppaper:47": 2
+  }
+ },
+ "oCYlIh": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:126": 2
+  }
+ },
+ "oPISam": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "oppUz7": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 2
+  }
+ },
+ "qCRv0L": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0076": 2
+  }
+ },
+ "x5w4hU": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1,
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "xeFWGE": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 2
+  }
+ },
+ "Волчкова": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Гуриев": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Егоров": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Казакова": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Кнобель": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Некипелов": {
+  "all": 2,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1,
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Полбин": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Полтерович": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Попов": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Синельников-Мурылев": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:wpaper:0113": 1,
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Сонин": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Суслова": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "Тонис": {
+  "all": 2,
+  "pubs": {
+   "repec:gai:rpaper:125": 1,
+   "repec:gai:wpaper:0113": 1
+  }
+ },
+ "0NEC2j": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:126": 1
+  }
+ },
+ "0YEINt": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "18P9kb": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "1BKHRg": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "1ZQRVU": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "1bWrTL": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "1izzSH": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "1jO0zX": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "28YyZR": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "2Oh0Qx": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "3B1UrE": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "3No8kK": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "3OP7Z1": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "3rghE1": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "4NyB4T": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "4UfLE0": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "4gt9nj": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "4pONYA": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "4ycEMx": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "5ay4KL": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "5fozFx": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "5p9MUx": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "6RPUDC": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "7YnPJc": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "7eM8Ur": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "8Olg3w": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "8W7Anh": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "8vT2L4": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "9Gg7bx": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "9Hvtjd": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "9O648Y": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "9OWZXi": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "9Zy4xh": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "9caCRR": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "9ew3VZ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "A3L0SL": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Abdelal": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Acemoglu": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Ahrend": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Aiyar": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Alfaro": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Ames": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Ardagna": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Arkhipov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Arnold": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Arrow": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Arteta": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Aschauer": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Asgm0p": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Auty": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "BIcAXC": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Ball": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Bartolini": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Batkibekov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Bernstein": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Bird": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Blankenau": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "BmI7ox": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "Bordo": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "C8L9Wq": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "CCJXBc": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "CDbLOK": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Chanda": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Chang": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Chen": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Chinn": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "CniR91": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Commission": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "D7A8Er": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "DA16sG": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Dasgupta": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "DhP1Ow": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "DhzKdy": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "DngzGM": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Drazen": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Duval": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "E9DEw4": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Edison": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Edwards": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "EeQ4aN": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Entov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "European": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "FDPZKP": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "FOJk6b": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "FYYU9S": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Feldstein": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Fischer": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Fitoussi": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Fitts": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Fjeldstad": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "Fleming": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Flood": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Friedman": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Futagami": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "GFufuJ": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "GHmj5l": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "Garber": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Gb5rN8": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Gertler": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Ghosh": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Goujard": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Goulder": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Griffith": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Grilli": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Gylfason": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "HZCUQO": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Habermeier": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Hausmann": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "HrPQKb": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "I1UqAf": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "I8fq7P": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "IHzymN": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "IURGOp": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "IVNfn9": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "IYR7Il": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "IgekRl": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Inman": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Islam": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Ito": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Izquierdo": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "J64fDo": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Jg6r0S": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "JwSSmF": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "JyWW8P": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "KE5DAN": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "KJqIn9": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Kadochnikov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Kalemli-Ozcan": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Kazakova": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "KnGHnU": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Knetter": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Knobel": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Kolstad": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Kraay": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Krugman": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "L5azz6": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "L6kes7": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Levine": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Lichtenberg": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Lucas": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "MCnstL": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Malinina": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Markusen": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Mauro": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Mejia": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Mello": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Mezheraups": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Milesi-Ferrett": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Milesi-Ferretti": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Morita": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "Mumford": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "NDvXix": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "NP9sT1": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "NZybp0": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Neely": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "ODleTb": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "OLopdt": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Oleson": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Olivei": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Oliviera": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Panizza": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Phelps": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Potterie": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Puy": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "QHVkSY": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "QlWd9U": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Qureshi": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "RAkxqW": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "RCJW32": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:126": 1
+  }
+ },
+ "REU8uK": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "RPQD3E": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Radelet": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Radygin": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Razin": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Reinhardt": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "RoL0jS": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Rodden": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Romer": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Rose": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "SAXjrV": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:126": 1
+  }
+ },
+ "Sadka": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Sargent": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Schiantarelli": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Schwellnus": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Sen": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Shibata": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "Shvetsov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Simpson": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Slack": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Sokolov": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Solow": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Stewart": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Sussman": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "TYtGfi": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Taylor": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Tornell": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Treisman": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Trunin": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "TzzxaU": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "URzIu4": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Us4EOp": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Uu5Ry1": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "V2bgf6": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "VQPOmI": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "VSHJaX": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "Vh9hN8": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Volosovych": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Warner": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Weil": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "Wildasin": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Wolak": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Wq8ywm": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Wu": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "Wyplosz": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "XVA8jH": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Young": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "ZJVtKQ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "ZQ1h50": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "ZQ8G5O": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "ZWpIR4": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "Zervos": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Zhang": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "ZmAOK6": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "ZtBHDE": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "aCjfYH": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "aGTweC": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "aIhEkq": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "aOofsw": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:2": 1
+  }
+ },
+ "antmM7": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "bXT1HT": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "bolo9s": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "bqr7uE": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "c8JKO1": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "cKWcWj": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "cRrJtp": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "dP7fnZ": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "daiYJZ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "dgatFX": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "dhkszb": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "eEO5aK": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "eUoMJO": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "ehRrIi": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "ek6R2e": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "f55Xsu": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "fFmu4k": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "fIutbf": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "fRUAAo": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "fsZEuN": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "gKiWEI": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "gY3JjQ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "gjzSOy": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "goSDT0": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "gvlCZA": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "hQ5crN": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "hTj99c": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "jbLLBH": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:126": 1
+  }
+ },
+ "jik2Rz": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "jjv5Vy": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "jjxuhJ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "ju0bvo": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "jxfiKJ": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "kg7Pit": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "lLqoHK": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "m07XJI": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "m1p7di": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "mMPa79": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "msOZIR": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "muCVW9": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "n4d8EA": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "nAf26J": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "nEB86H": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "p8sxq1": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "q3dSIx": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0076": 1
+  }
+ },
+ "qKQPZJ": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "qfIn5J": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "qqPrHl": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "r3daVx": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0050": 1
+  }
+ },
+ "r45CNB": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "rGu3Oy": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "rYLtgq": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "rqMCEr": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "sCYgTj": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "sTIje6": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "tSoPTO": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "tXBNED": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "teN8jT": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:rpaper-2018-173p-904": 1
+  }
+ },
+ "u3YFnX": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "u9m6Mf": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "uPQ1Lj": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:wpaper:0096": 1
+  }
+ },
+ "uRYevn": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "vC0xSa": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "wAVPQg": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "wGmLc2": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "wc40X0": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "wvh5JS": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "xNfKwp": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "xOk568": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ppaper:021915": 1
+  }
+ },
+ "yOV7nI": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:rpaper:125": 1
+  }
+ },
+ "ymkydD": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "ywdo4j": {
+  "all": 1,
+  "pubs": {
+   "repec:gai:ppaper:47": 1
+  }
+ },
+ "z1KMlb": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "z5MNeV": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Астафьева": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Бессонов": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Воскобойников": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Головнин": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Ершов": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1711": 1
+  }
+ },
+ "Каукин": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Луговой": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Пономарев": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Трунин": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:1532": 1
+  }
+ },
+ "Турунцева": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ },
+ "Энтов": {
+  "all": 1,
+  "pubs": {
+   "repec:rnp:ecopol:ep1457": 1
+  }
+ }
+}

@@ -1,0 +1,775 @@
+[{
+        "pub_id": "ranepa:rosa:doppubs:2169871",
+        "name": "Качество администрирования налога на добавленную стоимость в странах ОЭСР и России (Quality of VAT Administration in OECD Countries and Russia)",
+        "ref_authors": [{
+                "author": "Aizenman",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Jinjarak",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Keen",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 27,
+                "total_pubs": 17
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:2600000",
+        "name": "Теоретические Основы Бюджетного Разрыва Как Показателя Долгосрочной Фискальной Устойчивости и Его Оценка Для России (Theoretical Foundations of Fiscal Gap as a Long-Term Fiscal Sustainability Indicator and its Estimates for Russia)",
+        "ref_authors": [{
+                "author": "IMF",
+                "cits": 15,
+                "pubs": 1,
+                "total_cits": 397,
+                "total_pubs": 206
+            },
+            {
+                "author": "Kotlikoff",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 48,
+                "total_pubs": 35
+            },
+            {
+                "author": "Rother",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 15,
+                "total_pubs": 11
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:2920571",
+        "name": "Анализ Региональной Дифференциации Инфляции (Analysis of the Regional Differentiation of Inflation)",
+        "ref_authors": [{
+                "author": "Cecchetti",
+                "cits": 8,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Mark",
+                "cits": 8,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Parsley",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 32,
+                "total_pubs": 8
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:3109344",
+        "name": "Анализ региональной дифференциации цен (Analysis of Regional Price Differentiation)",
+        "ref_authors": [{
+                "author": "Глущенко",
+                "cits": 12,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 6
+            },
+            {
+                "author": "Cecchetti",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Ceglowski",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 19,
+                "total_pubs": 8
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:3338329",
+        "name": "Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России? (Prospects for Tax Policy. Is there An `Ideal Tax System` for Russia?)",
+        "ref_authors": [{
+                "author": "Mirrlees",
+                "cits": 11,
+                "pubs": 1,
+                "total_cits": 182,
+                "total_pubs": 85
+            },
+            {
+                "author": "Adam",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 12,
+                "total_pubs": 2
+            },
+            {
+                "author": "Besley",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 12,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:3339270",
+        "name": "Таможенное администрирование в России: какими должны быть современные процедуры (Customs Administration in Russia: What Should Modern Procedures Be?)",
+        "ref_authors": []
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:3339298",
+        "name": "Образование и экономический рост (Education and Economic Growth)",
+        "ref_authors": [{
+                "author": "Hanushek",
+                "cits": 2,
+                "pubs": 1,
+                "total_cits": 108,
+                "total_pubs": 56
+            },
+            {
+                "author": "Acemoglu",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 38,
+                "total_pubs": 21
+            },
+            {
+                "author": "Baldacci",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 6,
+                "total_pubs": 5
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:gai-wpaper-0076",
+        "name": "Budget Policy and Economic Growth",
+        "ref_authors": [{
+                "author": "IMF",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 77,
+                "total_pubs": 42
+            },
+            {
+                "author": "Sinelnikov-Murylev",
+                "cits": 5,
+                "pubs": 1,
+                "total_cits": 20,
+                "total_pubs": 16
+            },
+            {
+                "author": "Barro",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 921,
+                "total_pubs": 500
+            }
+        ]
+    },
+    {
+        "pub_id": "ranepa:rosa:doppubs:gai-wpaper-0096",
+        "name": "Forming Sources for a Long-run Growth: How to Understand Them?",
+        "ref_authors": [{
+                "author": "Sinelnikov-Murylev",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 22,
+                "total_pubs": 16
+            },
+            {
+                "author": "Helpman",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 50,
+                "total_pubs": 21
+            },
+            {
+                "author": "Idrisov",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 6,
+                "total_pubs": 4
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:ppaper:2",
+        "name": "From Elections to Appointments of the Regional Governors: Major Challenges and Outcomes",
+        "ref_authors": [{
+                "author": "Oates",
+                "cits": 19,
+                "pubs": 1,
+                "total_cits": 220,
+                "total_pubs": 101
+            },
+            {
+                "author": "Niskanen",
+                "cits": 8,
+                "pubs": 1,
+                "total_cits": 106,
+                "total_pubs": 56
+            },
+            {
+                "author": "Robert",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 6,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:ppaper:47",
+        "name": "Fiscal Federalism in Russia: Soft Budget Constraints of Regional Governments",
+        "ref_authors": [{
+                "author": "Rodden",
+                "cits": 11,
+                "pubs": 1,
+                "total_cits": 64,
+                "total_pubs": 23
+            },
+            {
+                "author": "Inman",
+                "cits": 9,
+                "pubs": 1,
+                "total_cits": 20,
+                "total_pubs": 10
+            },
+            {
+                "author": "Maskin",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 38,
+                "total_pubs": 24
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:rpaper:125",
+        "name": "Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia",
+        "ref_authors": [{
+                "author": "IMF",
+                "cits": 15,
+                "pubs": 1,
+                "total_cits": 397,
+                "total_pubs": 206
+            },
+            {
+                "author": "Kotlikoff",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 48,
+                "total_pubs": 35
+            },
+            {
+                "author": "Rother",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 15,
+                "total_pubs": 11
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:rpaper:126",
+        "name": "Decomposition of Russia's GDP Growth Rates",
+        "ref_authors": [{
+                "author": "King",
+                "cits": 23,
+                "pubs": 1,
+                "total_cits": 166,
+                "total_pubs": 75
+            },
+            {
+                "author": "Baxter",
+                "cits": 21,
+                "pubs": 1,
+                "total_cits": 134,
+                "total_pubs": 53
+            },
+            {
+                "author": "Richardson",
+                "cits": 16,
+                "pubs": 1,
+                "total_cits": 65,
+                "total_pubs": 19
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:rpaper:128",
+        "name": "Decomposition of Russia's GDP Growth Rates",
+        "ref_authors": [{
+                "author": "King",
+                "cits": 23,
+                "pubs": 1,
+                "total_cits": 166,
+                "total_pubs": 75
+            },
+            {
+                "author": "Baxter",
+                "cits": 21,
+                "pubs": 1,
+                "total_cits": 134,
+                "total_pubs": 53
+            },
+            {
+                "author": "Richardson",
+                "cits": 16,
+                "pubs": 1,
+                "total_cits": 65,
+                "total_pubs": 19
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:rpaper:rpaper-2018-173p-904",
+        "name": "Stabilizing features of transfers allocated to the Russian regions from the Federal budget",
+        "ref_authors": [{
+                "author": "Hagen",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 19,
+                "total_pubs": 11
+            },
+            {
+                "author": "Кадочников",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 4,
+                "total_pubs": 2
+            },
+            {
+                "author": "Синельников-Мурылев",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 4,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:wpaper:0050",
+        "name": "Quality of the Administration of Value-Added Tax in OECD countries and Russia",
+        "ref_authors": [{
+                "author": "Aizenman",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Jinjarak",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Keen",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 27,
+                "total_pubs": 17
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:wpaper:0076",
+        "name": "Budget Policy and Economic Growth",
+        "ref_authors": [{
+                "author": "IMF",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 77,
+                "total_pubs": 42
+            },
+            {
+                "author": "Sinelnikov-Murylev",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 20,
+                "total_pubs": 16
+            },
+            {
+                "author": "Barro",
+                "cits": 5,
+                "pubs": 1,
+                "total_cits": 921,
+                "total_pubs": 500
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:wpaper:0096",
+        "name": "Forming Sources for a Long-run Growth: How to Understand Them?",
+        "ref_authors": [{
+                "author": "Sinelnikov-Murylev",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 22,
+                "total_pubs": 16
+            },
+            {
+                "author": "Helpman",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 50,
+                "total_pubs": 21
+            },
+            {
+                "author": "Idrisov",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 6,
+                "total_pubs": 4
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:wpaper:0113",
+        "name": "Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia",
+        "ref_authors": [{
+                "author": "IMF",
+                "cits": 15,
+                "pubs": 1,
+                "total_cits": 397,
+                "total_pubs": 206
+            },
+            {
+                "author": "Kotlikoff",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 48,
+                "total_pubs": 35
+            },
+            {
+                "author": "Rother",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 15,
+                "total_pubs": 11
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:gai:wpaper:130",
+        "name": "О Новых Тенденциях и Проблемах в Реформировании Системы Финансирования Вузов (On New Trends and Issues in the Reform of the Financing System of Universities)",
+        "ref_authors": []
+    },
+    {
+        "pub_id": "repec:ris:apltrx:0084",
+        "name": "Quality of VAT administration in OECD countries and Russia",
+        "ref_authors": [{
+                "author": "Aizenman",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Jinjarak",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 3
+            },
+            {
+                "author": "Keen",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 27,
+                "total_pubs": 17
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ecopol:1532",
+        "name": "Terms of trade and economic development of modern Russia / Условия торговли и экономическое развитие современной России",
+        "ref_authors": [{
+                "author": "Kohli",
+                "cits": 5,
+                "pubs": 1,
+                "total_cits": 22,
+                "total_pubs": 11
+            },
+            {
+                "author": "Трунин",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 4,
+                "total_pubs": 3
+            },
+            {
+                "author": "Идрисов",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 5,
+                "total_pubs": 4
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ecopol:ep1426",
+        "name": "Actual problems of the banking system in the Russian Federation / Актуальные проблемы развития банковской системы в Российской Федерации",
+        "ref_authors": [{
+                "author": "Barros",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 3,
+                "total_pubs": 2
+            },
+            {
+                "author": "Martin",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 18,
+                "total_pubs": 8
+            },
+            {
+                "author": "Modesto",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 3,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ecopol:ep1457",
+        "name": "Decomposition of the russian GDP growth rate in 1999-2014 / Декомпозиция темпов роста ВВП России в 1999—2014 годах",
+        "ref_authors": [{
+                "author": "Казакова",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 40,
+                "total_pubs": 23
+            },
+            {
+                "author": "Синельников-Мурылев",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 29,
+                "total_pubs": 27
+            },
+            {
+                "author": "Giorno",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 57,
+                "total_pubs": 15
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ecopol:ep1711",
+        "name": "Capital Controls: World Experience and Lessons for Russia / Ограничения на движение капитала: мировой опыт и уроки для России",
+        "ref_authors": [{
+                "author": "Garcia",
+                "cits": 5,
+                "pubs": 1,
+                "total_cits": 5,
+                "total_pubs": 2
+            },
+            {
+                "author": "Obstfeld",
+                "cits": 5,
+                "pubs": 1,
+                "total_cits": 153,
+                "total_pubs": 72
+            },
+            {
+                "author": "Reinhart",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 4,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ecopol:ep1824",
+        "name": "Customs Administration in Russia: Directions of Improvement / Таможенное администрирование в России: направления совершенствования",
+        "ref_authors": [{
+                "author": "Widdowson",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 1,
+                "total_pubs": 1
+            },
+            {
+                "author": "Баландина",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 1,
+                "total_pubs": 1
+            },
+            {
+                "author": "Пономарев",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 1,
+                "total_pubs": 1
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ppaper:011801",
+        "name": "Analysis of Regional Price Differentiations / Анализ региональной дифференциации цен",
+        "ref_authors": [{
+                "author": "Глущенко",
+                "cits": 12,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 6
+            },
+            {
+                "author": "Cecchetti",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Ceglowski",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 19,
+                "total_pubs": 8
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ppaper:021907",
+        "name": "Prospects for tax policy. Is there an “ideal tax system” for Russia? / Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России?",
+        "ref_authors": [{
+                "author": "Mirrlees",
+                "cits": 11,
+                "pubs": 1,
+                "total_cits": 182,
+                "total_pubs": 85
+            },
+            {
+                "author": "Adam",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 12,
+                "total_pubs": 2
+            },
+            {
+                "author": "Besley",
+                "cits": 6,
+                "pubs": 1,
+                "total_cits": 12,
+                "total_pubs": 2
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ppaper:021911",
+        "name": "Customs Administration in Russia: What Should Modern Procedures Be? / Таможенное администрирование в России: какими должны быть современные процедуры",
+        "ref_authors": []
+    },
+    {
+        "pub_id": "repec:rnp:ppaper:021915",
+        "name": "Education and economic growth / Образование и экономический рост",
+        "ref_authors": [{
+                "author": "Hanushek",
+                "cits": 4,
+                "pubs": 1,
+                "total_cits": 108,
+                "total_pubs": 56
+            },
+            {
+                "author": "Woessmann",
+                "cits": 3,
+                "pubs": 1,
+                "total_cits": 9,
+                "total_pubs": 5
+            },
+            {
+                "author": "Baldacci",
+                "cits": 2,
+                "pubs": 1,
+                "total_cits": 6,
+                "total_pubs": 5
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:rnp:ppaper:dok18",
+        "name": "On New Trends and Issues in the Reform of the Financing System of Universities",
+        "ref_authors": []
+    },
+    {
+        "pub_id": "repec:rnp:wpaper:021708",
+        "name": "Analysis of the Regional Differentiation of Inflation / Анализ региональной дифференциации инфляции",
+        "ref_authors": [{
+                "author": "Cecchetti",
+                "cits": 8,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Mark",
+                "cits": 8,
+                "pubs": 1,
+                "total_cits": 31,
+                "total_pubs": 5
+            },
+            {
+                "author": "Parsley",
+                "cits": 7,
+                "pubs": 1,
+                "total_cits": 32,
+                "total_pubs": 8
+            }
+        ]
+    },
+    {
+        "pub_id": "repec:sec:cnstan:0450",
+        "name": "Macroeconomic Preconditions of the Realization of a New Growth Model",
+        "ref_authors": [{
+                "author": "Drobyshevsky",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 2,
+                "total_pubs": 2
+            },
+            {
+                "author": "Giorno",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 57,
+                "total_pubs": 15
+            },
+            {
+                "author": "In-Moo",
+                "cits": 1,
+                "pubs": 1,
+                "total_cits": 1,
+                "total_pubs": 1
+            }
+        ]
+    }
+]

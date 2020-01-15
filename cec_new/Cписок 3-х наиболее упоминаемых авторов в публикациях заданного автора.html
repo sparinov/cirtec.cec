@@ -1,0 +1,966 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0086)http://onir2.ranepa.ru:8081/groups/authors/Sergey-Sinelnikov-Murylev/bindles/raut.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link
+      rel="stylesheet"
+      href="./Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора_files/main.css"
+    />
+    <title>
+      Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора
+    </title>
+
+    <style type="text/css">
+      .even {
+        background-color: #eee;
+      }
+      .tabdata {
+        text-align: right;
+      }
+      .bundle_th {
+        font-weight: bold;
+      }
+      th {
+        font-weight: normal;
+        text-align: left;
+        font-style: italics;
+      }
+      h1 {
+        font-size: 1.5;
+      }
+      h2 {
+        font-size: 1.25;
+      }
+      hr {
+        height: 1px;
+        color: #000000;
+        border: 0;
+        background-color: #000000;
+      }
+      table {
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        padding-top: 2px;
+      }
+      dl {
+        padding-bottom: 0px;
+      }
+      .right_border {
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+        border-right-style: solid;
+        border-right-width: 1px;
+      }
+      .ll {
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+      }
+      .b {
+        vertical-align: top;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-style: solid;
+        border-top-width: 1px;
+      }
+      .sum {
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+      }
+      .u {
+        text-decoration: underline;
+      }
+      td.right {
+        text-align: right;
+      }
+      #explain {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора
+    </h1>
+    <table id="dont_call_it_explain">
+      <tbody>
+        <tr>
+          <td class="b">№</td>
+          <td class="b">порядковый номер</td>
+        </tr>
+        <tr>
+          <td class="b">paper</td>
+          <td class="b">публикация автора</td>
+        </tr>
+        <tr>
+          <td class="b">3 authors</td>
+          <td class="b">три наиболее упоминаемых автора</td>
+        </tr>
+        <tr>
+          <td class="b">cits</td>
+          <td class="b">
+            количество упоминаний процитированного автора в публикациях
+          </td>
+        </tr>
+        <tr>
+          <td class="b">pubs</td>
+          <td class="b">количество публикаций, в которых автор цитируется</td>
+        </tr>
+        <tr>
+          <td class="b">total cits</td>
+          <td class="b">
+            суммарное количество упоминаний процитированного автора, во всех
+            публикациях в Сиртек
+          </td>
+        </tr>
+        <tr>
+          <td class="b">total pubs</td>
+          <td class="b">
+            суммарное количество публикация в Сиртек, в которых автор цитируется
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <table>
+      <tbody>
+        <tr>
+          <th style="text-align: right" class="b">№</th>
+          <th class="b">paper</th>
+          <th class="b">3 authors</th>
+          <th class="b">cits</th>
+          <th class="b">pubs</th>
+          <th class="b">total cits</th>
+          <th class="b">total pubs</th>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">1</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Качество администрирования налога на добавленную стоимость в
+              странах ОЭСР и России (Quality of VAT Administration in OECD
+              Countries and Russia)</a
+            >
+          </td>
+          <td class="b">Aizenman</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Jinjarak</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Keen</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">27</td>
+          <td align="right" class="b">17</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">2</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Теоретические Основы Бюджетного Разрыва Как Показателя
+              Долгосрочной Фискальной Устойчивости и Его Оценка Для России
+              (Theoretical Foundations of Fiscal Gap as a Long-Term Fiscal
+              Sustainability Indicator and its Estimates for Russia)</a
+            >
+          </td>
+          <td class="b">IMF</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">397</td>
+          <td align="right" class="b">206</td>
+        </tr>
+        <tr>
+          <td class="b">Kotlikoff</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">48</td>
+          <td align="right" class="b">35</td>
+        </tr>
+        <tr>
+          <td class="b">Rother</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">11</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">3</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Анализ Региональной Дифференциации Инфляции (Analysis of the
+              Regional Differentiation of Inflation)</a
+            >
+          </td>
+          <td class="b">Cecchetti</td>
+          <td align="right" class="b">8</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Mark</td>
+          <td align="right" class="b">8</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Parsley</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">32</td>
+          <td align="right" class="b">8</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">4</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Анализ региональной дифференциации цен (Analysis of Regional
+              Price Differentiation)</a
+            >
+          </td>
+          <td class="b">Глущенко</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">6</td>
+        </tr>
+        <tr>
+          <td class="b">Cecchetti</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Ceglowski</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">19</td>
+          <td align="right" class="b">8</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">5</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Перспективы налоговой политики. Существует ли «идеальная
+              налоговая система» для России? (Prospects for Tax Policy. Is there
+              An `Ideal Tax System` for Russia?)</a
+            >
+          </td>
+          <td class="b">Mirrlees</td>
+          <td align="right" class="b">11</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">182</td>
+          <td align="right" class="b">85</td>
+        </tr>
+        <tr>
+          <td class="b">Adam</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Besley</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">7</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Образование и экономический рост (Education and Economic
+              Growth)</a
+            >
+          </td>
+          <td class="b">Hanushek</td>
+          <td align="right" class="b">2</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">108</td>
+          <td align="right" class="b">56</td>
+        </tr>
+        <tr>
+          <td class="b">Acemoglu</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">38</td>
+          <td align="right" class="b">21</td>
+        </tr>
+        <tr>
+          <td class="b">Baldacci</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">8</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Budget Policy and Economic Growth</a
+            >
+          </td>
+          <td class="b">IMF</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">77</td>
+          <td align="right" class="b">42</td>
+        </tr>
+        <tr>
+          <td class="b">Sinelnikov-Murylev</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">20</td>
+          <td align="right" class="b">16</td>
+        </tr>
+        <tr>
+          <td class="b">Barro</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">921</td>
+          <td align="right" class="b">500</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">9</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Forming Sources for a Long-run Growth: How to Understand Them?</a
+            >
+          </td>
+          <td class="b">Sinelnikov-Murylev</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">22</td>
+          <td align="right" class="b">16</td>
+        </tr>
+        <tr>
+          <td class="b">Helpman</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">50</td>
+          <td align="right" class="b">21</td>
+        </tr>
+        <tr>
+          <td class="b">Idrisov</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">4</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">10</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >From Elections to Appointments of the Regional Governors: Major
+              Challenges and Outcomes</a
+            >
+          </td>
+          <td class="b">Oates</td>
+          <td align="right" class="b">19</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">220</td>
+          <td align="right" class="b">101</td>
+        </tr>
+        <tr>
+          <td class="b">Niskanen</td>
+          <td align="right" class="b">8</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">106</td>
+          <td align="right" class="b">56</td>
+        </tr>
+        <tr>
+          <td class="b">Robert</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">11</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Fiscal Federalism in Russia: Soft Budget Constraints of Regional
+              Governments</a
+            >
+          </td>
+          <td class="b">Rodden</td>
+          <td align="right" class="b">11</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">64</td>
+          <td align="right" class="b">23</td>
+        </tr>
+        <tr>
+          <td class="b">Inman</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">20</td>
+          <td align="right" class="b">10</td>
+        </tr>
+        <tr>
+          <td class="b">Maskin</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">38</td>
+          <td align="right" class="b">24</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">12</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Theoretical foundations of fiscal gap as a long-term fiscal
+              sustainability indicator and its estimates for Russia</a
+            >
+          </td>
+          <td class="b">IMF</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">397</td>
+          <td align="right" class="b">206</td>
+        </tr>
+        <tr>
+          <td class="b">Kotlikoff</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">48</td>
+          <td align="right" class="b">35</td>
+        </tr>
+        <tr>
+          <td class="b">Rother</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">11</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">13</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Decomposition of Russia's GDP Growth Rates</a
+            >
+          </td>
+          <td class="b">King</td>
+          <td align="right" class="b">23</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">166</td>
+          <td align="right" class="b">75</td>
+        </tr>
+        <tr>
+          <td class="b">Baxter</td>
+          <td align="right" class="b">21</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">134</td>
+          <td align="right" class="b">53</td>
+        </tr>
+        <tr>
+          <td class="b">Richardson</td>
+          <td align="right" class="b">16</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">65</td>
+          <td align="right" class="b">19</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">14</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Decomposition of Russia's GDP Growth Rates</a
+            >
+          </td>
+          <td class="b">King</td>
+          <td align="right" class="b">23</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">166</td>
+          <td align="right" class="b">75</td>
+        </tr>
+        <tr>
+          <td class="b">Baxter</td>
+          <td align="right" class="b">21</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">134</td>
+          <td align="right" class="b">53</td>
+        </tr>
+        <tr>
+          <td class="b">Richardson</td>
+          <td align="right" class="b">16</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">65</td>
+          <td align="right" class="b">19</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">15</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Stabilizing features of transfers allocated to the Russian
+              regions from the Federal budget</a
+            >
+          </td>
+          <td class="b">Hagen</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">19</td>
+          <td align="right" class="b">11</td>
+        </tr>
+        <tr>
+          <td class="b">Кадочников</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Синельников-Мурылев</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">16</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Quality of the Administration of Value-Added Tax in OECD
+              countries and Russia</a
+            >
+          </td>
+          <td class="b">Aizenman</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Jinjarak</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Keen</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">27</td>
+          <td align="right" class="b">17</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">17</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Budget Policy and Economic Growth</a
+            >
+          </td>
+          <td class="b">IMF</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">77</td>
+          <td align="right" class="b">42</td>
+        </tr>
+        <tr>
+          <td class="b">Sinelnikov-Murylev</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">20</td>
+          <td align="right" class="b">16</td>
+        </tr>
+        <tr>
+          <td class="b">Barro</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">921</td>
+          <td align="right" class="b">500</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">18</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Forming Sources for a Long-run Growth: How to Understand Them?</a
+            >
+          </td>
+          <td class="b">Sinelnikov-Murylev</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">22</td>
+          <td align="right" class="b">16</td>
+        </tr>
+        <tr>
+          <td class="b">Helpman</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">50</td>
+          <td align="right" class="b">21</td>
+        </tr>
+        <tr>
+          <td class="b">Idrisov</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">4</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">19</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Theoretical foundations of fiscal gap as a long-term fiscal
+              sustainability indicator and its estimates for Russia</a
+            >
+          </td>
+          <td class="b">IMF</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">397</td>
+          <td align="right" class="b">206</td>
+        </tr>
+        <tr>
+          <td class="b">Kotlikoff</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">48</td>
+          <td align="right" class="b">35</td>
+        </tr>
+        <tr>
+          <td class="b">Rother</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">15</td>
+          <td align="right" class="b">11</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">21</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Quality of VAT administration in OECD countries and Russia</a
+            >
+          </td>
+          <td class="b">Aizenman</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Jinjarak</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Keen</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">27</td>
+          <td align="right" class="b">17</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">22</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Terms of trade and economic development of modern Russia /
+              Условия торговли и экономическое развитие современной России</a
+            >
+          </td>
+          <td class="b">Kohli</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">22</td>
+          <td align="right" class="b">11</td>
+        </tr>
+        <tr>
+          <td class="b">Трунин</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">3</td>
+        </tr>
+        <tr>
+          <td class="b">Идрисов</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">4</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">23</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Actual problems of the banking system in the Russian Federation /
+              Актуальные проблемы развития банковской системы в Российской
+              Федерации</a
+            >
+          </td>
+          <td class="b">Barros</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Martin</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">18</td>
+          <td align="right" class="b">8</td>
+        </tr>
+        <tr>
+          <td class="b">Modesto</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">24</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Decomposition of the russian GDP growth rate in 1999-2014 /
+              Декомпозиция темпов роста ВВП России в 1999—2014 годах</a
+            >
+          </td>
+          <td class="b">Казакова</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">40</td>
+          <td align="right" class="b">23</td>
+        </tr>
+        <tr>
+          <td class="b">Синельников-Мурылев</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">29</td>
+          <td align="right" class="b">27</td>
+        </tr>
+        <tr>
+          <td class="b">Giorno</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">57</td>
+          <td align="right" class="b">15</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">25</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Capital Controls: World Experience and Lessons for Russia /
+              Ограничения на движение капитала: мировой опыт и уроки для
+              России</a
+            >
+          </td>
+          <td class="b">Garcia</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Obstfeld</td>
+          <td align="right" class="b">5</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">153</td>
+          <td align="right" class="b">72</td>
+        </tr>
+        <tr>
+          <td class="b">Reinhart</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">26</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Customs Administration in Russia: Directions of Improvement /
+              Таможенное администрирование в России: направления
+              совершенствования</a
+            >
+          </td>
+          <td class="b">Widdowson</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+        </tr>
+        <tr>
+          <td class="b">Баландина</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+        </tr>
+        <tr>
+          <td class="b">Пономарев</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">27</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Analysis of Regional Price Differentiations / Анализ региональной
+              дифференциации цен</a
+            >
+          </td>
+          <td class="b">Глущенко</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">6</td>
+        </tr>
+        <tr>
+          <td class="b">Cecchetti</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Ceglowski</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">19</td>
+          <td align="right" class="b">8</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">28</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Prospects for tax policy. Is there an “ideal tax system” for
+              Russia? / Перспективы налоговой политики. Существует ли «идеальная
+              налоговая система» для России?</a
+            >
+          </td>
+          <td class="b">Mirrlees</td>
+          <td align="right" class="b">11</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">182</td>
+          <td align="right" class="b">85</td>
+        </tr>
+        <tr>
+          <td class="b">Adam</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Besley</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">12</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">30</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Education and economic growth / Образование и экономический
+              рост</a
+            >
+          </td>
+          <td class="b">Hanushek</td>
+          <td align="right" class="b">4</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">108</td>
+          <td align="right" class="b">56</td>
+        </tr>
+        <tr>
+          <td class="b">Woessmann</td>
+          <td align="right" class="b">3</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">9</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Baldacci</td>
+          <td align="right" class="b">2</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">6</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">32</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Analysis of the Regional Differentiation of Inflation / Анализ
+              региональной дифференциации инфляции</a
+            >
+          </td>
+          <td class="b">Cecchetti</td>
+          <td align="right" class="b">8</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Mark</td>
+          <td align="right" class="b">8</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">31</td>
+          <td align="right" class="b">5</td>
+        </tr>
+        <tr>
+          <td class="b">Parsley</td>
+          <td align="right" class="b">7</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">32</td>
+          <td align="right" class="b">8</td>
+        </tr>
+        <tr>
+          <td align="right" rowspan="3" valign="top" class="b">33</td>
+          <td class="b" rowspan="3" valign="top">
+            <a href="https://socionet.ru/publication.xml?h="
+              >Macroeconomic Preconditions of the Realization of a New Growth
+              Model</a
+            >
+          </td>
+          <td class="b">Drobyshevsky</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">2</td>
+          <td align="right" class="b">2</td>
+        </tr>
+        <tr>
+          <td class="b">Giorno</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">57</td>
+          <td align="right" class="b">15</td>
+        </tr>
+        <tr>
+          <td class="b">In-Moo</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+          <td align="right" class="b">1</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr />
+    <div class="footer">
+      This page is being maintained by
+      <a href="http://openlib.org/home/krichel">Thomas&nbsp;Krichel</a>. It was
+      last changed on 2019‒12‒25. Send questions and comments to
+      &lt;repository@ranepa.ru&gt;. The Cirtec project is funded by
+      <a href="http://www.ranepa.ru/eng/">RANEPA</a>.
+    </div>
+  </body>
+</html>

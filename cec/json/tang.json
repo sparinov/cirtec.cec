@@ -1,0 +1,137 @@
+[
+ {
+  "class_pos_neg": "positive",
+  "ngramms": [
+   {
+    "title": "темп рост",
+    "count": 18
+   },
+   {
+    "title": "уровень безработица",
+    "count": 16
+   },
+   {
+    "title": "экономический рост",
+    "count": 15
+   },
+   {
+    "title": "public goods",
+    "count": 11
+   },
+   {
+    "title": "разрыв выпуск",
+    "count": 10
+   },
+   {
+    "title": "фильтр калман",
+    "count": 10
+   },
+   {
+    "title": "financial assistance",
+    "count": 8
+   },
+   {
+    "title": "естественный уровень",
+    "count": 8
+   },
+   {
+    "title": "без постоянный",
+    "count": 7
+   },
+   {
+    "title": "долгосрочный перспектива",
+    "count": 7
+   }
+  ]
+ },
+ {
+  "class_pos_neg": "neutral",
+  "ngramms": [
+   {
+    "title": "уровень цена",
+    "count": 177
+   },
+   {
+    "title": "единый цена",
+    "count": 110
+   },
+   {
+    "title": "экономический рост",
+    "count": 110
+   },
+   {
+    "title": "закон единый",
+    "count": 106
+   },
+   {
+    "title": "разрыв выпуск",
+    "count": 83
+   },
+   {
+    "title": "потенциальный ввп",
+    "count": 82
+   },
+   {
+    "title": "economic growth",
+    "count": 81
+   },
+   {
+    "title": "временный ряд",
+    "count": 70
+   },
+   {
+    "title": "темп рост",
+    "count": 70
+   },
+   {
+    "title": "detail see",
+    "count": 65
+   }
+  ]
+ },
+ {
+  "class_pos_neg": "negative",
+  "ngramms": [
+   {
+    "title": "уровень цена",
+    "count": 38
+   },
+   {
+    "title": "экономический рост",
+    "count": 35
+   },
+   {
+    "title": "потенциальный ввп",
+    "count": 30
+   },
+   {
+    "title": "темп рост",
+    "count": 20
+   },
+   {
+    "title": "производственный функция",
+    "count": 18
+   },
+   {
+    "title": "выбор эталонный",
+    "count": 16
+   },
+   {
+    "title": "город сша",
+    "count": 16
+   },
+   {
+    "title": "проблема выбор",
+    "count": 16
+   },
+   {
+    "title": "эталонный уровень",
+    "count": 16
+   },
+   {
+    "title": "период год",
+    "count": 15
+   }
+  ]
+ }
+]
