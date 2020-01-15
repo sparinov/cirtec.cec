@@ -1,2 +1,5 @@
 cec/*
 !cec/json/
+
+cec_new/templates/__pycache__
+cec_new/templates/__pycache__/*
