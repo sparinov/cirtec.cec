@@ -8,6 +8,35 @@
     </title>
 
     <style type="text/css">
+      .content {
+        display: grid;
+        grid-template-columns: auto auto auto auto auto auto auto;
+        border-right: 1px solid gray;
+        border-bottom: 1px solid gray;
+        border-collapse: separate;
+      }
+      .content > div {
+        border-top: 1px solid gray;
+        border-left: 1px solid gray;
+        border-collapse: separate;
+        padding: 3px;
+      }
+      .index {
+        text-align: right;
+      }
+      .header {
+        font-weight: bold;
+      }
+      .content > div.list {
+        padding-top: 0px;
+      }
+      .cell {
+        border-bottom: 1px solid gray;
+        border-collapse: separate;
+        margin: 0px -3px -4px -3px;
+        padding: 3px;
+    }
+
       table {
         border-collapse: collapse;
       }
@@ -21,16 +50,15 @@
       a {
         word-break: break-word;
       }
-      .index {
-        text-align: right;
-      }
     </style>
+      
+       
   </head>
   <body>
     <h1>
       Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора
     </h1>
-    <table id="dont_call_it_explain">
+    <table>
       <tbody>
         <tr>
           <th>№</th>
@@ -72,1008 +100,2772 @@
 
     <br />
 
-    <table>
-      <thead>
-        <tr>
-          <th class="index">№</th>
-          <th>paper</th>
-          <th>3 authors</th>
-          <th>cits</th>
-          <th>pubs</th>
-          <th>total cits</th>
-          <th>total pubs</th>
-        </tr>
-      </thead>
-      <tbody>
-        
-        <tr>
-          <td rowspan="3" class="index">1</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2169871"
-            >
-              Качество администрирования налога на добавленную стоимость в странах ОЭСР и России (Quality of VAT Administration in OECD Countries and Russia)
-            </a>
-          </td>
+    <div class="content">
+      <div class="index header">№</div>
+      <div class="header">paper</div>
+      <div class="header">3 authors</div>
+      <div class="header">cits</div>
+      <div class="header">pubs</div>
+      <div class="header">total cits</div>
+      <div class="header">total pubs</div>
 
-          <td>Aizenman</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
-
+      
+      <div class="index">
+        1
+      </div>
+      <div>
         
-        <tr>
-          <td>Jinjarak</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2169871"
+    >
+      Качество администрирования налога на добавленную стоимость в странах ОЭСР и России (Quality of VAT Administration in OECD Countries and Russia)
+    </a>
+    
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Keen</td>
-          <td>3</td>
-          <td>1</td>
-          <td>27</td>
-          <td>17</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">2</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2600000"
-            >
-              Теоретические Основы Бюджетного Разрыва Как Показателя Долгосрочной Фискальной Устойчивости и Его Оценка Для России (Theoretical Foundations of Fiscal Gap as a Long-Term Fiscal Sustainability Indicator and its Estimates for Russia)
-            </a>
-          </td>
-
-          <td>IMF</td>
-          <td>15</td>
-          <td>1</td>
-          <td>397</td>
-          <td>206</td>
-        </tr>
-
+        <div class="cell">
+           Aizenman 
+        </div>
         
-        <tr>
-          <td>Kotlikoff</td>
-          <td>6</td>
-          <td>1</td>
-          <td>48</td>
-          <td>35</td>
-        </tr>
+        <div class="cell">
+           Jinjarak 
+        </div>
         
-        <tr>
-          <td>Rother</td>
-          <td>4</td>
-          <td>1</td>
-          <td>15</td>
-          <td>11</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">3</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2920571"
-            >
-              Анализ Региональной Дифференциации Инфляции (Analysis of the Regional Differentiation of Inflation)
-            </a>
-          </td>
-
-          <td>Cecchetti</td>
-          <td>8</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
+        <div class="cell">
+           Keen 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           9 
+        </div>
 
         
-        <tr>
-          <td>Mark</td>
-          <td>8</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
-        
-        <tr>
-          <td>Parsley</td>
-          <td>7</td>
-          <td>1</td>
-          <td>32</td>
-          <td>8</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">4</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3109344"
-            >
-              Анализ региональной дифференциации цен (Analysis of Regional Price Differentiation)
-            </a>
-          </td>
-
-          <td>Глущенко</td>
-          <td>12</td>
-          <td>1</td>
-          <td>31</td>
-          <td>6</td>
-        </tr>
+        <div class="cell">
+           9 
+        </div>
 
         
-        <tr>
-          <td>Cecchetti</td>
-          <td>6</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
-        
-        <tr>
-          <td>Ceglowski</td>
-          <td>6</td>
-          <td>1</td>
-          <td>19</td>
-          <td>8</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">5</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3338329"
-            >
-              Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России? (Prospects for Tax Policy. Is there An `Ideal Tax System` for Russia?)
-            </a>
-          </td>
-
-          <td>Mirrlees</td>
-          <td>11</td>
-          <td>1</td>
-          <td>182</td>
-          <td>85</td>
-        </tr>
+        <div class="cell">
+           27 
+        </div>
 
         
-        <tr>
-          <td>Adam</td>
-          <td>6</td>
-          <td>1</td>
-          <td>12</td>
-          <td>2</td>
-        </tr>
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Besley</td>
-          <td>6</td>
-          <td>1</td>
-          <td>12</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">6</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3339298"
-            >
-              Образование и экономический рост (Education and Economic Growth)
-            </a>
-          </td>
-
-          <td>Hanushek</td>
-          <td>2</td>
-          <td>1</td>
-          <td>108</td>
-          <td>56</td>
-        </tr>
+        <div class="cell">
+           3 
+        </div>
 
         
-        <tr>
-          <td>Acemoglu</td>
-          <td>1</td>
-          <td>1</td>
-          <td>38</td>
-          <td>21</td>
-        </tr>
-        
-        <tr>
-          <td>Baldacci</td>
-          <td>1</td>
-          <td>1</td>
-          <td>6</td>
-          <td>5</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">7</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:gai-wpaper-0076"
-            >
-              Budget Policy and Economic Growth
-            </a>
-          </td>
-
-          <td>IMF</td>
-          <td>6</td>
-          <td>1</td>
-          <td>77</td>
-          <td>42</td>
-        </tr>
+        <div class="cell">
+           3 
+        </div>
 
         
-        <tr>
-          <td>Sinelnikov-Murylev</td>
-          <td>5</td>
-          <td>1</td>
-          <td>20</td>
-          <td>16</td>
-        </tr>
-        
-        <tr>
-          <td>Barro</td>
-          <td>4</td>
-          <td>1</td>
-          <td>921</td>
-          <td>500</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">8</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:gai-wpaper-0096"
-            >
-              Forming Sources for a Long-run Growth: How to Understand Them?
-            </a>
-          </td>
-
-          <td>Sinelnikov-Murylev</td>
-          <td>7</td>
-          <td>1</td>
-          <td>22</td>
-          <td>16</td>
-        </tr>
+        <div class="cell">
+           17 
+        </div>
 
         
-        <tr>
-          <td>Helpman</td>
-          <td>3</td>
-          <td>1</td>
-          <td>50</td>
-          <td>21</td>
-        </tr>
+      </div>
+      
+      <div class="index">
+        2
+      </div>
+      <div>
         
-        <tr>
-          <td>Idrisov</td>
-          <td>3</td>
-          <td>1</td>
-          <td>6</td>
-          <td>4</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">9</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:ppaper:2"
-            >
-              From Elections to Appointments of the Regional Governors: Major Challenges and Outcomes
-            </a>
-          </td>
-
-          <td>Oates</td>
-          <td>19</td>
-          <td>1</td>
-          <td>220</td>
-          <td>101</td>
-        </tr>
-
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2600000"
+    >
+      Теоретические Основы Бюджетного Разрыва Как Показателя Долгосрочной Фискальной Устойчивости и Его Оценка Для России (Theoretical Foundations of Fiscal Gap as a Long-Term Fiscal Sustainability Indicator and its Estimates for Russia)
+    </a>
+    
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Niskanen</td>
-          <td>8</td>
-          <td>1</td>
-          <td>106</td>
-          <td>56</td>
-        </tr>
+        <div class="cell">
+           IMF 
+        </div>
         
-        <tr>
-          <td>Robert</td>
-          <td>6</td>
-          <td>1</td>
-          <td>6</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">10</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:ppaper:47"
-            >
-              Fiscal Federalism in Russia: Soft Budget Constraints of Regional Governments
-            </a>
-          </td>
-
-          <td>Rodden</td>
-          <td>11</td>
-          <td>1</td>
-          <td>64</td>
-          <td>23</td>
-        </tr>
-
+        <div class="cell">
+           Kotlikoff 
+        </div>
         
-        <tr>
-          <td>Inman</td>
-          <td>9</td>
-          <td>1</td>
-          <td>20</td>
-          <td>10</td>
-        </tr>
+        <div class="cell">
+           Rother 
+        </div>
         
-        <tr>
-          <td>Maskin</td>
-          <td>7</td>
-          <td>1</td>
-          <td>38</td>
-          <td>24</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">11</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:125"
-            >
-              Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia
-            </a>
-          </td>
-
-          <td>IMF</td>
-          <td>15</td>
-          <td>1</td>
-          <td>397</td>
-          <td>206</td>
-        </tr>
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           15 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           397 
+        </div>
 
         
-        <tr>
-          <td>Kotlikoff</td>
-          <td>4</td>
-          <td>1</td>
-          <td>48</td>
-          <td>35</td>
-        </tr>
-        
-        <tr>
-          <td>Rother</td>
-          <td>4</td>
-          <td>1</td>
-          <td>15</td>
-          <td>11</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">12</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:126"
-            >
-              Decomposition of Russia's GDP Growth Rates
-            </a>
-          </td>
-
-          <td>King</td>
-          <td>23</td>
-          <td>1</td>
-          <td>166</td>
-          <td>75</td>
-        </tr>
+        <div class="cell">
+           48 
+        </div>
 
         
-        <tr>
-          <td>Baxter</td>
-          <td>21</td>
-          <td>1</td>
-          <td>134</td>
-          <td>53</td>
-        </tr>
-        
-        <tr>
-          <td>Richardson</td>
-          <td>16</td>
-          <td>1</td>
-          <td>65</td>
-          <td>19</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">13</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:128"
-            >
-              Decomposition of Russia's GDP Growth Rates
-            </a>
-          </td>
-
-          <td>King</td>
-          <td>23</td>
-          <td>1</td>
-          <td>166</td>
-          <td>75</td>
-        </tr>
+        <div class="cell">
+           15 
+        </div>
 
         
-        <tr>
-          <td>Baxter</td>
-          <td>21</td>
-          <td>1</td>
-          <td>134</td>
-          <td>53</td>
-        </tr>
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Richardson</td>
-          <td>16</td>
-          <td>1</td>
-          <td>65</td>
-          <td>19</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">14</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:rpaper-2018-173p-904"
-            >
-              Stabilizing features of transfers allocated to the Russian regions from the Federal budget
-            </a>
-          </td>
-
-          <td>Hagen</td>
-          <td>7</td>
-          <td>1</td>
-          <td>19</td>
-          <td>11</td>
-        </tr>
+        <div class="cell">
+           206 
+        </div>
 
         
-        <tr>
-          <td>Кадочников</td>
-          <td>4</td>
-          <td>1</td>
-          <td>4</td>
-          <td>2</td>
-        </tr>
-        
-        <tr>
-          <td>Синельников-Мурылев</td>
-          <td>4</td>
-          <td>1</td>
-          <td>4</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">15</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0050"
-            >
-              Quality of the Administration of Value-Added Tax in OECD countries and Russia
-            </a>
-          </td>
-
-          <td>Aizenman</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
+        <div class="cell">
+           35 
+        </div>
 
         
-        <tr>
-          <td>Jinjarak</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
-        
-        <tr>
-          <td>Keen</td>
-          <td>3</td>
-          <td>1</td>
-          <td>27</td>
-          <td>17</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">16</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0076"
-            >
-              Budget Policy and Economic Growth
-            </a>
-          </td>
-
-          <td>IMF</td>
-          <td>7</td>
-          <td>1</td>
-          <td>77</td>
-          <td>42</td>
-        </tr>
+        <div class="cell">
+           11 
+        </div>
 
         
-        <tr>
-          <td>Sinelnikov-Murylev</td>
-          <td>7</td>
-          <td>1</td>
-          <td>20</td>
-          <td>16</td>
-        </tr>
+      </div>
+      
+      <div class="index">
+        3
+      </div>
+      <div>
         
-        <tr>
-          <td>Barro</td>
-          <td>5</td>
-          <td>1</td>
-          <td>921</td>
-          <td>500</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">17</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0096"
-            >
-              Forming Sources for a Long-run Growth: How to Understand Them?
-            </a>
-          </td>
-
-          <td>Sinelnikov-Murylev</td>
-          <td>7</td>
-          <td>1</td>
-          <td>22</td>
-          <td>16</td>
-        </tr>
-
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:2920571"
+    >
+      Анализ Региональной Дифференциации Инфляции (Analysis of the Regional Differentiation of Inflation)
+    </a>
+    
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Helpman</td>
-          <td>3</td>
-          <td>1</td>
-          <td>50</td>
-          <td>21</td>
-        </tr>
+        <div class="cell">
+           Cecchetti 
+        </div>
         
-        <tr>
-          <td>Idrisov</td>
-          <td>3</td>
-          <td>1</td>
-          <td>6</td>
-          <td>4</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">18</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0113"
-            >
-              Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia
-            </a>
-          </td>
-
-          <td>IMF</td>
-          <td>15</td>
-          <td>1</td>
-          <td>397</td>
-          <td>206</td>
-        </tr>
-
+        <div class="cell">
+           Mark 
+        </div>
         
-        <tr>
-          <td>Kotlikoff</td>
-          <td>6</td>
-          <td>1</td>
-          <td>48</td>
-          <td>35</td>
-        </tr>
+        <div class="cell">
+           Parsley 
+        </div>
         
-        <tr>
-          <td>Rother</td>
-          <td>4</td>
-          <td>1</td>
-          <td>15</td>
-          <td>11</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">19</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:ris:apltrx:0084"
-            >
-              Quality of VAT administration in OECD countries and Russia
-            </a>
-          </td>
-
-          <td>Aizenman</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           8 
+        </div>
+        
+        <div class="cell">
+           8 
+        </div>
+        
+        <div class="cell">
+           7 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           31 
+        </div>
 
         
-        <tr>
-          <td>Jinjarak</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>3</td>
-        </tr>
-        
-        <tr>
-          <td>Keen</td>
-          <td>3</td>
-          <td>1</td>
-          <td>27</td>
-          <td>17</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">20</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:1532"
-            >
-              Terms of trade and economic development of modern Russia / Условия торговли и экономическое развитие современной России
-            </a>
-          </td>
-
-          <td>Kohli</td>
-          <td>5</td>
-          <td>1</td>
-          <td>22</td>
-          <td>11</td>
-        </tr>
+        <div class="cell">
+           31 
+        </div>
 
         
-        <tr>
-          <td>Трунин</td>
-          <td>4</td>
-          <td>1</td>
-          <td>4</td>
-          <td>3</td>
-        </tr>
-        
-        <tr>
-          <td>Идрисов</td>
-          <td>3</td>
-          <td>1</td>
-          <td>5</td>
-          <td>4</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">21</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1426"
-            >
-              Actual problems of the banking system in the Russian Federation / Актуальные проблемы развития банковской системы в Российской Федерации
-            </a>
-          </td>
-
-          <td>Barros</td>
-          <td>1</td>
-          <td>1</td>
-          <td>3</td>
-          <td>2</td>
-        </tr>
+        <div class="cell">
+           32 
+        </div>
 
         
-        <tr>
-          <td>Martin</td>
-          <td>1</td>
-          <td>1</td>
-          <td>18</td>
-          <td>8</td>
-        </tr>
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Modesto</td>
-          <td>1</td>
-          <td>1</td>
-          <td>3</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">22</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1457"
-            >
-              Decomposition of the russian GDP growth rate in 1999-2014 / Декомпозиция темпов роста ВВП России в 1999—2014 годах
-            </a>
-          </td>
-
-          <td>Казакова</td>
-          <td>4</td>
-          <td>1</td>
-          <td>40</td>
-          <td>23</td>
-        </tr>
+        <div class="cell">
+           5 
+        </div>
 
         
-        <tr>
-          <td>Синельников-Мурылев</td>
-          <td>4</td>
-          <td>1</td>
-          <td>29</td>
-          <td>27</td>
-        </tr>
-        
-        <tr>
-          <td>Giorno</td>
-          <td>3</td>
-          <td>1</td>
-          <td>57</td>
-          <td>15</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">23</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1711"
-            >
-              Capital Controls: World Experience and Lessons for Russia / Ограничения на движение капитала: мировой опыт и уроки для России
-            </a>
-          </td>
-
-          <td>Garcia</td>
-          <td>5</td>
-          <td>1</td>
-          <td>5</td>
-          <td>2</td>
-        </tr>
+        <div class="cell">
+           5 
+        </div>
 
         
-        <tr>
-          <td>Obstfeld</td>
-          <td>5</td>
-          <td>1</td>
-          <td>153</td>
-          <td>72</td>
-        </tr>
-        
-        <tr>
-          <td>Reinhart</td>
-          <td>4</td>
-          <td>1</td>
-          <td>4</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">24</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1824"
-            >
-              Customs Administration in Russia: Directions of Improvement / Таможенное администрирование в России: направления совершенствования
-            </a>
-          </td>
-
-          <td>Widdowson</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-        </tr>
+        <div class="cell">
+           8 
+        </div>
 
         
-        <tr>
-          <td>Баландина</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-        </tr>
+      </div>
+      
+      <div class="index">
+        4
+      </div>
+      <div>
         
-        <tr>
-          <td>Пономарев</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">25</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:011801"
-            >
-              Analysis of Regional Price Differentiations / Анализ региональной дифференциации цен
-            </a>
-          </td>
-
-          <td>Глущенко</td>
-          <td>12</td>
-          <td>1</td>
-          <td>31</td>
-          <td>6</td>
-        </tr>
-
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3109344"
+    >
+      Анализ региональной дифференциации цен (Analysis of Regional Price Differentiation)
+    </a>
+    
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>Cecchetti</td>
-          <td>6</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
+        <div class="cell">
+           Глущенко 
+        </div>
         
-        <tr>
-          <td>Ceglowski</td>
-          <td>6</td>
-          <td>1</td>
-          <td>19</td>
-          <td>8</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">26</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:021907"
-            >
-              Prospects for tax policy. Is there an “ideal tax system” for Russia? / Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России?
-            </a>
-          </td>
-
-          <td>Mirrlees</td>
-          <td>11</td>
-          <td>1</td>
-          <td>182</td>
-          <td>85</td>
-        </tr>
-
+        <div class="cell">
+           Cecchetti 
+        </div>
         
-        <tr>
-          <td>Adam</td>
-          <td>6</td>
-          <td>1</td>
-          <td>12</td>
-          <td>2</td>
-        </tr>
+        <div class="cell">
+           Ceglowski 
+        </div>
         
-        <tr>
-          <td>Besley</td>
-          <td>6</td>
-          <td>1</td>
-          <td>12</td>
-          <td>2</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">27</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:021915"
-            >
-              Education and economic growth / Образование и экономический рост
-            </a>
-          </td>
-
-          <td>Hanushek</td>
-          <td>4</td>
-          <td>1</td>
-          <td>108</td>
-          <td>56</td>
-        </tr>
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           12 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           31 
+        </div>
 
         
-        <tr>
-          <td>Woessmann</td>
-          <td>3</td>
-          <td>1</td>
-          <td>9</td>
-          <td>5</td>
-        </tr>
-        
-        <tr>
-          <td>Baldacci</td>
-          <td>2</td>
-          <td>1</td>
-          <td>6</td>
-          <td>5</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">28</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:rnp:wpaper:021708"
-            >
-              Analysis of the Regional Differentiation of Inflation / Анализ региональной дифференциации инфляции
-            </a>
-          </td>
-
-          <td>Cecchetti</td>
-          <td>8</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
+        <div class="cell">
+           31 
+        </div>
 
         
-        <tr>
-          <td>Mark</td>
-          <td>8</td>
-          <td>1</td>
-          <td>31</td>
-          <td>5</td>
-        </tr>
-        
-        <tr>
-          <td>Parsley</td>
-          <td>7</td>
-          <td>1</td>
-          <td>32</td>
-          <td>8</td>
-        </tr>
-         
-        <tr>
-          <td rowspan="3" class="index">29</td>
-          <td rowspan="3">
-            <a target="blank"
-              href="https://socionet.ru/publication.xml?h=repec:sec:cnstan:0450"
-            >
-              Macroeconomic Preconditions of the Realization of a New Growth Model
-            </a>
-          </td>
-
-          <td>Drobyshevsky</td>
-          <td>1</td>
-          <td>1</td>
-          <td>2</td>
-          <td>2</td>
-        </tr>
+        <div class="cell">
+           19 
+        </div>
 
         
-        <tr>
-          <td>Giorno</td>
-          <td>1</td>
-          <td>1</td>
-          <td>57</td>
-          <td>15</td>
-        </tr>
+      </div>
+      <div class="list">
         
-        <tr>
-          <td>In-Moo</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-          <td>1</td>
-        </tr>
-         
-      </tbody>
-    </table>
+        <div class="cell">
+           6 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           8 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        5
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3338329"
+    >
+      Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России? (Prospects for Tax Policy. Is there An `Ideal Tax System` for Russia?)
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Mirrlees 
+        </div>
+        
+        <div class="cell">
+           Adam 
+        </div>
+        
+        <div class="cell">
+           Besley 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           11 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           182 
+        </div>
+
+        
+        <div class="cell">
+           12 
+        </div>
+
+        
+        <div class="cell">
+           12 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           85 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        6
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:3339298"
+    >
+      Образование и экономический рост (Education and Economic Growth)
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Hanushek 
+        </div>
+        
+        <div class="cell">
+           Acemoglu 
+        </div>
+        
+        <div class="cell">
+           Baldacci 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           2 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           108 
+        </div>
+
+        
+        <div class="cell">
+           38 
+        </div>
+
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           56 
+        </div>
+
+        
+        <div class="cell">
+           21 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        7
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:gai-wpaper-0076"
+    >
+      Budget Policy and Economic Growth
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           IMF 
+        </div>
+        
+        <div class="cell">
+           Sinelnikov-Murylev 
+        </div>
+        
+        <div class="cell">
+           Barro 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           5 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           77 
+        </div>
+
+        
+        <div class="cell">
+           20 
+        </div>
+
+        
+        <div class="cell">
+           921 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           42 
+        </div>
+
+        
+        <div class="cell">
+           16 
+        </div>
+
+        
+        <div class="cell">
+           500 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        8
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=ranepa:rosa:doppubs:gai-wpaper-0096"
+    >
+      Forming Sources for a Long-run Growth: How to Understand Them?
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Sinelnikov-Murylev 
+        </div>
+        
+        <div class="cell">
+           Helpman 
+        </div>
+        
+        <div class="cell">
+           Idrisov 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           7 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           22 
+        </div>
+
+        
+        <div class="cell">
+           50 
+        </div>
+
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           16 
+        </div>
+
+        
+        <div class="cell">
+           21 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        9
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:ppaper:2"
+    >
+      From Elections to Appointments of the Regional Governors: Major Challenges and Outcomes
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Oates 
+        </div>
+        
+        <div class="cell">
+           Niskanen 
+        </div>
+        
+        <div class="cell">
+           Robert 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           19 
+        </div>
+        
+        <div class="cell">
+           8 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           220 
+        </div>
+
+        
+        <div class="cell">
+           106 
+        </div>
+
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           101 
+        </div>
+
+        
+        <div class="cell">
+           56 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        10
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:ppaper:47"
+    >
+      Fiscal Federalism in Russia: Soft Budget Constraints of Regional Governments
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Rodden 
+        </div>
+        
+        <div class="cell">
+           Inman 
+        </div>
+        
+        <div class="cell">
+           Maskin 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           11 
+        </div>
+        
+        <div class="cell">
+           9 
+        </div>
+        
+        <div class="cell">
+           7 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           64 
+        </div>
+
+        
+        <div class="cell">
+           20 
+        </div>
+
+        
+        <div class="cell">
+           38 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           23 
+        </div>
+
+        
+        <div class="cell">
+           10 
+        </div>
+
+        
+        <div class="cell">
+           24 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        11
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:125"
+    >
+      Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           IMF 
+        </div>
+        
+        <div class="cell">
+           Kotlikoff 
+        </div>
+        
+        <div class="cell">
+           Rother 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           15 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           397 
+        </div>
+
+        
+        <div class="cell">
+           48 
+        </div>
+
+        
+        <div class="cell">
+           15 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           206 
+        </div>
+
+        
+        <div class="cell">
+           35 
+        </div>
+
+        
+        <div class="cell">
+           11 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        12
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:126"
+    >
+      Decomposition of Russia's GDP Growth Rates
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           King 
+        </div>
+        
+        <div class="cell">
+           Baxter 
+        </div>
+        
+        <div class="cell">
+           Richardson 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           23 
+        </div>
+        
+        <div class="cell">
+           21 
+        </div>
+        
+        <div class="cell">
+           16 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           166 
+        </div>
+
+        
+        <div class="cell">
+           134 
+        </div>
+
+        
+        <div class="cell">
+           65 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           75 
+        </div>
+
+        
+        <div class="cell">
+           53 
+        </div>
+
+        
+        <div class="cell">
+           19 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        13
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:128"
+    >
+      Decomposition of Russia's GDP Growth Rates
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           King 
+        </div>
+        
+        <div class="cell">
+           Baxter 
+        </div>
+        
+        <div class="cell">
+           Richardson 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           23 
+        </div>
+        
+        <div class="cell">
+           21 
+        </div>
+        
+        <div class="cell">
+           16 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           166 
+        </div>
+
+        
+        <div class="cell">
+           134 
+        </div>
+
+        
+        <div class="cell">
+           65 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           75 
+        </div>
+
+        
+        <div class="cell">
+           53 
+        </div>
+
+        
+        <div class="cell">
+           19 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        14
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:rpaper:rpaper-2018-173p-904"
+    >
+      Stabilizing features of transfers allocated to the Russian regions from the Federal budget
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Hagen 
+        </div>
+        
+        <div class="cell">
+           Кадочников 
+        </div>
+        
+        <div class="cell">
+           Синельников-Мурылев 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           7 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           19 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           11 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        15
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0050"
+    >
+      Quality of the Administration of Value-Added Tax in OECD countries and Russia
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Aizenman 
+        </div>
+        
+        <div class="cell">
+           Jinjarak 
+        </div>
+        
+        <div class="cell">
+           Keen 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           9 
+        </div>
+
+        
+        <div class="cell">
+           9 
+        </div>
+
+        
+        <div class="cell">
+           27 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           17 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        16
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0076"
+    >
+      Budget Policy and Economic Growth
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           IMF 
+        </div>
+        
+        <div class="cell">
+           Sinelnikov-Murylev 
+        </div>
+        
+        <div class="cell">
+           Barro 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           7 
+        </div>
+        
+        <div class="cell">
+           7 
+        </div>
+        
+        <div class="cell">
+           5 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           77 
+        </div>
+
+        
+        <div class="cell">
+           20 
+        </div>
+
+        
+        <div class="cell">
+           921 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           42 
+        </div>
+
+        
+        <div class="cell">
+           16 
+        </div>
+
+        
+        <div class="cell">
+           500 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        17
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0096"
+    >
+      Forming Sources for a Long-run Growth: How to Understand Them?
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Sinelnikov-Murylev 
+        </div>
+        
+        <div class="cell">
+           Helpman 
+        </div>
+        
+        <div class="cell">
+           Idrisov 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           7 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           22 
+        </div>
+
+        
+        <div class="cell">
+           50 
+        </div>
+
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           16 
+        </div>
+
+        
+        <div class="cell">
+           21 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        18
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:gai:wpaper:0113"
+    >
+      Theoretical foundations of fiscal gap as a long-term fiscal sustainability indicator and its estimates for Russia
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           IMF 
+        </div>
+        
+        <div class="cell">
+           Kotlikoff 
+        </div>
+        
+        <div class="cell">
+           Rother 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           15 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           397 
+        </div>
+
+        
+        <div class="cell">
+           48 
+        </div>
+
+        
+        <div class="cell">
+           15 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           206 
+        </div>
+
+        
+        <div class="cell">
+           35 
+        </div>
+
+        
+        <div class="cell">
+           11 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        19
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:ris:apltrx:0084"
+    >
+      Quality of VAT administration in OECD countries and Russia
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Aizenman 
+        </div>
+        
+        <div class="cell">
+           Jinjarak 
+        </div>
+        
+        <div class="cell">
+           Keen 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           9 
+        </div>
+
+        
+        <div class="cell">
+           9 
+        </div>
+
+        
+        <div class="cell">
+           27 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           17 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        20
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:1532"
+    >
+      Terms of trade and economic development of modern Russia / Условия торговли и экономическое развитие современной России
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Kohli 
+        </div>
+        
+        <div class="cell">
+           Трунин 
+        </div>
+        
+        <div class="cell">
+           Идрисов 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           5 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           22 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           11 
+        </div>
+
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        21
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1426"
+    >
+      Actual problems of the banking system in the Russian Federation / Актуальные проблемы развития банковской системы в Российской Федерации
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Barros 
+        </div>
+        
+        <div class="cell">
+           Martin 
+        </div>
+        
+        <div class="cell">
+           Modesto 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+        <div class="cell">
+           18 
+        </div>
+
+        
+        <div class="cell">
+           3 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           8 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        22
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1457"
+    >
+      Decomposition of the russian GDP growth rate in 1999-2014 / Декомпозиция темпов роста ВВП России в 1999—2014 годах
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Казакова 
+        </div>
+        
+        <div class="cell">
+           Синельников-Мурылев 
+        </div>
+        
+        <div class="cell">
+           Giorno 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           40 
+        </div>
+
+        
+        <div class="cell">
+           29 
+        </div>
+
+        
+        <div class="cell">
+           57 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           23 
+        </div>
+
+        
+        <div class="cell">
+           27 
+        </div>
+
+        
+        <div class="cell">
+           15 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        23
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1711"
+    >
+      Capital Controls: World Experience and Lessons for Russia / Ограничения на движение капитала: мировой опыт и уроки для России
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Garcia 
+        </div>
+        
+        <div class="cell">
+           Obstfeld 
+        </div>
+        
+        <div class="cell">
+           Reinhart 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           5 
+        </div>
+        
+        <div class="cell">
+           5 
+        </div>
+        
+        <div class="cell">
+           4 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           153 
+        </div>
+
+        
+        <div class="cell">
+           4 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           72 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        24
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ecopol:ep1824"
+    >
+      Customs Administration in Russia: Directions of Improvement / Таможенное администрирование в России: направления совершенствования
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Widdowson 
+        </div>
+        
+        <div class="cell">
+           Баландина 
+        </div>
+        
+        <div class="cell">
+           Пономарев 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        25
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:011801"
+    >
+      Analysis of Regional Price Differentiations / Анализ региональной дифференциации цен
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Глущенко 
+        </div>
+        
+        <div class="cell">
+           Cecchetti 
+        </div>
+        
+        <div class="cell">
+           Ceglowski 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           12 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           31 
+        </div>
+
+        
+        <div class="cell">
+           31 
+        </div>
+
+        
+        <div class="cell">
+           19 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           8 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        26
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:021907"
+    >
+      Prospects for tax policy. Is there an “ideal tax system” for Russia? / Перспективы налоговой политики. Существует ли «идеальная налоговая система» для России?
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Mirrlees 
+        </div>
+        
+        <div class="cell">
+           Adam 
+        </div>
+        
+        <div class="cell">
+           Besley 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           11 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+        <div class="cell">
+           6 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           182 
+        </div>
+
+        
+        <div class="cell">
+           12 
+        </div>
+
+        
+        <div class="cell">
+           12 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           85 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        27
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:ppaper:021915"
+    >
+      Education and economic growth / Образование и экономический рост
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Hanushek 
+        </div>
+        
+        <div class="cell">
+           Woessmann 
+        </div>
+        
+        <div class="cell">
+           Baldacci 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           4 
+        </div>
+        
+        <div class="cell">
+           3 
+        </div>
+        
+        <div class="cell">
+           2 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           108 
+        </div>
+
+        
+        <div class="cell">
+           9 
+        </div>
+
+        
+        <div class="cell">
+           6 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           56 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        28
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:rnp:wpaper:021708"
+    >
+      Analysis of the Regional Differentiation of Inflation / Анализ региональной дифференциации инфляции
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Cecchetti 
+        </div>
+        
+        <div class="cell">
+           Mark 
+        </div>
+        
+        <div class="cell">
+           Parsley 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           8 
+        </div>
+        
+        <div class="cell">
+           8 
+        </div>
+        
+        <div class="cell">
+           7 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           31 
+        </div>
+
+        
+        <div class="cell">
+           31 
+        </div>
+
+        
+        <div class="cell">
+           32 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           5 
+        </div>
+
+        
+        <div class="cell">
+           8 
+        </div>
+
+        
+      </div>
+      
+      <div class="index">
+        29
+      </div>
+      <div>
+        
+    <a
+      target="blank"
+      href="https://socionet.ru/publication.xml?h=repec:sec:cnstan:0450"
+    >
+      Macroeconomic Preconditions of the Realization of a New Growth Model
+    </a>
+    
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           Drobyshevsky 
+        </div>
+        
+        <div class="cell">
+           Giorno 
+        </div>
+        
+        <div class="cell">
+           In-Moo 
+        </div>
+        
+      </div class="list">
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+        <div class="cell">
+           1 
+        </div>
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           57 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+      </div>
+      <div class="list">
+        
+        <div class="cell">
+           2 
+        </div>
+
+        
+        <div class="cell">
+           15 
+        </div>
+
+        
+        <div class="cell">
+           1 
+        </div>
+
+        
+      </div>
+      
+    </div>
 
     <br />
     <hr />

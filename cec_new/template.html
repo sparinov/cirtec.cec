@@ -72,6 +72,23 @@
 
     <br />
 
+    {%macro max_len(data)%} {{data.ref_authors|length}} {%endmacro%} 
+    {%macro paper(data)%}
+    <a
+      target="blank"
+      href="{{'https://socionet.ru/publication.xml?h=' + data.pub_id}}"
+    >
+      {{data.name}}
+    </a>
+    {%endmacro%}
+
+    {%macro author(data)%} {{data.author}} {%endmacro%} 
+    {%macro cits(data)%} {{data.cits}} {%endmacro%} 
+    {%macro pubs(data)%} {{data.pubs}} {%endmacro%} 
+    {%macro total_cits(data)%} {{data.total_cits}} {%endmacro%} 
+    {%macro total_pubs(data)%} {{data.total_pubs}} {%endmacro%} 
+
+
     <table>
       <thead>
         <tr>
@@ -87,29 +104,27 @@
       <tbody>
         {% for autor_info in autors_info %}
         <tr>
-          <td rowspan="{{autor_info.ref_authors|length}}" class="index">{{ loop.index }}</td>
-          <td rowspan="{{autor_info.ref_authors|length}}">
-            <a target="blank"
-              href="{{'https://socionet.ru/publication.xml?h=' + autor_info.pub_id}}"
-            >
-              {{autor_info.name}}
-            </a>
+          <td rowspan="{{max_len(autor_info)}}" class="index">
+            {{ loop.index }}
+          </td>
+          <td rowspan="{{max_len(autor_info)}}">
+            {{paper(autor_info)}}
           </td>
 
-          <td>{{autor_info.ref_authors[0].author}}</td>
-          <td>{{autor_info.ref_authors[0].cits}}</td>
-          <td>{{autor_info.ref_authors[0].pubs}}</td>
-          <td>{{autor_info.ref_authors[0].total_cits}}</td>
-          <td>{{autor_info.ref_authors[0].total_pubs}}</td>
+          <td>{{author(autor_info.ref_authors[0])}}</td>
+          <td>{{cits(autor_info.ref_authors[0])}}</td>
+          <td>{{pubs(autor_info.ref_authors[0])}}</td>
+          <td>{{total_cits(autor_info.ref_authors[0])}}</td>
+          <td>{{total_pubs(autor_info.ref_authors[0])}}</td>
         </tr>
 
         {% for other_autor in autor_info.ref_authors[1:] %}
         <tr>
-          <td>{{other_autor.author}}</td>
-          <td>{{other_autor.cits}}</td>
-          <td>{{other_autor.pubs}}</td>
-          <td>{{other_autor.total_cits}}</td>
-          <td>{{other_autor.total_pubs}}</td>
+          <td>{{author(other_autor)}}</td>
+          <td>{{cits(other_autor)}}</td>
+          <td>{{pubs(other_autor)}}</td>
+          <td>{{total_cits(other_autor)}}</td>
+          <td>{{total_pubs(other_autor)}}</td>
         </tr>
         {% endfor %} {% endfor %}
       </tbody>
