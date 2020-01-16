@@ -1,5 +1,4 @@
 from enum import Enum
-
 from jinja2 import Template
 
 
