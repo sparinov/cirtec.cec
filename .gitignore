@@ -1,8 +1,5 @@
-cec/*
-!cec/json/
+venv
+.vscode
 
-cec_new/output/*
-
-cec_new/templates/__pycache__
-cec_new/templates/__pycache__/*
+local
 

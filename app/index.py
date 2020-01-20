@@ -1,8 +1,12 @@
-from jinja2 import Template
-from enum import Enum
-import os
 import json
+import os
+from enum import Enum
+
 import requests
+from jinja2 import Template
+from lxml import etree
+from lxml.cssselect import CSSSelector
+from lxml.etree import fromstring
 
 urls = {}
 urls["tore"] = "http://cirtec.ranepa.ru/cirtec/top/ref_bundles/"
@@ -16,7 +20,7 @@ urls["cauc"] = "http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/"
 urls["rebu"] = "http://cirtec.ranepa.ru/cirtec/ref_bund4ngramm_tops/?topn=100"
 urls["aubu"] = "http://cirtec.ranepa.ru/cirtec/ref_auth4ngramm_tops/"
 urls["febu"] = "http://cirtec.ranepa.ru/cirtec/frags/ref_bundles/"
-urls["refa"] = "http://cirtec.ranepa.ru/cirtec/frags/ref_authors/"
+# urls["refa"] = "http://cirtec.ranepa.ru/cirtec/frags/ref_authors/"
 urls["popu"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/pubs/"
 urls["pobu"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/"
 urls["paut"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/"
@@ -36,7 +40,7 @@ urls["tona"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/"
 urls["tang"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/"
 urls["tato"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/topics/"
 urls["taco"] = "http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/"
-urls["tant"] = "http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/"
+# urls["tant"] = "http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/"
 
 
 class ColumnType(Enum):
@@ -88,13 +92,12 @@ class Column(object):
 		</div class="list">"""
             ).render(item=input)
 
+
 def initColumns(columns, key, object):
-    row_type = type(object[key])
+    row_type = type(first_row[key])
     if row_type == str or row_type == int:
         columns.append(
-            Column(
-                title=key, type=ColumnType.cell, template_str="{{item." + key + "}}"
-            )
+            Column(title=key, type=ColumnType.cell, template_str="{{item." + key + "}}")
         )
 
     elif row_type == dict:
@@ -107,13 +110,13 @@ def initColumns(columns, key, object):
         )
 
     elif row_type == list:
-        first_array_row = type(first_row[key][0])
+        # first_array_row = type(first_row[key][0])
 
-        if first_array_row == str or first_array_row == int:
+        if row_type == str or row_type == int:
             columns.append(
                 Column(title=key, type=ColumnType.array, template_str="{{subitem}}")
             )
-        if first_array_row == dict:
+        if row_type == dict:
             for row_key in first_row[key].keys():
                 columns.append(
                     Column(
@@ -126,18 +129,43 @@ def initColumns(columns, key, object):
     return True
 
 
+parser = etree.XMLParser
+xml = {}
+
+with open("cec_new/after_table1.xml", mode="r", encoding="utf-8") as xml_raw:
+    xml = fromstring(xml_raw.read())
+    print(xml)
 
 for url_key in urls:
+# url_key = list(urls.keys())[0]
+
+    url_xml_item = xml.cssselect("item#" + url_key)[0]
+
+    title = url_xml_item.cssselect("title")[0]
+    url_xml_desc = url_xml_item.cssselect("desc")[0]
+    url_xml_legend = url_xml_item.cssselect("legend")[0]
+    url_xml_expl = url_xml_item.cssselect("expl")[0]
+
+
     request = requests.get(urls[url_key])
     print("{key} : {code}".format(key=url_key, code=request.status_code))
+
 
     data = request.json()
 
     columns = []
-    jinja2_args = {"data": data, "columns": columns}
+    jinja2_args = {
+        "data": data,
+        "columns": columns,
+        "title": etree.tostring(title, encoding="unicode"),
+        "others": [
+            etree.tostring(url_xml_desc),
+            etree.tostring(url_xml_legend),
+            etree.tostring(url_xml_expl),
+        ],
+    }
 
     # по первой строчке создаём схему
-
     first_row = {}
     if type(data) == list:
         jinja2_args["data_type"] = 1
@@ -149,45 +177,10 @@ for url_key in urls:
         first_row = data[list(data.keys())[0]]
 
     for key in first_row.keys():
-        row_type = type(first_row[key])
-        if row_type == str or row_type == int:
-            columns.append(
-                Column(
-                    title=key, type=ColumnType.cell, template_str="{{item." + key + "}}"
-                )
-            )
-
-        elif row_type == dict:
-            columns.append(
-                Column(
-                    title=key,
-                    type=ColumnType.dict,
-                    template_str="{{key}}  ---  {{item[key]}}",
-                )
-            )
-
-        elif row_type == list:
-            first_array_row = type(first_row[key][0])
-
-            if row_type == str or row_type == int:
-                columns.append(
-                    Column(title=key, type=ColumnType.array, template_str="{{subitem}}")
-                )
-            if row_type == dict:
-                for row_key in first_row[key].keys():
-                    columns.append(
-                        Column(
-                            title=key,
-                            type=ColumnType.array,
-                            template_str="{{subitem" + row_key + "}}",
-                        )
-                    )
+        initColumns(columns=columns, key=key, object=first_row)
 
     html = open("cec_new/template 4.html", encoding="utf-8").read()
     template = Template(html)
 
-    with open(
-        "cec_new/output/{}.html".format(url_key), "w", encoding="utf-8"
-    ) as output:
+    with open("cec_new/output/{}.html".format(url_key), "w", encoding="utf-8") as output:
         output.write(template.render(**jinja2_args))
-
