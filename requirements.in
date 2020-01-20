@@ -1,5 +1,7 @@
 requests
 jinja2
 lxml
+# lxml.cssselect
+# lxml.etree
 black
 pylint

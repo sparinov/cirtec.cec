@@ -1,5 +1,12 @@
+# переменные окружения
 venv
 .vscode
 
+# старые файлы
 local
 
+# папки с данными
+output/*
+saved_json/*
+
+*/__pycache__
