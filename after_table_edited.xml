@@ -328,7 +328,7 @@
 <column num="2" title="cits">количество упоминаний источника в публикациях автора</column>
 <column num="3" title="pubs">количество публикаций автора, в которых обнаружены упоминания из столбца “cits”</column>
 <column num="4" title="total_cits">суммарное количество упоминаний источника, во всех публикациях в Сиртек</column>
-<column num="5" title="total_pubs">суммарное публикация в Сиртек, в которых упоминается источник</column>
+<column num="5" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается источник</column>
 <column num="6" title="author">автор источника</column>
 <column num="7" title="year">год публикации источника</column>
 <column num="8" title="title">название источника</column>
@@ -370,7 +370,13 @@
 				</desc>
 
 				<legend>
-					<ru>... будет дописано
+					<ru>
+<column num="1" title="№">порядковый номер автора в списке</column>
+<column num="2" title="author">цитируемый автор</column>
+<column num="3" title="cits">количество упоминаний цитируемого автора</column>
+<column num="4" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="5" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="6" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
 					</ru>
 					<en>will be added</en>
 				</legend>
