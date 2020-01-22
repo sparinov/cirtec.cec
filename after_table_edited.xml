@@ -991,11 +991,40 @@
 
 			</item>
 
+			<item num="2" id="refa1" source="http://cirtec.ranepa.ru/cirtec/by_frags/ref_authors/">
+				<file_name>refa1.html</file_name>
+				<title>
+					<ru>Распределение цитируемых авторов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого из 5-ти фрагментов приводятся цитируемые в них авторы, 
+						а также количество их цитирований в публикациях заданного автора и в Сиртек в
+						целом
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
 			<item num="2" id="refa" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/">
 				<file_name>refa.html</file_name>
 				<title>
-					<ru>Распределение цитируемых авторов по 5-ти
-						фрагментам
+					<ru>Цитируемые авторы по 5-ти фрагментам 
 					</ru>
 					<en>will be added</en>
 				</title>
@@ -1022,7 +1051,7 @@
 				</expl>
 
 			</item>
-
+			
 			<item num="3" id="foci" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/">
 				<file_name>foci.html</file_name>
 				<title>
