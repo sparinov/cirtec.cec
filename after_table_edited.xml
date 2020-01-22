@@ -1021,7 +1021,7 @@
 
 			</item>
 			
-			<item num="2" id="refa" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/">
+			<item num="3" id="refa" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/">
 				<file_name>refa.html</file_name>
 				<title>
 					<ru>Цитируемые авторы по 5-ти фрагментам 
@@ -1052,7 +1052,7 @@
 
 			</item>
 			
-			<item num="3" id="foci" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/">
+			<item num="4" id="foci" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/">
 				<file_name>foci.html</file_name>
 				<title>
 					<ru>Распределение цитирований по 5-ти фрагментам для
@@ -1083,7 +1083,7 @@
 
 			</item>
 
-			<item num="4" id="cauc" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/">
+			<item num="5" id="cauc" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/">
 				<file_name>cauc.html</file_name>
 				<title>
 					<ru>Распределение цитирований по 5-ти фрагментам для
@@ -1115,7 +1115,7 @@
 
 			</item>
 
-			<item num="5" id="frat" source="http://cirtec.ranepa.ru/cirtec/frags/topics/">
+			<item num="6" id="frat" source="http://cirtec.ranepa.ru/cirtec/frags/topics/">
 				<file_name>frat.html</file_name>
 				<title>
 					<ru>Распределение топиков по 5-ти фрагментам
@@ -1143,7 +1143,7 @@
 
 			</item>
 
-			<item num="6" id="legn" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas">
+			<item num="7" id="legn" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas">
 				<file_name>legn.html</file_name>
 				<title>
 					<ru>Распределение фраз по 5-ти фрагментам
@@ -1173,7 +1173,7 @@
 
 			</item>
 
-			<item num="7" id="tant" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/">
+			<item num="8" id="tant" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/">
 				<file_name>tant.html</file_name>
 				<title>
 					<ru>Распределение тональности по 5-ти фрагментам
