@@ -101,7 +101,40 @@
 
 		</item>
 
-		<item num="2" id="copu" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/publications/">
+		<item num="2" id="copu1" source="http://cirtec.ranepa.ru/cirtec/publ/publications/cocitauthors/">
+			<file_name>copu1.html</file_name>
+			<title>
+				<ru>Наиболее часто повторяющиеся пары со-цитируемых авторов для отдельных публикаций заданного автора
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<desc>
+				<ru> 
+				- для каждой публикации заданного автора приведены пары наиболее часто со-цитируемых авторов
+				</ru>
+				<en>will be added</en>
+			</desc>
+
+			<legend>
+				<ru>
+					<column num="1" title="descr">название публикации</column>
+					<column num="2" title="conts">коды контекстов, в которых встречаются со-цитирования</column>
+				</ru>
+				<en>will be added</en>
+			</legend>
+
+			<expl>
+				<ru>Пояснение к данным: для каждой публикации заданного автора приведены пары наиболее 
+					со-цитируемых авторов в порядке убывания количества их со-цитирований. 
+					Для каждого со-цитируемого автора даются ... 
+				</ru>
+				<en>will be added</en>
+			</expl>
+
+		</item>
+
+		<item num="3" id="copu" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/publications/">
 			<file_name>copu.html</file_name>
 			<title>
 				<ru>Наиболее со-цитируемые авторы из отдельных публикаций заданного автора
@@ -133,11 +166,43 @@
 			</expl>
 
 		</item>
+		
+		<item num="4" id="pung1" source="http://cirtec.ranepa.ru/cirtec/publ/publications/ngramms/?ltype=lemmas">
+			<file_name>pung1.html</file_name>
+			<title>
+				<ru>Наиболее часто повторяющиеся фразы и их сочетания из отдельных публикаций заданного автора
+				</ru>
+				<en>will be added</en>
+			</title>
 
-		<item num="3" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas">
+			<desc>
+				<ru> 
+				- для каждой публикации заданного автора приведено 10 наиболее повторяющихся фраз из их контекстов цитирований
+				</ru>
+				<en>will be added</en>
+			</desc>
+
+			<legend>
+				<ru>
+					<column num="1" title="pub_id">код публикации заданного автора</column>
+					<column num="2" title="descr">название публикации</column>
+				</ru>
+				<en>will be added</en>
+			</legend>
+
+			<expl>
+				<ru>Пояснение к данным: для публикаций заданного автора приведены 10 наиболее часто повторяющихся 
+					фразы из контекстов цитирований. Для каждой фразы приведены ....
+				</ru>
+				<en>will be added</en>
+			</expl>
+
+		</item>
+		
+		<item num="5" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas">
 			<file_name>pung.html</file_name>
 			<title>
-				<ru>Наиболее часто повторяющиеся фразы для отдельных публикаций заданного автора
+				<ru>Наиболее часто повторяющиеся фразы и их распределение по публикациям заданного автора
 				</ru>
 				<en>will be added</en>
 			</title>
@@ -169,9 +234,9 @@
 				<en>will be added</en>
 			</expl>
 
-		</item>
+		</item>		
 
-		<item num="4" id="topu" source="http://cirtec.ranepa.ru/cirtec/top/topics/publications/">
+		<item num="6" id="topu" source="http://cirtec.ranepa.ru/cirtec/top/topics/publications/">
 			<file_name>topu.html</file_name>
 			<title>
 				<ru>Наиболее релевантные топики для отдельных публикаций заданного автора
@@ -208,7 +273,7 @@
 
 		</item>
 
-		<item num="5" id="popu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/pubs/">
+		<item num="7" id="popu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/pubs/">
 			<file_name>popu.html</file_name>
 			<title>
 				<ru>Распределение тональности контекстов цитирований из отдельных публикаций заданного автора
@@ -243,7 +308,7 @@
 
 		</item>
 
-		<item num="6" id="frap" source="http://cirtec.ranepa.ru/cirtec/frags/publications/">
+		<item num="8" id="frap" source="http://cirtec.ranepa.ru/cirtec/frags/publications/">
 			<file_name>frap.html</file_name>
 			<title>
 				<ru>Распределение цитирований по 5-ти фрагментам для отдельных публикаций заданного автора
