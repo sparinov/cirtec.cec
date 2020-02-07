@@ -57,8 +57,7 @@
 		<item num="1" id="raut" source="http://cirtec.ranepa.ru/cirtec/pubs/ref_authors/">
 			<file_name>raut.html</file_name>
 			<title>
-				<ru>
-				Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора
+				<ru>Cписок 3-х наиболее упоминаемых авторов в публикациях заданного автора
 				</ru>
 				<en>will be added</en>
 			</title>
@@ -77,10 +76,12 @@
 					<column num="3" title="name">название публикации автора</column>
 					<column num="4" title="ref_authors" desc="три наиболее упоминаемых автора">
 						<subcolumn num="1" title="author">имя процитированного автора</subcolumn>
-						<subcolumn num="2" title="cits">количество упоминаний процитированного автора</subcolumn>
-						<subcolumn num="3" title="pubs">количество публикаций, в которых автор цитируется</subcolumn>
-						<subcolumn num="4" title="total_cits">суммарное количество упоминаний процитированного автора, во всех публикациях в Сиртек</subcolumn>
-						<subcolumn num="5" title="total_pubs">суммарное количество публикация в Сиртек, в которых автор цитируется</subcolumn>
+						<subcolumn num="2" title="cits">количество контекстов с упоминанием процитированного автора</subcolumn>
+						<subcolumn num="3" title="cits_all">количество упоминаний процитированного автора</subcolumn>
+						<subcolumn num="4" title="bunds_cnt">количество упоминаемых публикаций процитированного автора</subcolumn>
+						<subcolumn num="5" title="pubs">количество публикаций, в которых автор цитируется</subcolumn>
+						<subcolumn num="6" title="total_cits">суммарное количество упоминаний процитированного автора, во всех публикациях в Сиртек</subcolumn>
+						<subcolumn num="7" title="total_pubs">суммарное количество публикация в Сиртек, в которых автор цитируется</subcolumn>
 					</column>
 				</ru>
 				<en>will be added</en>
