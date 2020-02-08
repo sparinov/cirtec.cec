@@ -571,6 +571,75 @@
 				</expl>
 
 			</item>
+
+			<item num="5" id="215" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/">
+				<file_name>215.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых источников в публикациях заданного автора
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведен список источников, которые наиболее часто со-цитируются,
+						в порядке уменьшения количества со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="bid">код источника</column>
+<column num="2" title="descr">название источника</column>
+<column num="3" title="contects">коды контекстов цитирований, в которых данных источник со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены источники из списков литературы публикаций заданного 
+автора в порядке уменьшения количества их со-цитирований. Для каждого источника даются коды контекстов цитирований, в которых
+этот источник со-цитируется.
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+			<item num="6" id="216" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/">
+				<file_name>216.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых пар источников из
+	  					публикаций заданного автора
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены пары со-цитируемых источников в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">коды пары со-цитируемых источников</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="5" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке уменьшения   
+количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
 			
 		</subsection>
 
