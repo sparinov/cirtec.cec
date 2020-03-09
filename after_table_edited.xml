@@ -53,7 +53,21 @@
 			</ru>
 			<en>will be added</en>
 		</descr>
+	<subsection num="1">
+			<title>
+				<ru>Цитируемые и со-цитируемые авторы
+				</ru>
+				<en>will be added</en>
+			</title>
 
+			<descr>
+				<ru>Подраздел содержит данные о наиболее цитируемых и со-цитируемых авторов для 
+					отдельных публикаций заданного автора
+				</ru>
+				<en>will be added</en>
+			</descr>
+		
+		
 		<item num="1" id="raut" source="http://cirtec.ranepa.ru/cirtec/pubs/ref_authors/">
 			<file_name>raut.html</file_name>
 			<title>
@@ -166,8 +180,22 @@
 			</expl>
 
 		</item>
-		
-		<item num="4" id="pung1" source="http://cirtec.ranepa.ru/cirtec/publ/publications/ngramms/?ltype=lemmas">
+	</subsection>
+
+	<subsection num="2">
+			<title>
+				<ru>Наиболее часто повторяющиеся фразы и релевантные топики
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит фразы и топики для отдельных публикаций заданного автора
+				</ru>
+				<en>will be added</en>
+			</descr>
+			
+		<item num="1" id="pung1" source="http://cirtec.ranepa.ru/cirtec/publ/publications/ngramms/?ltype=lemmas">
 			<file_name>pung1.html</file_name>
 			<title>
 				<ru>Наиболее часто повторяющиеся фразы и их сочетания из отдельных публикаций заданного автора
@@ -199,7 +227,7 @@
 
 		</item>
 		
-		<item num="5" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas">
+		<item num="2" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas">
 			<file_name>pung.html</file_name>
 			<title>
 				<ru>Наиболее часто повторяющиеся фразы и их распределение по публикациям заданного автора
@@ -236,7 +264,7 @@
 
 		</item>		
 
-		<item num="6" id="topu" source="http://cirtec.ranepa.ru/cirtec/top/topics/publications/">
+		<item num="3" id="topu" source="http://cirtec.ranepa.ru/cirtec/top/topics/publications/">
 			<file_name>topu.html</file_name>
 			<title>
 				<ru>Наиболее релевантные топики для отдельных публикаций заданного автора
@@ -272,8 +300,22 @@
 			</expl>
 
 		</item>
+	</subsection>
+	<subsection num="3">
+			<title>
+				<ru>Тональность и распределение по 5-ти фрагментам
+				</ru>
+				<en>will be added</en>
+			</title>
 
-		<item num="7" id="popu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/pubs/">
+			<descr>
+				<ru>Подраздел содержит оценки тональности содержания контекстов цитирований, 
+					а также их распределение по 5-ти фрагментам "тела" публикации
+				</ru>
+				<en>will be added</en>
+			</descr>
+		
+		<item num="1" id="popu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/pubs/">
 			<file_name>popu.html</file_name>
 			<title>
 				<ru>Распределение тональности контекстов цитирований из отдельных публикаций заданного автора
@@ -308,7 +350,7 @@
 
 		</item>
 
-		<item num="8" id="frap" source="http://cirtec.ranepa.ru/cirtec/frags/publications/">
+		<item num="2" id="frap" source="http://cirtec.ranepa.ru/cirtec/frags/publications/">
 			<file_name>frap.html</file_name>
 			<title>
 				<ru>Распределение цитирований по 5-ти фрагментам для отдельных публикаций заданного автора
@@ -343,7 +385,7 @@
 			</expl>
 
 		</item>
-
+		</subsection>
 	</section>
 
 	<section num="2">
