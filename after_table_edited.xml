@@ -536,7 +536,7 @@
 
 			</item>
 
-			<item num="3" id="213" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50">
+			<item num="3" id="213" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas">
 				<file_name>213.html</file_name>
 				<title>
 					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях заданного автора
@@ -764,7 +764,7 @@
 
 			</item>
 
-			<item num="3" id="toco" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/">
+			<item num="3" id="toco" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/?ltype=lemmas">
 				<file_name>toco.html</file_name>
 				<title>
 					<ru>Топики, фразы и их распределение по 5-ти
@@ -796,7 +796,7 @@
 
 			</item>
 
-			<item num="4" id="fato" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/">
+			<item num="4" id="fato" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas">
 				<file_name>fato.html</file_name>
 				<title>
 					<ru>Фразы, топики и их распределение по 5-ти
@@ -828,7 +828,7 @@
 
 			</item>
 
-			<item num="5" id="nagu" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/">
+			<item num="5" id="nagu" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/?ltype=lemmas">
 				<file_name>nagu.html</file_name>
 				<title>
 					<ru>Фразы, со-цитируемые авторы и их распределение по
@@ -1177,7 +1177,7 @@
 
 			</item>
 
-			<item num="2" id="fano" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/">
+			<item num="2" id="fano" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas">
 				<file_name>fano.html</file_name>
 				<title>
 					<ru>Со-цитируемые авторы, фразы и их распределение по
