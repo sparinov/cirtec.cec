@@ -535,8 +535,49 @@
 				</expl>
 
 			</item>
+			<item num="3" id="taur1" source="http://cirtec.ranepa.ru/cirtec/top_detail_bund/ref_authors/">
+				<file_name>taur1.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых авторов их цитируемые публикации 
+					</ru>
+					<en>will be added</en>
+				</title>
 
-			<item num="3" id="213" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas">
+				<desc>
+					<ru> - приведены цитируемые авторы вместе с их публикациями в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="author">цитируемый автор</column>
+<column num="2" title="cits_all">количество упоминаний цитируемого автора</column>
+<column num="3" title="cits">количество контекстов с упоминанием цитируемого автора</column>
+<column num="4" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="5" title="bunds_cnt">количество упоминаемых публикаций цитируемого автора</column>
+<column num="6" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="7" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
+<column num="8" title="bund">код публикации цитируемого автора</column>
+<column num="9" title="cnt">количество упоминаний публикации цитируемого автора</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
+списков литературы всех публикаций заданного автора. Список содержит только уникальные фамилии
+авторов (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций заданного автора. Для каждого
+цитируемого автора приводится статистика его упоминаний, а также коды публикаций цитируемого автора.
+Кликнув на этот код можно увидеть библиографические данные соответствующей публикации. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="4" id="213" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas">
 				<file_name>213.html</file_name>
 				<title>
 					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях заданного автора
@@ -573,7 +614,7 @@
 				</expl>
 
 			</item>			
-			<item num="4" id="214" source="http://cirtec.ranepa.ru/cirtec/top/topics/">
+			<item num="5" id="214" source="http://cirtec.ranepa.ru/cirtec/top/topics/">
 				<file_name>214.html</file_name>
 				<title>
 					<ru>Список 20 топиков релевантных для контекстов цитирований в
@@ -614,7 +655,7 @@
 
 			</item>
 
-			<item num="5" id="215" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/">
+			<item num="6" id="215" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/">
 				<file_name>215.html</file_name>
 				<title>
 					<ru>Список наиболее часто со-цитируемых источников в публикациях заданного автора
@@ -647,7 +688,7 @@
 				</expl>
 
 			</item>			
-			<item num="6" id="216" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/">
+			<item num="7" id="216" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/">
 				<file_name>216.html</file_name>
 				<title>
 					<ru>Список наиболее часто со-цитируемых пар источников из
