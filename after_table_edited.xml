@@ -1052,7 +1052,7 @@
 
 			</item>
 
-			<item num="3" id="tabu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/">
+			<!--item num="3" id="tabu" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/">
 				<file_name>tabu.html</file_name>
 				<title>
 					<ru>Топ цитируемые источники для каждого класса тональности
@@ -1078,9 +1078,9 @@
 					<en>will be added</en>
 				</expl>
 
-			</item>
+			</item-->
 
-			<item num="4" id="tona" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/">
+			<!--item num="4" id="tona" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/">
 				<file_name>tona.html</file_name>
 				<title>
 					<ru>Топ цитируемые авторы для каждого класса тональности
@@ -1106,9 +1106,9 @@
 					<en>will be added</en>
 				</expl>
 
-			</item>
+			</item-->
 
-			<item num="5" id="tang" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/">
+			<item num="3" id="tang" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/">
 				<file_name>tang.html</file_name>
 				<title>
 					<ru>Тональность для фраз
@@ -1136,7 +1136,7 @@
 
 			</item>
 
-			<item num="6" id="tato" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/">
+			<item num="4" id="tato" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/">
 				<file_name>tato.html</file_name>
 				<title>
 					<ru>Тональность для топиков
@@ -1164,7 +1164,7 @@
 
 			</item>
 
-			<item num="7" id="taco" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/">
+			<item num="5" id="taco" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/">
 				<file_name>taco.html</file_name>
 				<title>
 					<ru>Тональность для со-цитируемых авторов
