@@ -961,7 +961,35 @@
 				</expl>
 
 			</item>
+			<item num="7" id="227" source="http://cirtec.ranepa.ru/cirtec/publ/topics/topics/">
+				<file_name>227.html</file_name>
+				<title>
+					<ru>Топики и их связи друг с другом через общие публикации
+					</ru>
+					<en>will be added</en>
+				</title>
 
+				<desc>
+					<ru> - для каждого топика приводятся коды публикаций, к которым принадлежат
+						релеватные им контексты цитирований, а также другие топики, которые имеют
+						в сзаданнм общие контексты цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
 		</subsection>
 
 		<subsection num="3">
