@@ -688,35 +688,30 @@
 				</expl>
 
 			</item>			
-			<item num="7" id="216" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/">
-				<file_name>216.html</file_name>
+			<item num="7" id="217" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/">
+				<file_name>217.html</file_name>
 				<title>
-					<ru>Список наиболее часто со-цитируемых пар источников из
-	  					публикаций заданного автора
+					<ru>Список наиболее часто со-цитируемых авторов 
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - приведены пары со-цитируемых источников в порядке уменьшения количества их со-цитирований
+					<ru> - приведен список со-цитируемых авторов в порядке уменьшения количества их со-цитирований
 					</ru>
 					<en>will be added</en>
 				</desc>
 
 				<legend>
 					<ru>
-<column num="1" title="cocitpair">коды пары со-цитируемых источников</column>
-<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
-<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
-<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
-<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
-<column num="6" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+<column num="1" title="title">со-цитируемый автор</column>
+<column num="2" title="contects">коды контекстов, в которых данный автор со-цитируется</column>
 					</ru>
 					<en>will be added</en>
 				</legend>
 
 				<expl>
-					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке
+					<ru>Пояснение к данным: Приведены со-цитируемые авторы в порядке
 						уменьшения количества их со-цитирования. 
 					</ru>
 					<en>will be added</en>
@@ -1219,8 +1214,42 @@
 				</ru>
 				<en>will be added</en>
 			</descr>
+			<item num="1" id="216" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/">
+				<file_name>216.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых пар источников из
+	  					публикаций заданного автора
+					</ru>
+					<en>will be added</en>
+				</title>
 
-			<item num="1" id="foat" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/">
+				<desc>
+					<ru> - приведены пары со-цитируемых источников в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">коды пары со-цитируемых источников</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="6" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке
+						уменьшения количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="2" id="foat" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/">
 				<file_name>foat.html</file_name>
 				<title>
 					<ru>Со-цитируемые авторы, топики и их распределение по 5-ти фрагментам
@@ -1252,7 +1281,7 @@
 
 			</item>
 
-			<item num="2" id="fano" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas">
+			<item num="3" id="fano" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas">
 				<file_name>fano.html</file_name>
 				<title>
 					<ru>Со-цитируемые авторы, фразы и их распределение по
@@ -1284,7 +1313,7 @@
 				</expl>
 
 			</item>
-			<item num="3" id="243" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/">
+			<item num="4" id="243" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/">
 				<file_name>243.html</file_name>
 				<title>
 					<ru>Пары со-цитируемых авторов, тональность со-цитирований и распределение по
