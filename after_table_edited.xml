@@ -710,20 +710,54 @@
 <column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
 <column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
 <column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
-<column num="5" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+<column num="6" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
 					</ru>
 					<en>will be added</en>
 				</legend>
 
 				<expl>
-					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке уменьшения   
-количества их со-цитирования. 
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке
+						уменьшения количества их со-цитирования. 
 					</ru>
 					<en>will be added</en>
 				</expl>
 
 			</item>
-			
+			<item num="8" id="218" source="http://cirtec.ranepa.ru/cirtec/pos_neg/contexts/">
+				<file_name>218.html</file_name>
+				<title>
+					<ru>Тональность контексов цитирования
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приведено общее количество контекстов, к которым 
+						этот класс относится 
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="class_pos_neg">класс тональности</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования с данной тональностью</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эти контексты находяться</column>
+<column num="4" title="pub_ids">коды публикаций, где эти контексты находятся</column>
+<column num="5" title="cont_ids">коды этих контекстов</column>
+					</ru>	
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены количества контекстов цитирований для каждого 
+						класса тональности, а также коды соответствующих контекстов и публикаций,
+						которые позволяют получить дополнительную информацию. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
 		</subsection>
 
 
@@ -1273,11 +1307,11 @@
 <column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
 <column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
 <column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
-<column num="4" title="neutral">количество контекстов с нейтральной тональностью</column>
-<column num="5" title="positive">количество контекстов с положительной тональностью</column>
-<column num="5" title="negative">количество контекстов с отрицательной тональностью</column>
-<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
-<column num="5" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+<column num="5" title="neutral">количество контекстов с нейтральной тональностью</column>
+<column num="6" title="positive">количество контекстов с положительной тональностью</column>
+<column num="7" title="negative">количество контекстов с отрицательной тональностью</column>
+<column num="8" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="9" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
 					</ru>
 					<en>will be added</en>
 				</legend>
