@@ -1018,6 +1018,35 @@
 				</expl>
 
 			</item>
+			<item num="9" id="229" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/">
+				<file_name>229.html</file_name>
+				<title>
+					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводятся коды публикаций, к которым принадлежат
+						их контексты цитирований, а также приводятся другие фразы, которые имеют
+						общие контексты цитирований с данной фразой
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
 		</subsection>
 
 		<subsection num="3">
