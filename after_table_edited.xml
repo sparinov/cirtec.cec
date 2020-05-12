@@ -2045,21 +2045,1287 @@
 
 	<section num="4">
 		<title>
-			<ru>4. Характеристики связей автора с "потребителями"
+			<ru>4. Характеристики связей "поставщиков" с их "поставщиками"
 			</ru>
 			<en>will be added</en>
 		</title>
 
 		<descr>
-			<ru>В разделе приводятся показатели полученные на основе
-				анализа контекстов цитирований из публикаций, цитирующих
-				работы заданного автора.
+			<ru>В данном разделе представлены показатели,
+					построенные для сводного массива контекстов цитирований из 
+					публикаций "поставщиков". С точки зрения
+					научной кооперации эти показатели характеризуют связи "поставщиков"
+					с другими авторами, которые в свою очередь, являются для них
+					“поставщиками” научной продукции, использованной
+					(процитированной) им в процессе создания своих
+					публикаций.
 
-				Раздел в разработке
+				Показатели группируются разными способами на
+					основе их принадлежности к одинаковым контекстам
+					цитирований. Способы группировки показателей основываются на
+					переборе возможных сочетаний друг с другом их основных типов: а)
+					источники; б) авторы источников, включая со-цитируемых авторов;
+					в) повторяющиеся фразы; г) топики; д) классы тональности; е)
+					распределение по 5-ти фрагментам.
 
 			</ru>
 			<en>will be added</en>
 		</descr>
+
+		<subsection num="1">
+			<title>
+				<ru>Общие показатели
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит общие характеристики для
+					показателей каждого типа, полученные на основе полного множества
+					контекстов цитирований из публикаций "поставщиков".
+
+					Статистика к показателям “источники” и “авторы
+					источников” включает количество их упоминаний во всем множестве
+					публикаций системы Сиртек, а также в публикациях "поставщиков".
+					Это позволяет определить “вклад” "поставщиков" в
+					количество упоминаний соответствующих источников и их авторов,
+					включая случаи
+					со-цитирования. 
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+
+			<item num="1" id="toresup" source="http://cirtec.ranepa.ru/cirtec/top/ref_bundles/?cited=">
+				<file_name>toresup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых источников в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены источники из всех публикаций "поставщиков" в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+						<column num="1" title="_id">уникальный код источника, общий для этого же источника 
+							в списках литературы разных публикаций "поставщиков"</column>
+<column num="2" title="cits">количество упоминаний источника в публикациях "поставщиков"</column>
+<column num="3" title="pubs">количество публикаций "поставщиков", в которых обнаружены упоминания из столбца “cits”</column>
+<column num="4" title="total_cits">суммарное количество упоминаний источника, во всех публикациях в Сиртек</column>
+<column num="5" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается источник</column>
+<column num="6" title="authors">автор источника</column>
+<column num="7" title="year">год публикации источника</column>
+<column num="8" title="title">название источника</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>
+Пояснение к данным: Приведены источники, извлеченный из списков литературы
+всех публикаций "поставщиков". Список содержит только уникальные названия
+источников (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+источника, также
+приводится общее количество его упоминаний во всех публикациях в Сиртек. Эти
+данные позволяют получить представление какие источники оказали наибольшее
+влияние на публикации "поставщиков".
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="taursup" source="http://cirtec.ranepa.ru/cirtec/top/ref_authors/?cited=">
+				<file_name>taursup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых цитируемых авторов в
+	  					публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены цитируемые авторы из всех публикаций автора в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="author">цитируемый автор</column>
+<column num="2" title="cits">количество контекстов с упоминанием цитируемого автора</column>
+<column num="3" title="cits_all">количество упоминаний цитируемого автора</column>
+<column num="4" title="bunds_cnt">количество упоминаемых публикаций цитируемого автора</column>
+<column num="5" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="6" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="7" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
+списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+авторов (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+цитируемого автора, также приводится общее количество его упоминаний во всех публикациях в
+Сиртек. Эти данные позволяют получить представление какие влияние цитируемые авторы оказали
+на публикации "поставщиков" (чем чаще цитируется, тем выше
+влияние).					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="3" id="taur1sup" source="http://cirtec.ranepa.ru/cirtec/top_detail_bund/ref_authors/?cited=">
+				<file_name>taur1sup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых авторов и их цитируемые публикации 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены цитируемые авторы вместе с их публикациями в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="author">цитируемый автор</column>
+<column num="2" title="cits_all">количество упоминаний цитируемого автора</column>
+<column num="3" title="cits">количество контекстов с упоминанием цитируемого автора</column>
+<column num="4" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="5" title="bunds_cnt">количество упоминаемых публикаций цитируемого автора</column>
+<column num="6" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="7" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
+<column num="8" title="bund">код публикации цитируемого автора</column>
+<column num="9" title="cnt">количество упоминаний публикации цитируемого автора</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
+списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+авторов (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+цитируемого автора приводится статистика его упоминаний, а также коды публикаций цитируемого автора.
+Кликнув на этот код можно увидеть библиографические данные соответствующей публикации. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="4" id="213sup" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas&amp;cited=">
+				<file_name>213sup.html</file_name>
+				<title>
+					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены наиболее повторяющиеся фразы из контекстов в публикациях "поставщиков" 
+						в порядке уменьшения количества повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="title">фраза</column>
+<column num="2" title="type">тип фразы: lemmas - приведенная к единому виду; nolemmas - в исходном виде</column>
+<column num="3" title="all">количество упоминаний фразы в контекстах цитирований из публикаций заданного автора</column>
+<column num="4" title="count_cont">количество контекстов, в которых фраза упоминается</column>
+<column num="5" title="contects">коды контекстов, в которых фраза упоминается, и количество ее упоминаний в них</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены 50 наиболее часто встречающихся фраз
+в контекстах цитирований из публикаций "поставщиков", упорядоченные по уменьшению количества упоминаний. В большинстве
+случаев фразы являются профессиональными терминами. Чем чаще такой термин упоминается и чем в большем количестве публикаций, 
+тем выше вероятность, что он определяет научную область или проблематику, в которой "поставщики" используют (цитируют) 
+работы других ученых. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+			<item num="5" id="214sup" source="http://cirtec.ranepa.ru/cirtec/top/topics/?cited=">
+				<file_name>214sup.html</file_name>
+				<title>
+					<ru>Список 20 топиков релевантных для контекстов цитирований в
+	  					публикациях заданного автора
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены 20 топиков по 5 слов каждый, построенные для контекстов цитирований 
+						из всех публикаций заданного автора
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="topic">топик</column>
+<column num="2" title="count">количество релеватных контекстов цитирования</column>
+<column num="3" title="probability_avg">средняя релеватность топика контекстам</column>
+<column num="4" title="probability_stddev">среднеквадратическое отклонение релевантности</column>
+<column num="5" title="contects">коды контекстов цитирований, релевантные данному топику</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены топики, показатели их релевантности, а также
+коды контекстов цитирований, к которым они релевантны. Список топиков упорядочен по уменьшению количества контекстов 
+цитирований, к которым топики релевантны. Топики строятся на основе всего заданного массива контекстов цитирований 
+и поэтому, в отличие от фраз, являются глобальной характеристикой их содержания.
+Чем больше контекстов, для которых топик релевантен, 
+тем выше вероятность, что он характеризует научную область или проблематику, в которой заданный автор использует (цитирует) 
+работы других ученых. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="215sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/?cited=">
+				<file_name>215sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых источников в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведен список источников, которые наиболее часто со-цитируются,
+						в порядке уменьшения количества со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="bid">код источника</column>
+<column num="2" title="descr">название источника</column>
+<column num="3" title="contects">коды контекстов цитирований, в которых данных источник со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены источники из списков литературы публикаций "поставщиков" 
+в порядке уменьшения количества их со-цитирований. Для каждого источника даются коды контекстов цитирований, в которых
+этот источник со-цитируется.
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+			<item num="7" id="217sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/?cited=">
+				<file_name>217sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых авторов 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведен список со-цитируемых авторов в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="title">со-цитируемый автор</column>
+<column num="2" title="contects">коды контекстов, в которых данный автор со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены со-цитируемые авторы в порядке
+						уменьшения количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="8" id="218sup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/contexts/?cited=">
+				<file_name>218sup.html</file_name>
+				<title>
+					<ru>Тональность контексов цитирования
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приведено общее количество контекстов, к которым 
+						этот класс относится 
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="class_pos_neg">класс тональности</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования с данной тональностью</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эти контексты находяться</column>
+<column num="4" title="pub_ids">коды публикаций, где эти контексты находятся</column>
+<column num="5" title="cont_ids">коды этих контекстов</column>
+					</ru>	
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены количества контекстов цитирований для каждого 
+						класса тональности, а также коды соответствующих контекстов и публикаций,
+						которые позволяют получить дополнительную информацию. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+		</subsection>
+
+
+		<subsection num="2">
+			<title>
+				<ru>Показатели на основе фраз и топиков
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит различные группировки
+					показателей, в которых фразы и топики являются основными
+					характеристиками, а остальные показатели являются для них
+					дополнительными характеристиками. Подобные группировки
+					делаются на основе принадлежности разных типов показателей к
+					одним и тем же контекстам цитирований.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="rebusup" source="http://cirtec.ranepa.ru/cirtec/ref_bund4ngramm_tops/?topn=100&amp;cited=">
+				<file_name>rebusup.html</file_name>
+				<title>
+					<ru>Фразы и топики для наиболее цитируемых источников
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для наиболее цитируемых источников проводятся фразы и топики из соответстующих контекстов цитирований с количеством их повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="aubusup" source="http://cirtec.ranepa.ru/cirtec/ref_auth4ngramm_tops/?cited=">
+				<file_name>aubusup.html</file_name>
+				<title>
+					<ru>Фразы и топики для наиболее цитируемых
+						авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводятся
+						топики и фразы из соответствующих контекстов цитирований с
+						количествами их повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="tocosup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>tocosup.html</file_name>
+				<title>
+					<ru>Топики, фразы и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для топиков приводятся распределения релевантных
+						им контекстов по 5-ти фрагментам, а также повторяющиеся фразы
+						из этих же контекстов с их распределением по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="4" id="fatosup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;cited=">
+				<file_name>fatosup.html</file_name>
+				<title>
+					<ru>Фразы, топики и их распределение по 5-ти
+				фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводится количество повторов и
+						распределение по 5-ти фрагментам, а также топики из
+						соответствующих контекстов с количеством их повторов и
+						распределением их контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="nagusup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/?ltype=lemmas&amp;cited=">
+				<file_name>nagusup.html</file_name>
+				<title>
+					<ru>Фразы, со-цитируемые авторы и их распределение по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводится количество повторов,
+						их распределение по 5-ти фрагментам, а также цитируемые в этих
+						контекстах авторы и распределение их цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="tautsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/cocitauthors/?cited=">
+				<file_name>tautsup.html</file_name>
+				<title>
+					<ru>Топики, со-цитируемые авторы и их распределение по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводится количество
+						релеватных контекстов и их распределение по 5-ти фрагментам, а
+						также упоминающиеся в этих контекстах со-цитируемые авторы с
+						их распределением по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="7" id="227sup" source="http://cirtec.ranepa.ru/cirtec/publ/topics/topics/?cited=">
+				<file_name>227sup.html</file_name>
+				<title>
+					<ru>Топики и их связи друг с другом через общие контексты цитирований и публикации
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводятся коды публикаций, к которым принадлежат
+						релеватные им контексты цитирований, а также приводятся другие топики, которые имеют
+						с ним общие контексты цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="8" id="228sup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/topics/?cited=">
+				<file_name>228sup.html</file_name>
+				<title>
+					<ru>Топики, их связи друг с другом и распределение по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводятся другие топики, имеющие общие контексты цитирований, 
+						а также распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="9" id="229sup" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?cited=">
+				<file_name>229sup.html</file_name>
+				<title>
+					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводятся коды публикаций, к которым принадлежат
+						их контексты цитирований, а также приводятся другие фразы, которые имеют
+						общие контексты цитирований с данной фразой
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="10" id="2210sup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?cited=">
+				<file_name>2210sup.html</file_name>
+				<title>
+					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводятся другие фразы, имеющие общие контексты цитирований, 
+						а также распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+		</subsection>
+
+		<subsection num="3">
+			<title>
+				<ru>Показатели тональности
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит результаты классификации
+					содержания контекстов цитирований следующими классами
+					тональности: нейтральный, позитивный или
+					негативный. Если в контексте присутствуют признаки
+					нескольких классов тональности, то выбирается тот,
+					которые имеет наибольшую релевантность. При одинаковой
+					релевантности, класс выбирается случайным
+					образом. Контексты на английском языке пока не
+					классифицируются.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="pobusup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/?cited=">
+				<file_name>pobusup.html</file_name>
+				<title>
+					<ru>Распределение тональности контекстов цитирований
+	  					для процитированных источников
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого источника приводится распределение
+						классов тональности для его контекстов цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="pautsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/?cited=">
+				<file_name>pautsup.html</file_name>
+				<title>
+					<ru>Распределение тональности контекстов цитирований
+	  					для процитированных авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого процитированного автора приводится
+						распределение классов тональности для соответствующих
+						контекстов цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="tangsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?cited=">
+				<file_name>tangsup.html</file_name>
+				<title>
+					<ru>Тональность для фраз
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приводятся наиболее часто повторяющиеся фразы      
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="4" id="tatosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/?cited=">
+				<file_name>tatosup.html</file_name>
+				<title>
+					<ru>Тональность для топиков
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приводятся наиболее релевантные топики
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="tacosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/?cited=">
+				<file_name>tacosup.html</file_name>
+				<title>
+					<ru>Тональность для со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приведены топ со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>
+
+		<subsection num="4">
+
+			<title>
+				<ru>Показатели для со-цитирований
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>
+				Подраздел содержит наборы показателей, построенных для
+					особых случаев: когда в контекстах цитирований есть источники, которые
+					цитируются “через запятую”. В данных случаях автор публикации помещает
+					несколько цитируемых источников в общий контекст цитирований, что
+					позволяет анализировать содержащиеся в контекстах характеристики их
+					общности как, например, принадлежность к общей предметной области,
+					наличие одинаковых признаков и т.п. В Сиртек со-цитируемыми
+					источниками считаются те, которые разделены не более чем 7-ю
+					символами, включая знаки препинания и т.п. Со-цитируемые авторы
+					выделяются программным образом из библиографических данных
+					со-цитируемых источников.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+			<item num="1" id="216sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/?cited=">
+				<file_name>216sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых пар источников из
+	  					публикаций "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены пары со-цитируемых источников в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">коды пары со-цитируемых источников</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="6" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке
+						уменьшения количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="2" id="foatsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/?cited=">
+				<file_name>foatsup.html</file_name>
+				<title>
+					<ru>Со-цитируемые авторы, топики и их распределение по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого автора, который со-цитируется,
+						приводится количество повторов со-цитирований и их
+						распределение по 5-ти фрагментам, а также топики релеватные к
+						соответстующим контекстам цитирований с количеством повторов и
+						их распределением по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="fanosup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>fanosup.html</file_name>
+				<title>
+					<ru>Со-цитируемые авторы, фразы и их распределение по
+	  					5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого
+						со-цитируемого автора приводится распределение
+						со-цитирований по 5-ти фрагментам, а также фразы из
+						соответстующих контекстов цитирований с их распределением по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="4" id="243sup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/?cited=">
+				<file_name>243sup.html</file_name>
+				<title>
+					<ru>Пары со-цитируемых авторов, тональность со-цитирований и распределение по
+	  					5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой пары со-цитируемых авторов приводится 
+						распределение тональности для контекстов, в которых они со-цитируются, а также 
+						распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">пары со-цитируемых авторов</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="neutral">количество контекстов с нейтральной тональностью</column>
+<column num="6" title="positive">количество контекстов с положительной тональностью</column>
+<column num="7" title="negative">количество контекстов с отрицательной тональностью</column>
+<column num="8" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="9" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых авторов в порядке уменьшения   
+количества их со-цитирования. Для контекстов, в которых данная пары авторов со-цитируется, приведены классы тональности, 
+а также их распределение по 5-ти фрагментам.
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>
+
+		<subsection num="5">
+			<title>
+				<ru>Распределение показателей по 5-ти фрагментам публикаций
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>
+				Подраздел содержит различные группировки
+					показателей, в которых распределение по 5-ти фрагментом
+					является основной характеристикой, а остальные показатели
+					служат дополнительными характеристиками. Эти группировки
+					сделаны на основе принадлежности разных типов показателей к
+					одним и тем же контекстам цитирований.
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="febusup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_bundles/?cited=">
+				<file_name>febusup.html</file_name>
+				<title>
+					<ru>Распределение цитирований источников по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого источника приводится количество его
+						упоминаний в публикациях "поставщиков" и в Сиртек в целом, а также
+						распределение упоминаний (цитирований) по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="refa1sup" source="http://cirtec.ranepa.ru/cirtec/by_frags/ref_authors/?cited=">
+				<file_name>refa1sup.html</file_name>
+				<title>
+					<ru>Распределение цитируемых авторов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого из 5-ти фрагментов приводятся цитируемые в них авторы, 
+						а также количество их цитирований в публикациях "поставщиков" и в Сиртек в
+						целом
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="3" id="refasup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/?cited=">
+				<file_name>refasup.html</file_name>
+				<title>
+					<ru>Цитируемые авторы по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого цитируемого автора приводится
+						количество цитирований в публикациях "поставщиков" и в Сиртек в
+						целом, а также распределения этих цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="4" id="focisup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/?cited=">
+				<file_name>focisup.html</file_name>
+				<title>
+					<ru>Распределение цитирований по 5-ти фрагментам для
+						со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводится
+						количество со-цитирований и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="caucsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/?cited=">
+				<file_name>caucsup.html</file_name>
+				<title>
+					<ru>Распределение цитирований по 5-ти фрагментам для
+						цитируемых авторов, включая со-цитирования
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводятся
+						авторы, с которыми он со-цитируется, включая количество
+						повторов и распределение этих со-цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="fratsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/?cited=">
+				<file_name>fratsup.html</file_name>
+				<title>
+					<ru>Распределение топиков по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводится количество релевантных контекстов и их распределение по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="7" id="legnsup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>legnsup.html</file_name>
+				<title>
+					<ru>Распределение фраз по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой из 10 наиболее повторяющихся фраз
+						приводится количество повторов и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="8" id="tantsup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/?cited=">
+				<file_name>tantsup.html</file_name>
+				<title>
+					<ru>Распределение тональности по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого из 5-ти фрагментов приводятся 
+						количества типов тональности, включая публикации и 
+						контексты, к которым они относятся
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>		
+		
 	</section>
 
 	<section num="5">
@@ -2079,4 +3345,1289 @@
 		</descr>
 	</section>
 
+	<section num="6">
+		<title>
+			<ru>4. Характеристики связей автора с "потребителями"
+			</ru>
+			<en>will be added</en>
+		</title>
+
+		<descr>
+			<ru>В данном разделе представлены показатели,
+					построенные для сводного массива контекстов цитирований из 
+					публикаций "поставщиков". С точки зрения
+					научной кооперации эти показатели характеризуют связи "поставщиков"
+					с другими авторами, которые в свою очередь, являются для них
+					“поставщиками” научной продукции, использованной
+					(процитированной) им в процессе создания своих
+					публикаций.
+
+				Показатели группируются разными способами на
+					основе их принадлежности к одинаковым контекстам
+					цитирований. Способы группировки показателей основываются на
+					переборе возможных сочетаний друг с другом их основных типов: а)
+					источники; б) авторы источников, включая со-цитируемых авторов;
+					в) повторяющиеся фразы; г) топики; д) классы тональности; е)
+					распределение по 5-ти фрагментам.
+
+			</ru>
+			<en>will be added</en>
+		</descr>
+
+		<subsection num="1">
+			<title>
+				<ru>Общие показатели
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит общие характеристики для
+					показателей каждого типа, полученные на основе полного множества
+					контекстов цитирований из публикаций "поставщиков".
+
+					Статистика к показателям “источники” и “авторы
+					источников” включает количество их упоминаний во всем множестве
+					публикаций системы Сиртек, а также в публикациях "поставщиков".
+					Это позволяет определить “вклад” "поставщиков" в
+					количество упоминаний соответствующих источников и их авторов,
+					включая случаи
+					со-цитирования. 
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+
+			<item num="1" id="toresup" source="http://cirtec.ranepa.ru/cirtec/top/ref_bundles/?cited=">
+				<file_name>toresup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых источников в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены источники из всех публикаций "поставщиков" в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+						<column num="1" title="_id">уникальный код источника, общий для этого же источника 
+							в списках литературы разных публикаций "поставщиков"</column>
+<column num="2" title="cits">количество упоминаний источника в публикациях "поставщиков"</column>
+<column num="3" title="pubs">количество публикаций "поставщиков", в которых обнаружены упоминания из столбца “cits”</column>
+<column num="4" title="total_cits">суммарное количество упоминаний источника, во всех публикациях в Сиртек</column>
+<column num="5" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается источник</column>
+<column num="6" title="authors">автор источника</column>
+<column num="7" title="year">год публикации источника</column>
+<column num="8" title="title">название источника</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>
+Пояснение к данным: Приведены источники, извлеченный из списков литературы
+всех публикаций "поставщиков". Список содержит только уникальные названия
+источников (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+источника, также
+приводится общее количество его упоминаний во всех публикациях в Сиртек. Эти
+данные позволяют получить представление какие источники оказали наибольшее
+влияние на публикации "поставщиков".
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="taursup" source="http://cirtec.ranepa.ru/cirtec/top/ref_authors/?cited=">
+				<file_name>taursup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых цитируемых авторов в
+	  					публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены цитируемые авторы из всех публикаций автора в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="author">цитируемый автор</column>
+<column num="2" title="cits">количество контекстов с упоминанием цитируемого автора</column>
+<column num="3" title="cits_all">количество упоминаний цитируемого автора</column>
+<column num="4" title="bunds_cnt">количество упоминаемых публикаций цитируемого автора</column>
+<column num="5" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="6" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="7" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
+списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+авторов (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+цитируемого автора, также приводится общее количество его упоминаний во всех публикациях в
+Сиртек. Эти данные позволяют получить представление какие влияние цитируемые авторы оказали
+на публикации "поставщиков" (чем чаще цитируется, тем выше
+влияние).					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="3" id="taur1sup" source="http://cirtec.ranepa.ru/cirtec/top_detail_bund/ref_authors/?cited=">
+				<file_name>taur1sup.html</file_name>
+				<title>
+					<ru>Список наиболее упоминаемых авторов и их цитируемые публикации 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены цитируемые авторы вместе с их публикациями в порядке уменьшения количества их цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="author">цитируемый автор</column>
+<column num="2" title="cits_all">количество упоминаний цитируемого автора</column>
+<column num="3" title="cits">количество контекстов с упоминанием цитируемого автора</column>
+<column num="4" title="pubs">количество публикаций, в которых обнаружены упоминания из столбца “cits”</column>
+<column num="5" title="bunds_cnt">количество упоминаемых публикаций цитируемого автора</column>
+<column num="6" title="total_cits">суммарное количество упоминаний цитируемого автора, во всех публикациях в Сиртек</column>
+<column num="7" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается цитируемый автор</column>
+<column num="8" title="bund">код публикации цитируемого автора</column>
+<column num="9" title="cnt">количество упоминаний публикации цитируемого автора</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
+списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+авторов (без повторов), упорядоченные по уменьшению суммарного количества
+их упоминаний в текстах публикаций "поставщиков". Для каждого
+цитируемого автора приводится статистика его упоминаний, а также коды публикаций цитируемого автора.
+Кликнув на этот код можно увидеть библиографические данные соответствующей публикации. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="4" id="213sup" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas&amp;cited=">
+				<file_name>213sup.html</file_name>
+				<title>
+					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены наиболее повторяющиеся фразы из контекстов в публикациях "поставщиков" 
+						в порядке уменьшения количества повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="title">фраза</column>
+<column num="2" title="type">тип фразы: lemmas - приведенная к единому виду; nolemmas - в исходном виде</column>
+<column num="3" title="all">количество упоминаний фразы в контекстах цитирований из публикаций заданного автора</column>
+<column num="4" title="count_cont">количество контекстов, в которых фраза упоминается</column>
+<column num="5" title="contects">коды контекстов, в которых фраза упоминается, и количество ее упоминаний в них</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены 50 наиболее часто встречающихся фраз
+в контекстах цитирований из публикаций "поставщиков", упорядоченные по уменьшению количества упоминаний. В большинстве
+случаев фразы являются профессиональными терминами. Чем чаще такой термин упоминается и чем в большем количестве публикаций, 
+тем выше вероятность, что он определяет научную область или проблематику, в которой "поставщики" используют (цитируют) 
+работы других ученых. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+			<item num="5" id="214sup" source="http://cirtec.ranepa.ru/cirtec/top/topics/?cited=">
+				<file_name>214sup.html</file_name>
+				<title>
+					<ru>Список 20 топиков релевантных для контекстов цитирований в
+	  					публикациях заданного автора
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены 20 топиков по 5 слов каждый, построенные для контекстов цитирований 
+						из всех публикаций заданного автора
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="topic">топик</column>
+<column num="2" title="count">количество релеватных контекстов цитирования</column>
+<column num="3" title="probability_avg">средняя релеватность топика контекстам</column>
+<column num="4" title="probability_stddev">среднеквадратическое отклонение релевантности</column>
+<column num="5" title="contects">коды контекстов цитирований, релевантные данному топику</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены топики, показатели их релевантности, а также
+коды контекстов цитирований, к которым они релевантны. Список топиков упорядочен по уменьшению количества контекстов 
+цитирований, к которым топики релевантны. Топики строятся на основе всего заданного массива контекстов цитирований 
+и поэтому, в отличие от фраз, являются глобальной характеристикой их содержания.
+Чем больше контекстов, для которых топик релевантен, 
+тем выше вероятность, что он характеризует научную область или проблематику, в которой заданный автор использует (цитирует) 
+работы других ученых. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="215sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/?cited=">
+				<file_name>215sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых источников в публикациях "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведен список источников, которые наиболее часто со-цитируются,
+						в порядке уменьшения количества со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="bid">код источника</column>
+<column num="2" title="descr">название источника</column>
+<column num="3" title="contects">коды контекстов цитирований, в которых данных источник со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены источники из списков литературы публикаций "поставщиков" 
+в порядке уменьшения количества их со-цитирований. Для каждого источника даются коды контекстов цитирований, в которых
+этот источник со-цитируется.
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+			<item num="7" id="217sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/?cited=">
+				<file_name>217sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых авторов 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведен список со-цитируемых авторов в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="title">со-цитируемый автор</column>
+<column num="2" title="contects">коды контекстов, в которых данный автор со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены со-цитируемые авторы в порядке
+						уменьшения количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="8" id="218sup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/contexts/?cited=">
+				<file_name>218sup.html</file_name>
+				<title>
+					<ru>Тональность контексов цитирования
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приведено общее количество контекстов, к которым 
+						этот класс относится 
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="class_pos_neg">класс тональности</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования с данной тональностью</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эти контексты находяться</column>
+<column num="4" title="pub_ids">коды публикаций, где эти контексты находятся</column>
+<column num="5" title="cont_ids">коды этих контекстов</column>
+					</ru>	
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены количества контекстов цитирований для каждого 
+						класса тональности, а также коды соответствующих контекстов и публикаций,
+						которые позволяют получить дополнительную информацию. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>			
+		</subsection>
+
+
+		<subsection num="2">
+			<title>
+				<ru>Показатели на основе фраз и топиков
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит различные группировки
+					показателей, в которых фразы и топики являются основными
+					характеристиками, а остальные показатели являются для них
+					дополнительными характеристиками. Подобные группировки
+					делаются на основе принадлежности разных типов показателей к
+					одним и тем же контекстам цитирований.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="rebusup" source="http://cirtec.ranepa.ru/cirtec/ref_bund4ngramm_tops/?topn=100&amp;cited=">
+				<file_name>rebusup.html</file_name>
+				<title>
+					<ru>Фразы и топики для наиболее цитируемых источников
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для наиболее цитируемых источников проводятся фразы и топики из соответстующих контекстов цитирований с количеством их повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="aubusup" source="http://cirtec.ranepa.ru/cirtec/ref_auth4ngramm_tops/?cited=">
+				<file_name>aubusup.html</file_name>
+				<title>
+					<ru>Фразы и топики для наиболее цитируемых
+						авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводятся
+						топики и фразы из соответствующих контекстов цитирований с
+						количествами их повторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="tocosup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>tocosup.html</file_name>
+				<title>
+					<ru>Топики, фразы и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для топиков приводятся распределения релевантных
+						им контекстов по 5-ти фрагментам, а также повторяющиеся фразы
+						из этих же контекстов с их распределением по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="4" id="fatosup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;cited=">
+				<file_name>fatosup.html</file_name>
+				<title>
+					<ru>Фразы, топики и их распределение по 5-ти
+				фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводится количество повторов и
+						распределение по 5-ти фрагментам, а также топики из
+						соответствующих контекстов с количеством их повторов и
+						распределением их контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="nagusup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/?ltype=lemmas&amp;cited=">
+				<file_name>nagusup.html</file_name>
+				<title>
+					<ru>Фразы, со-цитируемые авторы и их распределение по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводится количество повторов,
+						их распределение по 5-ти фрагментам, а также цитируемые в этих
+						контекстах авторы и распределение их цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="tautsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/cocitauthors/?cited=">
+				<file_name>tautsup.html</file_name>
+				<title>
+					<ru>Топики, со-цитируемые авторы и их распределение по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводится количество
+						релеватных контекстов и их распределение по 5-ти фрагментам, а
+						также упоминающиеся в этих контекстах со-цитируемые авторы с
+						их распределением по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="7" id="227sup" source="http://cirtec.ranepa.ru/cirtec/publ/topics/topics/?cited=">
+				<file_name>227sup.html</file_name>
+				<title>
+					<ru>Топики и их связи друг с другом через общие контексты цитирований и публикации
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводятся коды публикаций, к которым принадлежат
+						релеватные им контексты цитирований, а также приводятся другие топики, которые имеют
+						с ним общие контексты цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="8" id="228sup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/topics/?cited=">
+				<file_name>228sup.html</file_name>
+				<title>
+					<ru>Топики, их связи друг с другом и распределение по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводятся другие топики, имеющие общие контексты цитирований, 
+						а также распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="9" id="229sup" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?cited=">
+				<file_name>229sup.html</file_name>
+				<title>
+					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводятся коды публикаций, к которым принадлежат
+						их контексты цитирований, а также приводятся другие фразы, которые имеют
+						общие контексты цитирований с данной фразой
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="10" id="2210sup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?cited=">
+				<file_name>2210sup.html</file_name>
+				<title>
+					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой фразы приводятся другие фразы, имеющие общие контексты цитирований, 
+						а также распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+		</subsection>
+
+		<subsection num="3">
+			<title>
+				<ru>Показатели тональности
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>Подраздел содержит результаты классификации
+					содержания контекстов цитирований следующими классами
+					тональности: нейтральный, позитивный или
+					негативный. Если в контексте присутствуют признаки
+					нескольких классов тональности, то выбирается тот,
+					которые имеет наибольшую релевантность. При одинаковой
+					релевантности, класс выбирается случайным
+					образом. Контексты на английском языке пока не
+					классифицируются.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="pobusup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/?cited=">
+				<file_name>pobusup.html</file_name>
+				<title>
+					<ru>Распределение тональности контекстов цитирований
+	  					для процитированных источников
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого источника приводится распределение
+						классов тональности для его контекстов цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="pautsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/?cited=">
+				<file_name>pautsup.html</file_name>
+				<title>
+					<ru>Распределение тональности контекстов цитирований
+	  					для процитированных авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого процитированного автора приводится
+						распределение классов тональности для соответствующих
+						контекстов цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="tangsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?cited=">
+				<file_name>tangsup.html</file_name>
+				<title>
+					<ru>Тональность для фраз
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приводятся наиболее часто повторяющиеся фразы      
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="4" id="tatosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/?cited=">
+				<file_name>tatosup.html</file_name>
+				<title>
+					<ru>Тональность для топиков
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приводятся наиболее релевантные топики
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="tacosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/?cited=">
+				<file_name>tacosup.html</file_name>
+				<title>
+					<ru>Тональность для со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого класса тональности приведены топ со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>
+
+		<subsection num="4">
+
+			<title>
+				<ru>Показатели для со-цитирований
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>
+				Подраздел содержит наборы показателей, построенных для
+					особых случаев: когда в контекстах цитирований есть источники, которые
+					цитируются “через запятую”. В данных случаях автор публикации помещает
+					несколько цитируемых источников в общий контекст цитирований, что
+					позволяет анализировать содержащиеся в контекстах характеристики их
+					общности как, например, принадлежность к общей предметной области,
+					наличие одинаковых признаков и т.п. В Сиртек со-цитируемыми
+					источниками считаются те, которые разделены не более чем 7-ю
+					символами, включая знаки препинания и т.п. Со-цитируемые авторы
+					выделяются программным образом из библиографических данных
+					со-цитируемых источников.
+
+				</ru>
+				<en>will be added</en>
+			</descr>
+			<item num="1" id="216sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/?cited=">
+				<file_name>216sup.html</file_name>
+				<title>
+					<ru>Список наиболее часто со-цитируемых пар источников из
+	  					публикаций "поставщиков"
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - приведены пары со-цитируемых источников в порядке уменьшения количества их со-цитирований
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">коды пары со-цитируемых источников</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="6" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых источников в порядке
+						уменьшения количества их со-цитирования. 
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="2" id="foatsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/?cited=">
+				<file_name>foatsup.html</file_name>
+				<title>
+					<ru>Со-цитируемые авторы, топики и их распределение по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого автора, который со-цитируется,
+						приводится количество повторов со-цитирований и их
+						распределение по 5-ти фрагментам, а также топики релеватные к
+						соответстующим контекстам цитирований с количеством повторов и
+						их распределением по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="3" id="fanosup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>fanosup.html</file_name>
+				<title>
+					<ru>Со-цитируемые авторы, фразы и их распределение по
+	  					5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого
+						со-цитируемого автора приводится распределение
+						со-цитирований по 5-ти фрагментам, а также фразы из
+						соответстующих контекстов цитирований с их распределением по
+						5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			<item num="4" id="243sup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/?cited=">
+				<file_name>243sup.html</file_name>
+				<title>
+					<ru>Пары со-цитируемых авторов, тональность со-цитирований и распределение по
+	  					5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой пары со-цитируемых авторов приводится 
+						распределение тональности для контекстов, в которых они со-цитируются, а также 
+						распределение этих контекстов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>
+<column num="1" title="cocitpair">пары со-цитируемых авторов</column>
+<column num="2" title="cont_cnt">количество контекстов цитирования, в которых эта пара со-цитируется</column>
+<column num="3" title="pub_cnt">количество публикаций, в которых эта пара со-цитируется</column>
+<column num="4" title="frags">распределение со-цитирований по 5-ти фрагментам</column>
+<column num="5" title="neutral">количество контекстов с нейтральной тональностью</column>
+<column num="6" title="positive">количество контекстов с положительной тональностью</column>
+<column num="7" title="negative">количество контекстов с отрицательной тональностью</column>
+<column num="8" title="pub_ids">коды публикаций, где эта пара со-цитируется</column>
+<column num="9" title="cont_ids">коды контекстов, в которых эта пара со-цитируется</column>
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>Пояснение к данным: Приведены коды пары со-цитируемых авторов в порядке уменьшения   
+количества их со-цитирования. Для контекстов, в которых данная пары авторов со-цитируется, приведены классы тональности, 
+а также их распределение по 5-ти фрагментам.
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>
+
+		<subsection num="5">
+			<title>
+				<ru>Распределение показателей по 5-ти фрагментам публикаций
+				</ru>
+				<en>will be added</en>
+			</title>
+
+			<descr>
+				<ru>
+				Подраздел содержит различные группировки
+					показателей, в которых распределение по 5-ти фрагментом
+					является основной характеристикой, а остальные показатели
+					служат дополнительными характеристиками. Эти группировки
+					сделаны на основе принадлежности разных типов показателей к
+					одним и тем же контекстам цитирований.
+				</ru>
+				<en>will be added</en>
+			</descr>
+
+			<item num="1" id="febusup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_bundles/?cited=">
+				<file_name>febusup.html</file_name>
+				<title>
+					<ru>Распределение цитирований источников по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого источника приводится количество его
+						упоминаний в публикациях "поставщиков" и в Сиртек в целом, а также
+						распределение упоминаний (цитирований) по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="2" id="refa1sup" source="http://cirtec.ranepa.ru/cirtec/by_frags/ref_authors/?cited=">
+				<file_name>refa1sup.html</file_name>
+				<title>
+					<ru>Распределение цитируемых авторов по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого из 5-ти фрагментов приводятся цитируемые в них авторы, 
+						а также количество их цитирований в публикациях "поставщиков" и в Сиртек в
+						целом
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="3" id="refasup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/?cited=">
+				<file_name>refasup.html</file_name>
+				<title>
+					<ru>Цитируемые авторы по 5-ти фрагментам 
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого цитируемого автора приводится
+						количество цитирований в публикациях "поставщиков" и в Сиртек в
+						целом, а также распределения этих цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+			
+			<item num="4" id="focisup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/?cited=">
+				<file_name>focisup.html</file_name>
+				<title>
+					<ru>Распределение цитирований по 5-ти фрагментам для
+						со-цитируемых авторов
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводится
+						количество со-цитирований и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="5" id="caucsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/?cited=">
+				<file_name>caucsup.html</file_name>
+				<title>
+					<ru>Распределение цитирований по 5-ти фрагментам для
+						цитируемых авторов, включая со-цитирования
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого со-цитируемого автора приводятся
+						авторы, с которыми он со-цитируется, включая количество
+						повторов и распределение этих со-цитирований по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="6" id="fratsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/?cited=">
+				<file_name>fratsup.html</file_name>
+				<title>
+					<ru>Распределение топиков по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого топика приводится количество релевантных контекстов и их распределение по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="7" id="legnsup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;cited=">
+				<file_name>legnsup.html</file_name>
+				<title>
+					<ru>Распределение фраз по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждой из 10 наиболее повторяющихся фраз
+						приводится количество повторов и их распределение по 5-ти
+						фрагментам
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+			<item num="8" id="tantsup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/?cited=">
+				<file_name>tantsup.html</file_name>
+				<title>
+					<ru>Распределение тональности по 5-ти фрагментам
+					</ru>
+					<en>will be added</en>
+				</title>
+
+				<desc>
+					<ru> - для каждого из 5-ти фрагментов приводятся 
+						количества типов тональности, включая публикации и 
+						контексты, к которым они относятся
+					</ru>
+					<en>will be added</en>
+				</desc>
+
+				<legend>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</legend>
+
+				<expl>
+					<ru>... будет дописано
+					</ru>
+					<en>will be added</en>
+				</expl>
+
+			</item>
+
+		</subsection>		
+		
+	</section>	
+	
 </after_table1>
