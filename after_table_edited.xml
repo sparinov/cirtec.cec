@@ -8,7 +8,7 @@
 		</ru>
 		<en>will be added</en>
 	</footnote>
-<! ===================================================== ->
+<!-- ===================================================== -->
 	<section num="1">
 
 		<title>
@@ -387,7 +387,7 @@
 		</item>
 		</subsection>
 	</section>
-<! ================================================ ->
+<!-- ================================================ -->
 	<section num="2">
 
 		<title>
@@ -2042,7 +2042,7 @@
 		</item>
 		</subsection>
 	</section>
-<! ========================================================== ->
+<!-- ========================================================== -->
 	<section num="4">
 		<title>
 			<ru>4. Характеристики связей "поставщиков" с их "поставщиками"
@@ -3327,7 +3327,7 @@
 		</subsection>		
 		
 	</section>
-<!=========================================================  ->
+<!-- =========================================================  -->
 	<section num="5">
 		<title>
 			<ru>5. Данные о "потребителях”
@@ -3676,11 +3676,11 @@
 		</subsection>
 	</section>
 
-<!=================================================================->
+<!-- ================================================================= -->
 
 	<section num="6">
 		<title>
-			<ru>4. Характеристики связей автора с "потребителями"
+			<ru>6. Характеристики связей автора с "потребителями"
 			</ru>
 			<en>will be added</en>
 		</title>
@@ -3688,9 +3688,9 @@
 		<descr>
 			<ru>В данном разделе представлены показатели,
 					построенные для сводного массива контекстов цитирований из 
-					публикаций "поставщиков". С точки зрения
-					научной кооперации эти показатели характеризуют связи "поставщиков"
-					с другими авторами, которые в свою очередь, являются для них
+					публикаций "потребителей". С точки зрения
+					научной кооперации эти показатели характеризуют связи "потребителей"
+					с другими авторами, включая заданного автора, которые являются для "потребителей"
 					“поставщиками” научной продукции, использованной
 					(процитированной) им в процессе создания своих
 					публикаций.
@@ -3717,12 +3717,12 @@
 			<descr>
 				<ru>Подраздел содержит общие характеристики для
 					показателей каждого типа, полученные на основе полного множества
-					контекстов цитирований из публикаций "поставщиков".
+					контекстов цитирований из публикаций "потребителей".
 
 					Статистика к показателям “источники” и “авторы
 					источников” включает количество их упоминаний во всем множестве
-					публикаций системы Сиртек, а также в публикациях "поставщиков".
-					Это позволяет определить “вклад” "поставщиков" в
+					публикаций системы Сиртек, а также в публикациях "потребителей".
+					Это позволяет определить “вклад” "потребителей" в
 					количество упоминаний соответствующих источников и их авторов,
 					включая случаи
 					со-цитирования. 
@@ -3732,16 +3732,16 @@
 			</descr>
 
 
-			<item num="1" id="toresup" source="http://cirtec.ranepa.ru/cirtec/top/ref_bundles/?cited=">
-				<file_name>toresup.html</file_name>
+			<item num="1" id="torecon" source="http://cirtec.ranepa.ru/cirtec/top/ref_bundles/?citing=">
+				<file_name>torecon.html</file_name>
 				<title>
-					<ru>Список наиболее упоминаемых источников в публикациях "поставщиков"
+					<ru>Список наиболее упоминаемых источников в публикациях "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - приведены источники из всех публикаций "поставщиков" в порядке уменьшения количества их цитирований
+					<ru> - приведены источники из всех публикаций "потребителей" в порядке уменьшения количества их цитирований
 					</ru>
 					<en>will be added</en>
 				</desc>
@@ -3749,8 +3749,8 @@
 				<legend>
 					<ru>
 						<column num="1" title="_id">уникальный код источника, общий для этого же источника 
-							в списках литературы разных публикаций "поставщиков"</column>
-<column num="2" title="cits">количество упоминаний источника в публикациях "поставщиков"</column>
+							в списках литературы разных публикаций "потребителей"</column>
+<column num="2" title="cits">количество упоминаний источника в публикациях "потребителей"</column>
 <column num="3" title="pubs">количество публикаций "поставщиков", в которых обнаружены упоминания из столбца “cits”</column>
 <column num="4" title="total_cits">суммарное количество упоминаний источника, во всех публикациях в Сиртек</column>
 <column num="5" title="total_pubs">суммарное количество публикаций в Сиртек, в которых упоминается источник</column>
@@ -3764,24 +3764,24 @@
 				<expl>
 					<ru>
 Пояснение к данным: Приведены источники, извлеченный из списков литературы
-всех публикаций "поставщиков". Список содержит только уникальные названия
+всех публикаций "потребителей". Список содержит только уникальные названия
 источников (без повторов), упорядоченные по уменьшению суммарного количества
-их упоминаний в текстах публикаций "поставщиков". Для каждого
+их упоминаний в текстах публикаций "потребителей". Для каждого
 источника, также
 приводится общее количество его упоминаний во всех публикациях в Сиртек. Эти
 данные позволяют получить представление какие источники оказали наибольшее
-влияние на публикации "поставщиков".
+влияние на публикации "потребителей".
 					</ru>
 					<en>will be added</en>
 				</expl>
 
 			</item>
 
-			<item num="2" id="taursup" source="http://cirtec.ranepa.ru/cirtec/top/ref_authors/?cited=">
-				<file_name>taursup.html</file_name>
+			<item num="2" id="taurcon" source="http://cirtec.ranepa.ru/cirtec/top/ref_authors/?citing=">
+				<file_name>taurcon.html</file_name>
 				<title>
 					<ru>Список наиболее упоминаемых цитируемых авторов в
-	  					публикациях "поставщиков"
+	  					публикациях "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
@@ -3807,19 +3807,19 @@
 
 				<expl>
 					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
-списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+списков литературы публикаций "потребителей". Список содержит только уникальные фамилии
 авторов (без повторов), упорядоченные по уменьшению суммарного количества
-их упоминаний в текстах публикаций "поставщиков". Для каждого
+их упоминаний в текстах публикаций "потребителей". Для каждого
 цитируемого автора, также приводится общее количество его упоминаний во всех публикациях в
 Сиртек. Эти данные позволяют получить представление какие влияние цитируемые авторы оказали
-на публикации "поставщиков" (чем чаще цитируется, тем выше
+на публикации "потребителей" (чем чаще цитируется, тем выше
 влияние).					</ru>
 					<en>will be added</en>
 				</expl>
 
 			</item>
-			<item num="3" id="taur1sup" source="http://cirtec.ranepa.ru/cirtec/top_detail_bund/ref_authors/?cited=">
-				<file_name>taur1sup.html</file_name>
+			<item num="3" id="taur1con" source="http://cirtec.ranepa.ru/cirtec/top_detail_bund/ref_authors/?citing=">
+				<file_name>taur1con.html</file_name>
 				<title>
 					<ru>Список наиболее упоминаемых авторов и их цитируемые публикации 
 					</ru>
@@ -3849,9 +3849,9 @@
 
 				<expl>
 					<ru>Пояснение к данным: Приведены авторы источников, извлеченных из
-списков литературы публикаций "поставщиков". Список содержит только уникальные фамилии
+списков литературы публикаций "потребителей". Список содержит только уникальные фамилии
 авторов (без повторов), упорядоченные по уменьшению суммарного количества
-их упоминаний в текстах публикаций "поставщиков". Для каждого
+их упоминаний в текстах публикаций "потребителей". Для каждого
 цитируемого автора приводится статистика его упоминаний, а также коды публикаций цитируемого автора.
 Кликнув на этот код можно увидеть библиографические данные соответствующей публикации. 
 					</ru>
@@ -3860,16 +3860,16 @@
 
 			</item>
 			
-			<item num="4" id="213sup" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas&amp;cited=">
-				<file_name>213sup.html</file_name>
+			<item num="4" id="213con" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/?topn=50&amp;ltype=lemmas&amp;citing=">
+				<file_name>213con.html</file_name>
 				<title>
-					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях "поставщиков"
+					<ru>Список 50 наиболее упоминаемых фраз из контекстов цитирования в публикациях "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - приведены наиболее повторяющиеся фразы из контекстов в публикациях "поставщиков" 
+					<ru> - приведены наиболее повторяющиеся фразы из контекстов в публикациях "потребителей" 
 						в порядке уменьшения количества повторов
 					</ru>
 					<en>will be added</en>
@@ -3888,27 +3888,27 @@
 
 				<expl>
 					<ru>Пояснение к данным: Приведены 50 наиболее часто встречающихся фраз
-в контекстах цитирований из публикаций "поставщиков", упорядоченные по уменьшению количества упоминаний. В большинстве
+в контекстах цитирований из публикаций "потребителей", упорядоченные по уменьшению количества упоминаний. В большинстве
 случаев фразы являются профессиональными терминами. Чем чаще такой термин упоминается и чем в большем количестве публикаций, 
-тем выше вероятность, что он определяет научную область или проблематику, в которой "поставщики" используют (цитируют) 
+тем выше вероятность, что он определяет научную область или проблематику, в которой "потребители" используют (цитируют) 
 работы других ученых. 
 					</ru>
 					<en>will be added</en>
 				</expl>
 
 			</item>			
-			<item num="5" id="214sup" source="http://cirtec.ranepa.ru/cirtec/top/topics/?cited=">
-				<file_name>214sup.html</file_name>
+			<item num="5" id="214con" source="http://cirtec.ranepa.ru/cirtec/top/topics/?citing=">
+				<file_name>214con.html</file_name>
 				<title>
 					<ru>Список 20 топиков релевантных для контекстов цитирований в
-	  					публикациях заданного автора
+	  					публикациях "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
 					<ru> - приведены 20 топиков по 5 слов каждый, построенные для контекстов цитирований 
-						из всех публикаций заданного автора
+						из всех публикаций "потребителей"
 					</ru>
 					<en>will be added</en>
 				</desc>
@@ -3930,7 +3930,7 @@
 цитирований, к которым топики релевантны. Топики строятся на основе всего заданного массива контекстов цитирований 
 и поэтому, в отличие от фраз, являются глобальной характеристикой их содержания.
 Чем больше контекстов, для которых топик релевантен, 
-тем выше вероятность, что он характеризует научную область или проблематику, в которой заданный автор использует (цитирует) 
+тем выше вероятность, что он характеризует научную область или проблематику, в которой "потребители" используют (цитируют) 
 работы других ученых. 
 					</ru>
 					<en>will be added</en>
@@ -3938,10 +3938,10 @@
 
 			</item>
 
-			<item num="6" id="215sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/?cited=">
-				<file_name>215sup.html</file_name>
+			<item num="6" id="215con" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/?citing=">
+				<file_name>215con.html</file_name>
 				<title>
-					<ru>Список наиболее часто со-цитируемых источников в публикациях "поставщиков"
+					<ru>Список наиболее часто со-цитируемых источников в публикациях "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
@@ -3963,7 +3963,7 @@
 				</legend>
 
 				<expl>
-					<ru>Пояснение к данным: Приведены источники из списков литературы публикаций "поставщиков" 
+					<ru>Пояснение к данным: Приведены источники из списков литературы публикаций "потребителей" 
 в порядке уменьшения количества их со-цитирований. Для каждого источника даются коды контекстов цитирований, в которых
 этот источник со-цитируется.
 					</ru>
@@ -3971,8 +3971,8 @@
 				</expl>
 
 			</item>			
-			<item num="7" id="217sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/?cited=">
-				<file_name>217sup.html</file_name>
+			<item num="7" id="217con" source="http://cirtec.ranepa.ru/cirtec/top/cocitauthors/?citing=">
+				<file_name>217con.html</file_name>
 				<title>
 					<ru>Список наиболее часто со-цитируемых авторов 
 					</ru>
@@ -4001,8 +4001,8 @@
 				</expl>
 
 			</item>
-			<item num="8" id="218sup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/contexts/?cited=">
-				<file_name>218sup.html</file_name>
+			<item num="8" id="218con" source="http://cirtec.ranepa.ru/cirtec/pos_neg/contexts/?citing=">
+				<file_name>218con.html</file_name>
 				<title>
 					<ru>Тональность контексов цитирования
 					</ru>
@@ -4058,8 +4058,8 @@
 				<en>will be added</en>
 			</descr>
 
-			<item num="1" id="rebusup" source="http://cirtec.ranepa.ru/cirtec/ref_bund4ngramm_tops/?topn=100&amp;cited=">
-				<file_name>rebusup.html</file_name>
+			<item num="1" id="rebucon" source="http://cirtec.ranepa.ru/cirtec/ref_bund4ngramm_tops/?topn=100&amp;citing=">
+				<file_name>rebucon.html</file_name>
 				<title>
 					<ru>Фразы и топики для наиболее цитируемых источников
 					</ru>
@@ -4086,8 +4086,8 @@
 
 			</item>
 
-			<item num="2" id="aubusup" source="http://cirtec.ranepa.ru/cirtec/ref_auth4ngramm_tops/?cited=">
-				<file_name>aubusup.html</file_name>
+			<item num="2" id="aubucon" source="http://cirtec.ranepa.ru/cirtec/ref_auth4ngramm_tops/?citing=">
+				<file_name>aubucon.html</file_name>
 				<title>
 					<ru>Фразы и топики для наиболее цитируемых
 						авторов
@@ -4117,8 +4117,8 @@
 
 			</item>
 
-			<item num="3" id="tocosup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/?ltype=lemmas&amp;cited=">
-				<file_name>tocosup.html</file_name>
+			<item num="3" id="tococon" source="http://cirtec.ranepa.ru/cirtec/frags/topics/ngramms/?ltype=lemmas&amp;citing=">
+				<file_name>tococon.html</file_name>
 				<title>
 					<ru>Топики, фразы и их распределение по 5-ти
 						фрагментам
@@ -4149,8 +4149,8 @@
 
 			</item>
 
-			<item num="4" id="fatosup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;cited=">
-				<file_name>fatosup.html</file_name>
+			<item num="4" id="fatocon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;citing=">
+				<file_name>fatocon.html</file_name>
 				<title>
 					<ru>Фразы, топики и их распределение по 5-ти
 				фрагментам
@@ -4181,8 +4181,8 @@
 
 			</item>
 
-			<item num="5" id="nagusup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/?ltype=lemmas&amp;cited=">
-				<file_name>nagusup.html</file_name>
+			<item num="5" id="nagucon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/cocitauthors/?ltype=lemmas&amp;citing=">
+				<file_name>nagucon.html</file_name>
 				<title>
 					<ru>Фразы, со-цитируемые авторы и их распределение по
 						5-ти фрагментам
@@ -4213,8 +4213,8 @@
 
 			</item>
 
-			<item num="6" id="tautsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/cocitauthors/?cited=">
-				<file_name>tautsup.html</file_name>
+			<item num="6" id="tautcon" source="http://cirtec.ranepa.ru/cirtec/frags/topics/cocitauthors/?citing=">
+				<file_name>tautcon.html</file_name>
 				<title>
 					<ru>Топики, со-цитируемые авторы и их распределение по
 						5-ти фрагментам
@@ -4244,8 +4244,8 @@
 				</expl>
 
 			</item>
-			<item num="7" id="227sup" source="http://cirtec.ranepa.ru/cirtec/publ/topics/topics/?cited=">
-				<file_name>227sup.html</file_name>
+			<item num="7" id="227con" source="http://cirtec.ranepa.ru/cirtec/publ/topics/topics/?citing=">
+				<file_name>227con.html</file_name>
 				<title>
 					<ru>Топики и их связи друг с другом через общие контексты цитирований и публикации
 					</ru>
@@ -4273,8 +4273,8 @@
 				</expl>
 
 			</item>
-			<item num="8" id="228sup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/topics/?cited=">
-				<file_name>228sup.html</file_name>
+			<item num="8" id="228con" source="http://cirtec.ranepa.ru/cirtec/frags/topics/topics/?citing=">
+				<file_name>228con.html</file_name>
 				<title>
 					<ru>Топики, их связи друг с другом и распределение по 5-ти фрагментам 
 					</ru>
@@ -4301,8 +4301,8 @@
 				</expl>
 
 			</item>
-			<item num="9" id="229sup" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?cited=">
-				<file_name>229sup.html</file_name>
+			<item num="9" id="229con" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?citing=">
+				<file_name>229con.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
 					</ru>
@@ -4330,8 +4330,8 @@
 				</expl>
 
 			</item>
-			<item num="10" id="2210sup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?cited=">
-				<file_name>2210sup.html</file_name>
+			<item num="10" id="2210con" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?citing=">
+				<file_name>2210con.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
 					</ru>
@@ -4382,8 +4382,8 @@
 				<en>will be added</en>
 			</descr>
 
-			<item num="1" id="pobusup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/?cited=">
-				<file_name>pobusup.html</file_name>
+			<item num="1" id="pobucon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_bundles/?citing=">
+				<file_name>pobucon.html</file_name>
 				<title>
 					<ru>Распределение тональности контекстов цитирований
 	  					для процитированных источников
@@ -4412,8 +4412,8 @@
 
 			</item>
 
-			<item num="2" id="pautsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/?cited=">
-				<file_name>pautsup.html</file_name>
+			<item num="2" id="pautcon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ref_authors/?citing=">
+				<file_name>pautcon.html</file_name>
 				<title>
 					<ru>Распределение тональности контекстов цитирований
 	  					для процитированных авторов
@@ -4443,8 +4443,8 @@
 
 			</item>
 
-			<item num="3" id="tangsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?cited=">
-				<file_name>tangsup.html</file_name>
+			<item num="3" id="tangcon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?citing=">
+				<file_name>tangcon.html</file_name>
 				<title>
 					<ru>Тональность для фраз
 					</ru>
@@ -4471,8 +4471,8 @@
 
 			</item>
 
-			<item num="4" id="tatosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/?cited=">
-				<file_name>tatosup.html</file_name>
+			<item num="4" id="tatocon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/topics/?citing=">
+				<file_name>tatocon.html</file_name>
 				<title>
 					<ru>Тональность для топиков
 					</ru>
@@ -4499,8 +4499,8 @@
 
 			</item>
 
-			<item num="5" id="tacosup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/?cited=">
-				<file_name>tacosup.html</file_name>
+			<item num="5" id="tacocon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/cocitauthors/?citing=">
+				<file_name>tacocon.html</file_name>
 				<title>
 					<ru>Тональность для со-цитируемых авторов
 					</ru>
@@ -4554,11 +4554,11 @@
 				</ru>
 				<en>will be added</en>
 			</descr>
-			<item num="1" id="216sup" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/?cited=">
-				<file_name>216sup.html</file_name>
+			<item num="1" id="216con" source="http://cirtec.ranepa.ru/cirtec/top/cocitrefs/cocitrefs/?citing=">
+				<file_name>216con.html</file_name>
 				<title>
 					<ru>Список наиболее часто со-цитируемых пар источников из
-	  					публикаций "поставщиков"
+	  					публикаций "потребителей"
 					</ru>
 					<en>will be added</en>
 				</title>
@@ -4589,8 +4589,8 @@
 				</expl>
 
 			</item>
-			<item num="2" id="foatsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/?cited=">
-				<file_name>foatsup.html</file_name>
+			<item num="2" id="foatcon" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/topics/?citing=">
+				<file_name>foatcon.html</file_name>
 				<title>
 					<ru>Со-цитируемые авторы, топики и их распределение по 5-ти фрагментам
 					</ru>
@@ -4621,8 +4621,8 @@
 
 			</item>
 
-			<item num="3" id="fanosup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas&amp;cited=">
-				<file_name>fanosup.html</file_name>
+			<item num="3" id="fanocon" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/ngramms/?ltype=lemmas&amp;citing=">
+				<file_name>fanocon.html</file_name>
 				<title>
 					<ru>Со-цитируемые авторы, фразы и их распределение по
 	  					5-ти фрагментам
@@ -4653,8 +4653,8 @@
 				</expl>
 
 			</item>
-			<item num="4" id="243sup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/?cited=">
-				<file_name>243sup.html</file_name>
+			<item num="4" id="243con" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/cocitauthors/cocitauthors/?citing=">
+				<file_name>243con.html</file_name>
 				<title>
 					<ru>Пары со-цитируемых авторов, тональность со-цитирований и распределение по
 	  					5-ти фрагментам
@@ -4716,8 +4716,8 @@
 				<en>will be added</en>
 			</descr>
 
-			<item num="1" id="febusup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_bundles/?cited=">
-				<file_name>febusup.html</file_name>
+			<item num="1" id="febucon" source="http://cirtec.ranepa.ru/cirtec/frags/ref_bundles/?citing=">
+				<file_name>febucon.html</file_name>
 				<title>
 					<ru>Распределение цитирований источников по 5-ти
 						фрагментам
@@ -4727,7 +4727,7 @@
 
 				<desc>
 					<ru> - для каждого источника приводится количество его
-						упоминаний в публикациях "поставщиков" и в Сиртек в целом, а также
+						упоминаний в публикациях "потребителей" и в Сиртек в целом, а также
 						распределение упоминаний (цитирований) по 5-ти фрагментам
 					</ru>
 					<en>will be added</en>
@@ -4747,8 +4747,8 @@
 
 			</item>
 
-			<item num="2" id="refa1sup" source="http://cirtec.ranepa.ru/cirtec/by_frags/ref_authors/?cited=">
-				<file_name>refa1sup.html</file_name>
+			<item num="2" id="refa1con" source="http://cirtec.ranepa.ru/cirtec/by_frags/ref_authors/?citing=">
+				<file_name>refa1con.html</file_name>
 				<title>
 					<ru>Распределение цитируемых авторов по 5-ти фрагментам
 					</ru>
@@ -4757,7 +4757,7 @@
 
 				<desc>
 					<ru> - для каждого из 5-ти фрагментов приводятся цитируемые в них авторы, 
-						а также количество их цитирований в публикациях "поставщиков" и в Сиртек в
+						а также количество их цитирований в публикациях "потребителей" и в Сиртек в
 						целом
 					</ru>
 					<en>will be added</en>
@@ -4777,8 +4777,8 @@
 
 			</item>
 			
-			<item num="3" id="refasup" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/?cited=">
-				<file_name>refasup.html</file_name>
+			<item num="3" id="refacon" source="http://cirtec.ranepa.ru/cirtec/frags/ref_authors/?citing=">
+				<file_name>refacon.html</file_name>
 				<title>
 					<ru>Цитируемые авторы по 5-ти фрагментам 
 					</ru>
@@ -4787,7 +4787,7 @@
 
 				<desc>
 					<ru> - для каждого цитируемого автора приводится
-						количество цитирований в публикациях "поставщиков" и в Сиртек в
+						количество цитирований в публикациях "потребителей" и в Сиртек в
 						целом, а также распределения этих цитирований по 5-ти
 						фрагментам
 					</ru>
@@ -4808,8 +4808,8 @@
 
 			</item>
 			
-			<item num="4" id="focisup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/?cited=">
-				<file_name>focisup.html</file_name>
+			<item num="4" id="focicon" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/?citing=">
+				<file_name>focicon.html</file_name>
 				<title>
 					<ru>Распределение цитирований по 5-ти фрагментам для
 						со-цитируемых авторов
@@ -4839,8 +4839,8 @@
 
 			</item>
 
-			<item num="5" id="caucsup" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/?cited=">
-				<file_name>caucsup.html</file_name>
+			<item num="5" id="cauccon" source="http://cirtec.ranepa.ru/cirtec/frags/cocitauthors/cocitauthors/?citing=">
+				<file_name>cauccon.html</file_name>
 				<title>
 					<ru>Распределение цитирований по 5-ти фрагментам для
 						цитируемых авторов, включая со-цитирования
@@ -4871,8 +4871,8 @@
 
 			</item>
 
-			<item num="6" id="fratsup" source="http://cirtec.ranepa.ru/cirtec/frags/topics/?cited=">
-				<file_name>fratsup.html</file_name>
+			<item num="6" id="fratcon" source="http://cirtec.ranepa.ru/cirtec/frags/topics/?citing=">
+				<file_name>fratcon.html</file_name>
 				<title>
 					<ru>Распределение топиков по 5-ти фрагментам
 					</ru>
@@ -4899,8 +4899,8 @@
 
 			</item>
 
-			<item num="7" id="legnsup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;cited=">
-				<file_name>legnsup.html</file_name>
+			<item num="7" id="legncon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;citing=">
+				<file_name>legncon.html</file_name>
 				<title>
 					<ru>Распределение фраз по 5-ти фрагментам
 					</ru>
@@ -4929,8 +4929,8 @@
 
 			</item>
 
-			<item num="8" id="tantsup" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/?cited=">
-				<file_name>tantsup.html</file_name>
+			<item num="8" id="tantcon" source="http://cirtec.ranepa.ru/cirtec/frags/pos_neg/contexts/?citing=">
+				<file_name>tantcon.html</file_name>
 				<title>
 					<ru>Распределение тональности по 5-ти фрагментам
 					</ru>
