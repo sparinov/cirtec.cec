@@ -1632,16 +1632,16 @@
 
 			</item>
 
-			<item num="7" id="legn" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;author=">
+			<item num="7" id="legn" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;topn=100&amp;author=">
 				<file_name>legn.html</file_name>
 				<title>
-					<ru>Распределение фраз по 5-ти фрагментам
+					<ru>Распределение 100 топ фраз по 5-ти фрагментам
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - для каждой из 10 наиболее повторяющихся фраз
+					<ru> - для каждой из 100 наиболее повторяющихся фраз
 						приводится количество повторов и их распределение по 5-ти
 						фрагментам
 					</ru>
@@ -3264,16 +3264,16 @@
 
 			</item>
 
-			<item num="7" id="legnsup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;cited=">
+			<item num="7" id="legnsup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;topn=100&amp;cited=">
 				<file_name>legnsup.html</file_name>
 				<title>
-					<ru>Распределение фраз по 5-ти фрагментам
+					<ru>Распределение 100 топ фраз по 5-ти фрагментам
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - для каждой из 10 наиболее повторяющихся фраз
+					<ru> - для каждой из 100 наиболее повторяющихся фраз
 						приводится количество повторов и их распределение по 5-ти
 						фрагментам
 					</ru>
@@ -4899,16 +4899,16 @@
 
 			</item>
 
-			<item num="7" id="legncon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;citing=">
+			<item num="7" id="legncon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/?ltype=lemmas&amp;topn=100&amp;citing=">
 				<file_name>legncon.html</file_name>
 				<title>
-					<ru>Распределение фраз по 5-ти фрагментам
+					<ru>Распределение 100 топ фраз по 5-ти фрагментам
 					</ru>
 					<en>will be added</en>
 				</title>
 
 				<desc>
-					<ru> - для каждой из 10 наиболее повторяющихся фраз
+					<ru> - для каждой из 100 наиболее повторяющихся фраз
 						приводится количество повторов и их распределение по 5-ти
 						фрагментам
 					</ru>
