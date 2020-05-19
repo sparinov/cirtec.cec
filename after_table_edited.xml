@@ -1047,7 +1047,7 @@
 				</expl>
 
 			</item>
-			<item num="10" id="2210" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?author=">
+			<item num="10" id="2210" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?ltype=lemmas&amp;author=">
 				<file_name>2210.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
@@ -2695,7 +2695,7 @@
 				</expl>
 
 			</item>
-			<item num="10" id="2210sup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?cited=">
+			<item num="10" id="2210sup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?ltype=lemmas&amp;cited=">
 				<file_name>2210sup.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
@@ -4330,7 +4330,7 @@
 				</expl>
 
 			</item>
-			<item num="10" id="2210con" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?citing=">
+			<item num="10" id="2210con" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/ngramms/?ltype=lemmas&amp;citing=">
 				<file_name>2210con.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом и распределение по 5-ти фрагментам 
