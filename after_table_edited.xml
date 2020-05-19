@@ -1160,7 +1160,7 @@
 
 			</item>
 
-			<item num="3" id="tang" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?author=">
+			<item num="3" id="tang" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?ltype=lemmas&amp;author=">
 				<file_name>tang.html</file_name>
 				<title>
 					<ru>Тональность для фраз
@@ -2808,7 +2808,7 @@
 
 			</item>
 
-			<item num="3" id="tangsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?cited=">
+			<item num="3" id="tangsup" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?ltype=lemmas&amp;cited=">
 				<file_name>tangsup.html</file_name>
 				<title>
 					<ru>Тональность для фраз
@@ -4443,7 +4443,7 @@
 
 			</item>
 
-			<item num="3" id="tangcon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?citing=">
+			<item num="3" id="tangcon" source="http://cirtec.ranepa.ru/cirtec/pos_neg/ngramms/?ltype=lemmas&amp;citing=">
 				<file_name>tangcon.html</file_name>
 				<title>
 					<ru>Тональность для фраз
