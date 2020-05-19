@@ -1018,7 +1018,7 @@
 				</expl>
 
 			</item>
-			<item num="9" id="229" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?author=">
+			<item num="9" id="229" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?ltype=lemmas&amp;author=">
 				<file_name>229.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
@@ -2666,7 +2666,7 @@
 				</expl>
 
 			</item>
-			<item num="9" id="229sup" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?cited=">
+			<item num="9" id="229sup" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?ltype=lemmas&amp;cited=">
 				<file_name>229sup.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
@@ -4301,7 +4301,7 @@
 				</expl>
 
 			</item>
-			<item num="9" id="229con" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?citing=">
+			<item num="9" id="229con" source="http://cirtec.ranepa.ru/cirtec/publ/ngramms/ngramms/?ltype=lemmas&amp;citing=">
 				<file_name>229con.html</file_name>
 				<title>
 					<ru>Фразы, их связи друг с другом через общие контексты цитирований и публикации
