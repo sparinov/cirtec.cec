@@ -866,7 +866,7 @@
 
 			</item>
 
-			<item num="4" id="fato" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;author=">
+			<item num="4" id="fato" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;topn=500&amp;author=">
 				<file_name>fato.html</file_name>
 				<title>
 					<ru>Фразы, топики и их распределение по 5-ти
@@ -2514,7 +2514,7 @@
 
 			</item>
 
-			<item num="4" id="fatosup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;cited=">
+			<item num="4" id="fatosup" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;topn=500&amp;cited=">
 				<file_name>fatosup.html</file_name>
 				<title>
 					<ru>Фразы, топики и их распределение по 5-ти
@@ -4149,7 +4149,7 @@
 
 			</item>
 
-			<item num="4" id="fatocon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;citing=">
+			<item num="4" id="fatocon" source="http://cirtec.ranepa.ru/cirtec/frags/ngramms/topics/?ltype=lemmas&amp;topn=500&amp;citing=">
 				<file_name>fatocon.html</file_name>
 				<title>
 					<ru>Фразы, топики и их распределение по 5-ти
