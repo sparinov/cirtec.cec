@@ -3,6 +3,37 @@
 	<base_url>http://cirtec.ranepa.ru/groups/authors/</base_url>
 	<dir>bindles/</dir>
 
+	<title>
+		<ru>Показатели участия автора в системе научной кооперации на базе публикаций</ru>
+		<en>Indicators of authors' participation in research cooperation by publications</en>
+	</title>
+	
+	<authors>
+		<author fio="Синельников-Мурылев Сергей Германович" homepage="https://rosa.ranepa.ru/author/?3440">Sergey-Sinelnikov-Murylev</author>
+		<author fio="Кнобель Александр" homepage="https://rosa.ranepa.ru/author/?1761">Alexander-Knobel</author>
+		<author fio="Радыгин Александр" homepage="https://rosa.ranepa.ru/author/?1196">Alexander-Radygin</author>
+		<author fio="Божечкова Александра" homepage="https://www.iep.ru/ru/person/bozhechkova-aleksandra-viktorovna.html">Alexandra-Bozhechkova</author>
+		<author fio="Шастико Андрей" homepage="https://rosa.ranepa.ru/author/?1327">Andrey-Shastitko</author>
+		<author fio="Казакова Мария" homepage="https://rosa.ranepa.ru/author/?523">Maria-Kazakova</author>
+		<author fio="Шагайда Наталья" homepage="https://rosa.ranepa.ru/author/?1312">Natalia-Shagaida</author>
+		<author fio="Трунин Павел" homepage="https://rosa.ranepa.ru/author/?1831">Pavel-Trunin</author>
+		<author fio="Дробышевский Сергей" homepage="https://www.iep.ru/ru/person/drobyshevskii-sergei-mikhailovich.html">Sergey-Drobyshevsky</author>
+		<author fio="Узун Василий" homepage="https://rosa.ranepa.ru/author/?1560">Vasily-Uzun</author>
+		<author fio="Мау Владимир" homepage="https://rosa.ranepa.ru/author/?902">Vladimir-Mau</author>
+		<author fio="Baum Christopher" homepage="https://sociorepec.org/pub.xml?h=repec:per:pers:pba1&l=en">Christopher-Baum</author>
+	</authors>
+
+	<intro>
+		<ru>Предлагается система показателей, постронных на основе содержания цитирований из групп публикаций, 
+			связанных с заданным автором: 1) публикации заданного автора; 2) публикации, цитируемые заданным автором, 
+			авторы которых являются "поставщиками" для заданного автора; и 3) публикации, в которых цитируется 
+			заданный автор, т.е. авторы которых являются "потребителями". 
+			характеризующих участие автора в научной кооперации на базе 
+		</ru>
+		<en>будет добавлено</en>
+	</intro>
+
+
 	<footnote>
 		<ru> - общее количество источников, включая их повторы в разных публикациях
 		</ru>
