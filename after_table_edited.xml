@@ -264,7 +264,7 @@
 
 		</item>
 		
-		<item num="2" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;author=">
+		<item num="2" id="pung" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;topn=200&amp;author=">
 			<file_name>pung.html</file_name>
 			<title>
 				<ru>Наиболее часто повторяющиеся фразы и их распределение по публикациям заданного автора
@@ -1919,7 +1919,7 @@
 
 		</item>
 		
-		<item num="2" id="pungsup" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;cited=">
+		<item num="2" id="pungsup" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;topn=200&amp;cited=">
 			<file_name>pungsup.html</file_name>
 			<title>
 				<ru>Наиболее часто повторяющиеся фразы и их распределение по публикациям "поставщиков"
@@ -3552,7 +3552,7 @@
 
 		</item>
 		
-		<item num="2" id="pungcon" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;citing=">
+		<item num="2" id="pungcon" source="http://cirtec.ranepa.ru/cirtec/top/ngramms/publications/?ltype=lemmas&amp;topn=200&amp;citing=">
 			<file_name>pungcon.html</file_name>
 			<title>
 				<ru>Наиболее часто повторяющиеся фразы и их распределение по публикациям "потребителей"
