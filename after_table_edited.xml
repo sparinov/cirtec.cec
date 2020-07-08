@@ -88,8 +88,8 @@
 			</descr>
 		
 		
-		<item num="1" id="nodb" source="http://onir2.ranepa.ru:8081/cgi/tree.cgi?topic=linked_papers&amp;c=">
-			<file_name>no</file_name>
+		<item num="1">
+			<file_name>/cgi/tree.cgi?topic=linked_papers&amp;c=</file_name>
 			<title>
 				<ru>Диаграмма "деревьев" топиков для контекстов цитирований из публикаций заданного автора
 				</ru>
@@ -120,8 +120,8 @@
 
 		</item>
 
-		<item num="2" id="nodb" source="http://onir2.ranepa.ru:8081/cgi/tree.cgi?topic=cited_papers&amp;c=">
-			<file_name>no</file_name>
+		<item num="2">
+			<file_name>/cgi/tree.cgi?topic=cited_papers&amp;c=</file_name>
 			<title>
 				<ru>Деревьев топиков для контекстов цитирований из публикаций, которые заданный автор цитирует
 				</ru>
@@ -150,8 +150,8 @@
 
 		</item>
 
-		<item num="3" id="nodb" source="http://onir2.ranepa.ru:8081/cgi/tree.cgi?topic=citing_papers&amp;c=">
-			<file_name>no</file_name>
+		<item num="3">
+			<file_name>/cgi/tree.cgi?topic=citing_papers&amp;c=</file_name>
 			<title>
 				<ru>Деревьев топиков для контекстов цитирований из публикаций, цитирующих заданного автора
 				</ru>
@@ -179,8 +179,8 @@
 			</expl>
 
 		</item>
-		<item num="4" id="nodb" source="http://onir2.ranepa.ru:8081/cgi/tree.cgi?c=">
-			<file_name>no</file_name>
+		<item num="4">
+			<file_name>/cgi/tree.cgi?c=</file_name>
 			<title>
 				<ru>Сводная диаграмма "деревьев" топиков для контекстов цитирований из 3-х групп публикаций: (1) самого автора, 
 					а также (2) которые он цитирует, и (3) которые цитируют его.
