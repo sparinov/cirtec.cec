@@ -3,6 +3,60 @@
 	<base_url>http://cirtec.ranepa.ru/groups/authors/</base_url>
 	<dir>bindles/</dir>
 
+	<summary>
+		<title>
+			<ru>Исходные данные для сравнения авторов</ru>
+			<en>will be added</en>
+		</title>
+
+		<item num="1" id="sum-auth" source="http://onir2.ranepa.ru:8081/cirtec_dev/authors/stat/?atype=author&amp;probability=0.5&amp;nka=2&amp;ltype=lemmas">
+			<file_name>sum-auth.html</file_name>
+		</item>
+		<item num="2" id="sum-cited" source="http://onir2.ranepa.ru:8081/cirtec_dev/authors/stat/?atype=cited&amp;probability=0.5&amp;nka=2&amp;ltype=lemmas">
+			<file_name>sum-cited.html</file_name>
+		</item>
+		<item num="3" id="sum-citing" source="http://onir2.ranepa.ru:8081/cirtec_dev/authors/stat/?atype=citing&amp;probability=0.5&amp;nka=2&amp;ltype=lemmas">
+			<file_name>sum-citing.html</file_name>
+		</item>
+
+		<descr>
+			<ru>
+				В таблице представлены авторы и для каждого сведения о данных из контекстов цитирований
+				3-х групп связанных с ними публикаций (публикации автора, его "поставщиков" и его
+				"потребителей"). На основе этих данных авторы попарно сравниваются друг с другом.
+				Эти сравнения позволяют выяснить близость/удаленность авторов друг от друга в сети 
+				научной кооперации. 
+			</ru>
+			<en>will be added</en>
+		</descr>		
+			<legend>
+				<ru>
+					<column num="1" title="ФИО">автор со ссылкой на графики показателей его близости с другими авторами</column>
+					<column num="2" title="section">группы: author - публикации автора; cited - публикации "поставщиков"; citing - публикации "потребителей"</column>
+					<column num="3" title="pubs">количество публикаций в группе</column>
+					<column num="4" title="refs">количество уникальных источников из публикаций</column>
+					<column num="5" title="auths">количество уникальных авторов источников</column>
+					<column num="6" title="contexts">количество контекстов цитирований из публикаций</column>
+					<column num="7" title="ngramms">количество 2-х словных фраз из контекстов цитирований</column>
+					<column num="8" title="topics">количество топиков для контекстов цитирований</column>
+				</ru>
+				<en>will be added</en>
+			</legend>
+
+			<expl>
+				<ru>Пояснение к данным: Каждый автор характеризуется 3-мя группами публикаций (публикации автора,
+					"поставщиков" и "потребителей"), для каждой из
+					которых есть 4-е массива данных: 1) используемые источники (содержание списков 
+					литературы публикаций из группы); 2) авторы этих источников;
+					3) фразы из контекстов цитирований; и 4) топики для контекстов цитирований. 
+					Содержание этих массивов доступно по ссылкам от соответствующих чисел в таблице.
+					
+					Ссылка от ФИО автора ведет на графики 
+				</ru>
+				<en>will be added</en>
+			</expl>
+	</summary>
+	
 	<title>
 		<ru>Показатели участия автора в системе научной кооперации на базе публикаций</ru>
 		<en>Indicators of authors' participation in research cooperation by publications</en>
